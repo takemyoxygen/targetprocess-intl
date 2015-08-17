@@ -1,0 +1,22 @@
+{
+  "name": "targetprocess-intl",
+  "version": "0.0.1",
+  "description": "\"Dictionaries of translations for localization targetprocess\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TargetProcess/targetprocess-intl.git"
+  },
+  "keywords": [
+    "\"targetprocess\""
+  ],
+  "author": "Targetprocess",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TargetProcess/targetprocess-intl/issues"
+  },
+  "homepage": "https://github.com/TargetProcess/targetprocess-intl#readme"
+}
