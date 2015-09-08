@@ -190,5 +190,7 @@
     "Templates": "Templates",
     "Timeline": "Timeline",
     "Turn prioritization on/off": "Turn prioritization on/off",
-    "Color": "Color"
+    "Color": "Color",
+    "The new interface language will be applied after <span class=\"i-role-refresh\">refresh</span>": "The new interface language will be applied after <span class=\"i-role-refresh\">refresh</span>",
+    "{type} {name} was added.": "{type} {name} was added."
 }
