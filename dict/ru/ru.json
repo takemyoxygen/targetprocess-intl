@@ -1,6 +1,6 @@
 {
     "Add": "Добавить",
-    "Add rule": "Добавить правило подсветки цветом",
+    "Add rule": "Добавить правило",
     "Assignments": "Assignments",
     "Create": "Создать",
     "Create new Groups and Views": "Create new Groups and Views",
@@ -44,7 +44,7 @@
     " and the ": "and the",
     "'{teamStateName}' state for the '{teamName}' team": "'{teamStateName}' state for the '{teamName}' team",
     "The {statesForTeams} are mapped to the same project state '{stateName}'.": "The {statesForTeams} are mapped to the same project state '{stateName}'.",
-    "The allocation start date must be earlier than the allocation end date.": "The allocation start date must be earlier than the allocation end date.",
+    "The allocation start date must be earlier than the allocation end date.": "Дата начала назначения должна быть раньше даты конца назначения",
     "The allocation percentage must be in the 1-100% range.": "The allocation percentage must be in the 1-100% range.",
     "The allocation start date must be later than the {entityKind} {startDateText}: {startDate}  {details}": "The allocation start date must be later than the {entityKind} {startDateText}: {startDate}  {details}",
     "The allocation start date must be earlier than the {entityKind} {endDateText}: {endDate}  {details}": "The allocation start date must be earlier than the {entityKind} {endDateText}: {endDate}  {details}",
