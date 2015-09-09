@@ -192,5 +192,5 @@
     "Turn prioritization on/off": "Turn prioritization on/off",
     "Color": "Color",
     "The new interface language will be applied after <span class=\"i-role-refresh\">refresh</span>": "Новый язык будет применен после <span class=\"i-role-refresh\">обновления страницы</span>",
-    "{type} {name} was added.": "Сущность {type} с именем {name} была добавлена"
+    "{type} {name} was added.": "Сущность <mark> {type} </mark> с именем {name} была добавлена"
 }
