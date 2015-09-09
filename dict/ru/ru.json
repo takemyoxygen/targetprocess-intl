@@ -191,6 +191,6 @@
     "Timeline": "Timeline",
     "Turn prioritization on/off": "Turn prioritization on/off",
     "Color": "Color",
-    "The new interface language will be applied after <span class=\"i-role-refresh\">refresh</span>": "The new interface language will be applied after <span class=\"i-role-refresh\">refresh</span>",
-    "{type} {name} was added.": "{type} {name} was added."
+    "The new interface language will be applied after <span class=\"i-role-refresh\">refresh</span>": "Новый язык будет применен после <span class=\"i-role-refresh\">обновления страницы</span>",
+    "{type} {name} was added.": "{type} {name} было добавлено"
 }
