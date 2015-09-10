@@ -265,7 +265,7 @@
     "Team Iterations velocity trend": "Team Iterations velocity trend",
     "The color you specified can’t be used in this report. Please remove it as otherwise invalid data may be displayed.": "Цвет не может быть указан в данном репорте. Пожалуйста, удалите его, так как иначе данные могут быть отображены не верно.",
     "The count of User Stories and Bugs for each tag": "The count of User Stories and Bugs for each tag",
-    "The data will remain safe.": "The data will remain safe.",
+    "The data will remain safe.": "Данные сохранятся",
     "The effort completed by each person for any release that is current": "The effort completed by each person for any release that is current",
     "The number of hours per month a person spent on each entity type for the last year": "The number of hours per month a person spent on each entity type for the last year",
     "The number of hours spent by each person for every iteration in the last year": "The number of hours spent by each person for every iteration in the last year",
@@ -286,7 +286,7 @@
     "Time Spent by Team": "Time Spent by Team",
     "Time Spent by Team Iteration": "Time Spent by Team Iteration",
     "ToDo and Completed work by Features": "ToDo and Completed work by Features",
-    "Too many facets": "Too many facets",
+    "Too many facets": "Слишком много фасетов",
     "Total effort assigned to persons for all current releases": "Суммарные трудозатраты, назначенные на людей в текущих релизах",
     "User Stories Business Value vs. Effort": "User Stories Business Value vs. Effort",
     "User Stories and Bugs completion trend by month by Project": "User Stories and Bugs completion trend by month by Project",
@@ -296,8 +296,8 @@
     "What Features have many Bugs and Blockers": "What Features have many Bugs and Blockers",
     "Work by Tags": "Work by Tags",
     "Work progress by Features": "Work progress by Features",
-    "You have {axes}, so the resulting report has {facetsCount} facets and it is too large to display. Use filters to narrow down {axesNames} axes to have less than 100 facets.": "You have {axes}, so the resulting report has {facetsCount} facets and it is too large to display. Use filters to narrow down {axesNames} axes to have less than 100 facets.",
-    "You selected too many categories, so we show only 500 categories instead. <b>Use filters</b> to narrow down the data.": "You selected too many categories, so we show only 500 categories instead. <b>Use filters</b> to narrow down the data.",
+    "You have {axes}, so the resulting report has {facetsCount} facets and it is too large to display. Use filters to narrow down {axesNames} axes to have less than 100 facets.": "Вы задали {axes}, поэтому репорт включает {facetsCount} и он слишком большой для отображения. Используйте фильтры, чтобы ограничить {axesNames} и получить не более 100 фасетов.",
+    "You selected too many categories, so we show only 500 categories instead. <b>Use filters</b> to narrow down the data.": "Вы выбрали слишком много категорий, будет показано только 500 категорий. <b>Используйте фильтры</b>, чтобы ограничить набор данных.",
     "and": "and",
     "more": "more"
 }
