@@ -296,8 +296,8 @@
     "What Features have many Bugs and Blockers": "What Features have many Bugs and Blockers",
     "Work by Tags": "Work by Tags",
     "Work progress by Features": "Work progress by Features",
-    "You have {axes}, so the resulting report has {facetsCount} facets and it is too large to display. Use filters to narrow down {axesNames} axes to have less than 100 facets.": "Вы задали {axes}, поэтому репорт включает {facetsCount} и он слишком большой для отображения. Используйте фильтры, чтобы ограничить {axesNames} и получить не более 100 фасетов.",
+    "You have {axes}, so the resulting report has {facetsCount} facets and it is too large to display. Use filters to narrow down {axesNames} axes to have less than 100 facets.": "Вы задали {axes}, поэтому репорт включает {facetsCount} фасетов и он слишком большой для отображения. Используйте фильтры, чтобы ограничить {axesNames} и получить не более 100 фасетов.",
     "You selected too many categories, so we show only 500 categories instead. <b>Use filters</b> to narrow down the data.": "Вы выбрали слишком много категорий, будет показано только 500 категорий. <b>Используйте фильтры</b>, чтобы ограничить набор данных.",
-    "and": "and",
-    "more": "more"
+    "and": "и",
+    "more": "другие"
 }
