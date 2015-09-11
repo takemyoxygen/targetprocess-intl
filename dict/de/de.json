@@ -322,5 +322,8 @@
     "Time": "Time",
     "Velocity": "Velocity",
     "View": "View",
-    "Views": "Views"
+    "Views": "Views",
+    "Limits for {axisName}": "Limits for {axisName}",
+    "There's no work in progress.": "There's no work in progress.",
+    "You need to set States or Team States as a horizontal or vertical lane to activate this tab": "You need to set States or Team States as a horizontal or vertical lane to activate this tab"
 }
