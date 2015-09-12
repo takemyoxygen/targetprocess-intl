@@ -331,5 +331,11 @@
     "Search": "Search",
     "Clone {view}": "Клонировать {view}",
     "Do you really want to delete this {view}": "Вы, действительно, хотите удалить этот {view}?",
-    "Remove {view}": "Удалить {view}"
+    "Remove {view}": "Удалить {view}",
+    "Project Allocation Start Date should be earlier than Project Allocation End Date.": "Project Allocation Start Date should be earlier than Project Allocation End Date.",
+    "Project Allocation Start Date should be later than Project Start Date.": "Project Allocation Start Date should be later than Project Start Date.",
+    "Project Allocation Start Date should be earlier than Project End Date.": "Project Allocation Start Date should be earlier than Project End Date.",
+    "Project Allocation End Date should be earlier than Project End Date.": "Project Allocation End Date should be earlier than Project End Date.",
+    "Project Allocation End Date should be later than Project Start Date.": "Project Allocation End Date should be later than Project Start Date.",
+    "Allocation could not exceed 100 percent for one project.": "Allocation could not exceed 100 percent for one project."
 }

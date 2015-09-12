@@ -331,5 +331,11 @@
     "Search": "Search",
     "Clone {view}": "Clone {view}",
     "Do you really want to delete this {view}": "Do you really want to delete this {view}",
-    "Remove {view}": "Remove {view}"
+    "Remove {view}": "Remove {view}",
+    "Project Allocation Start Date should be earlier than Project Allocation End Date.": "Project Allocation Start Date should be earlier than Project Allocation End Date.",
+    "Project Allocation Start Date should be later than Project Start Date.": "Project Allocation Start Date should be later than Project Start Date.",
+    "Project Allocation Start Date should be earlier than Project End Date.": "Project Allocation Start Date should be earlier than Project End Date.",
+    "Project Allocation End Date should be earlier than Project End Date.": "Project Allocation End Date should be earlier than Project End Date.",
+    "Project Allocation End Date should be later than Project Start Date.": "Project Allocation End Date should be later than Project Start Date.",
+    "Allocation could not exceed 100 percent for one project.": "Allocation could not exceed 100 percent for one project."
 }
