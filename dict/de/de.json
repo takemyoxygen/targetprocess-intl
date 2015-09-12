@@ -429,5 +429,6 @@
     "ToDo List": "ToDo List",
     "All open work assigned to you": "All open work assigned to you",
     "Only the first {count} cards are shown": "Only the first {count} cards are shown",
-    "You have no assigned work. Get some rest!": "You have no assigned work. Get some rest!"
+    "You have no assigned work. Get some rest!": "You have no assigned work. Get some rest!",
+    "No state changes in {daysCount} days": "No state changes in {daysCount} days"
 }
