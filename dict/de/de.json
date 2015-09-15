@@ -434,5 +434,7 @@
     "Show comments": "Show comments",
     "Comments from entities you follow, set as an owner or assigned to": "Comments from entities you follow, set as an owner or assigned to",
     "Related to me": "Related to me",
-    "Filter": "Filter"
+    "Filter": "Filter",
+    "Follow": "Follow",
+    "There is nothing to show. {follow} an entity to see changes!": "There is nothing to show. {follow} an entity to see changes!"
 }
