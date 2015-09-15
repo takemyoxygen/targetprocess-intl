@@ -15,7 +15,7 @@
     "No teams have been selected from the project and team selector. <br/>Select some teams to assign work to them.": "No teams have been selected from the project and team selector. <br/>Select some teams to assign work to them.",
     "Please enter email": "Please enter email",
     "Please enter login": "Please enter login",
-    "Please provide weekly hours": "Please provide weekly hours",
+    "Please provide weekly hours": "Часы",
     "Quick add work and people": "Quick add work and people",
     "Read more": "Read more",
     "Set limits to work in progress": "Set limits to work in progress",
@@ -495,13 +495,13 @@
     "Customize Workflow": "Customize Workflow",
     "Burn Down for": "Burn Down для",
     "Estimate in": "Оценка в",
-    "Points": "Points",
+    "Points": "Пункты",
     "Hours": "Hours",
     "Start Date": "Дата Старта",
     "Weekends": "Выходные",
     "Include {bugs}": "Включить {bugs}",
     "Select {projects} or {teams} with {releases} or {iterations} in top menu": "Select {projects} or {teams} with {releases} or {iterations} in top menu",
-    "report": "report",
+    "report": "репорт",
     "Please choose a {view}..": "Please choose a {view}..",
-    "list": "list"
+    "list": "список"
 }
