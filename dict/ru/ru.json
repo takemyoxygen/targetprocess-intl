@@ -492,5 +492,16 @@
     "Change sorting criteria": "Change sorting criteria",
     "Sort": "Sort",
     "Change sorting order": "Change sorting order",
-    "Customize Workflow": "Customize Workflow"
+    "Customize Workflow": "Customize Workflow",
+    "Burn Down for": "Burn Down для",
+    "Estimate in": "Оценка в",
+    "Points": "Points",
+    "Hours": "Hours",
+    "Start Date": "Дата Старта",
+    "Weekends": "Выходные",
+    "Include {bugs}": "Включить {bugs}",
+    "Select {projects} or {teams} with {releases} or {iterations} in top menu": "Select {projects} or {teams} with {releases} or {iterations} in top menu",
+    "report": "report",
+    "Please choose a {view}..": "Please choose a {view}..",
+    "list": "list"
 }
