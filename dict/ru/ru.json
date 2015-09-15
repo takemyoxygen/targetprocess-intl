@@ -502,6 +502,6 @@
     "Include {bugs}": "Включить {bugs}",
     "Select {projects} or {teams} with {releases} or {iterations} in top menu": "Select {projects} or {teams} with {releases} or {iterations} in top menu",
     "report": "репорт",
-    "Please choose a {view}..": "Please choose a {view}..",
+    "Please choose a {view}..": "Пожалуйста, выберите {view}..",
     "list": "список"
 }
