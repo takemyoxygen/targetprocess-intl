@@ -432,7 +432,7 @@
     "You have no assigned work. Get some rest!": "На Вас не назначена работа. Отдохните немного!",
     "No state changes in {daysCount} days": "Статус не был изменен в течение {daysCount} дней",
     "Show comments": "Показать комментарии",
-    "Comments from entities you follow, set as an owner or assigned to": "Комментарии по сущностям, которые вы 'фоловите', поставить как автора или назначить",
+    "Comments from entities you follow, set as an owner or assigned to": "Комментарии по сущностям, которые вы 'фоловите', являетесь автором или назначены на них",
     "Related to me": "Относящиеся ко мне",
     "Filter": "Фильтр",
     "Follow": "Нужно сделать Follow",
