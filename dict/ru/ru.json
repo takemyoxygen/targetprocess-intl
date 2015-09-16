@@ -189,7 +189,7 @@
     "Setup": "Настройка",
     "Templates": "Шаблоны",
     "Timeline": "Timeline",
-    "Turn prioritization on/off": "Turn prioritization on/off",
+    "Turn prioritization on/off": "Включить/выключить приоритезацию",
     "Color": "Color",
     "The new interface language will be applied after <span class=\"i-role-refresh\">refresh</span>": "Новый язык будет применен после <span class=\"i-role-refresh\">обновления страницы</span>",
     "{type} {name} was added.": "Сущность {type} с именем {name} была добавлена",
