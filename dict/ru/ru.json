@@ -492,7 +492,7 @@
     "Change sorting criteria": "Изменить критерий сортировки",
     "Sort": "Сортировать",
     "Change sorting order": "Изменить порядок сортировки",
-    "Customize Workflow": "Customize Workflow",
+    "Customize Workflow": "Настроить процесс работы",
     "Burn Down for": "Burn Down для",
     "Estimate in": "Оценка в",
     "Points": "Пункты",
@@ -526,5 +526,17 @@
     "See all lanes": "See all lanes",
     "Board": "Board",
     "One by one": "One by one",
-    "List": "List"
+    "List": "List",
+    "Yes, I'm sure": "Yes, I'm sure",
+    "Do you really want to convert {fromTerm} to {toTerm}?": "Do you really want to convert {fromTerm} to {toTerm}?",
+    "Change Assignment and Effort": "Change Assignment and Effort",
+    "Change Tags": "Change Tags",
+    "Server is not available": "Server is not available",
+    "Loading": "Loading",
+    "Convert to": "Convert to",
+    "Copy to project": "Copy to project",
+    "Delete": "Delete",
+    "Edit": "Edit",
+    "Plan": "Plan",
+    "Unplan": "Unplan"
 }
