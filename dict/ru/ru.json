@@ -437,7 +437,7 @@
     "Filter": "Фильтр",
     "Follow": "Нужно сделать Follow",
     "There is nothing to show. {follow} an entity to see changes!": "Вы ничего не фоловите. {follow} какой-либо сущности, чтобы видеть изменения!",
-    "People will be notified that you've shared a {viewType} with them": "People will be notified that you've shared a {viewType} with them",
+    "People will be notified that you've shared a {viewType} with them": "Люди получат нотификацию, что вы расшарили {viewType} с ними",
     "You can not edit Access because it is inherited from parent Group": "You can not edit Access because it is inherited from parent Group",
     "You can not edit Access because you are not admin or owner of this {viewType}": "You can not edit Access because you are not admin or owner of this {viewType}",
     "Send notification": "Send notification",
