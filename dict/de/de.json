@@ -539,5 +539,17 @@
     "Edit": "Edit",
     "Plan": "Plan",
     "Unplan": "Unplan",
-    "Cancel": "Cancel"
+    "Cancel": "Cancel",
+    "Print cards": "Print cards",
+    "Export": "Export",
+    "Save as Template": "Save as Template",
+    "Name": "Name",
+    "Description": "Description",
+    "Tags, comma separated": "Tags, comma separated",
+    "- only basic info, just one line. Could be a card name or ID.": "- only basic info, just one line. Could be a card name or ID.",
+    "- a bit more info fits in here: two lines e.g. a card name + avatars of assigned people.": "- a bit more info fits in here: two lines e.g. a card name + avatars of assigned people.",
+    "- still more info: three lines. Could be a card name + tags + avatars and time spent.": "- still more info: three lines. Could be a card name + tags + avatars and time spent.",
+    "- this size is for the detailed info. Unlimited lines.": "- this size is for the detailed info. Unlimited lines.",
+    "- a maxi stretch fit. That is how a card looks in the list-like mode.": "- a maxi stretch fit. That is how a card looks in the list-like mode.",
+    "- displays maximum info in minimum space. Unlimited nested lists are allowed.": "- displays maximum info in minimum space. Unlimited nested lists are allowed."
 }
