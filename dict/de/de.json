@@ -552,5 +552,10 @@
     "- this size is for the detailed info. Unlimited lines.": "- this size is for the detailed info. Unlimited lines.",
     "- a maxi stretch fit. That is how a card looks in the list-like mode.": "- a maxi stretch fit. That is how a card looks in the list-like mode.",
     "- displays maximum info in minimum space. Unlimited nested lists are allowed.": "- displays maximum info in minimum space. Unlimited nested lists are allowed.",
-    "The color you specified can't be used in this report. Please remove it as otherwise invalid data may be displayed.": "The color you specified can't be used in this report. Please remove it as otherwise invalid data may be displayed."
+    "The color you specified can't be used in this report. Please remove it as otherwise invalid data may be displayed.": "The color you specified can't be used in this report. Please remove it as otherwise invalid data may be displayed.",
+    "Do you really want to remove this {viewTypeName}": "Do you really want to remove this {viewTypeName}",
+    "Yikes...! Nothing in there :-|": "Yikes...! Nothing in there :-|",
+    "Set up your board View": "Set up your board View",
+    "Select process to customize:": "Select process to customize:",
+    "You have no permissions to edit the process": "You have no permissions to edit the process"
 }
