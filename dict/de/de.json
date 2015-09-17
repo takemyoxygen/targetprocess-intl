@@ -563,5 +563,13 @@
     "still more info: three lines. Could be a card name + tags + avatars and time spent.": "still more info: three lines. Could be a card name + tags + avatars and time spent.",
     "this size is for the detailed info. Unlimited lines.": "this size is for the detailed info. Unlimited lines.",
     "a maxi stretch fit. That is how a card looks in the list-like mode.": "a maxi stretch fit. That is how a card looks in the list-like mode.",
-    "displays maximum info in minimum space. Unlimited nested lists are allowed.": "displays maximum info in minimum space. Unlimited nested lists are allowed."
+    "displays maximum info in minimum space. Unlimited nested lists are allowed.": "displays maximum info in minimum space. Unlimited nested lists are allowed.",
+    "Incorrect date format": "Incorrect date format",
+    "This is a required field": "This is a required field",
+    "Incorrect percentage format": "Incorrect percentage format",
+    "End Date": "End Date",
+    "Percentage": "Percentage",
+    "Allocation": "Allocation",
+    "Link to project start": "Link to project start",
+    "Link to project end": "Link to project end"
 }

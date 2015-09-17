@@ -563,5 +563,13 @@
     "still more info: three lines. Could be a card name + tags + avatars and time spent.": " еще немного больше информации: 3 линии. Может быть название карточки + тэги + аватарки и потраченное время.",
     "this size is for the detailed info. Unlimited lines.": "этот размер для детальной информации. Неограниченное количество линий.",
     "a maxi stretch fit. That is how a card looks in the list-like mode.": "карточка с максимальной шириной.",
-    "displays maximum info in minimum space. Unlimited nested lists are allowed.": "отображает максимум информации в минимальном пространстве. "
+    "displays maximum info in minimum space. Unlimited nested lists are allowed.": "отображает максимум информации в минимальном пространстве. ",
+    "Incorrect date format": "Неверный формат даты",
+    "This is a required field": "Это обязательное поле",
+    "Incorrect percentage format": "Неверный формат процента",
+    "End Date": "Дата Завершения",
+    "Percentage": "Процент",
+    "Allocation": "Назначение",
+    "Link to project start": "Привязана к дате старта",
+    "Link to project end": "Привязана к дате завершения"
 }
