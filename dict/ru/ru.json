@@ -81,7 +81,7 @@
     "Team name should be unique in the system": "Team name should be unique in the system",
     "{entityKind} '{thisEntityName}' start/end dates ({thisStartDate}/{thisEndDate}) are invalid. Start/End dates period overlaps {entityKind} '{conflictedEntityName}' ({conflictedStartDate}/{conflictedEndDate})": "{entityKind} '{thisEntityName}' start/end dates ({thisStartDate}/{thisEndDate}) are invalid. Start/End dates period overlaps {entityKind} '{conflictedEntityName}' ({conflictedStartDate}/{conflictedEndDate})",
     "The name should be unique": "The name should be unique",
-    "{teamsCount, plural, =1 {Team {teamsText} needs} other {Teams {teamsText} need}} to be assigned to project '{projectName}'": "{teamsCount, plural, =1 {Team {teamsText} needs} other {Teams {teamsText} need}} to be assigned to project '{projectName}'",
+    "{teamsCount, plural, =1 {Team {teamsText} needs} other {Teams {teamsText} need}} to be assigned to project '{projectName}'": "{teamsCount, plural, =1 {Команда {teamsText} должна} other {Команды {teamsText} должны}} быть назначена(ны) на проект '{projectName}'",
     "Delete Date should be null": "Delete Date should be null",
     "Url '{url}' is incorrect": "Url '{url}' is incorrect",
     "The same reference already exists": "The same reference already exists",
