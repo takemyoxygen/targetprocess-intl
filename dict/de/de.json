@@ -615,5 +615,17 @@
     "Undelete": "Undelete",
     "Group": "Group",
     "Hide Groups and Views from your menu": "Hide Groups and Views from your menu",
-    "Show hidden Groups and Views in your menu": "Show hidden Groups and Views in your menu"
+    "Show hidden Groups and Views in your menu": "Show hidden Groups and Views in your menu",
+    "workflow": "workflow",
+    "You can assign multiple teams to an entity only when they are responsible for different parts of the {entityKind} {workflowTerm}.": "You can assign multiple teams to an entity only when they are responsible for different parts of the {entityKind} {workflowTerm}.",
+    "This team can't be assigned to the {entityKind}, as there are overlapping team {workflowTerm} states.": "This team can't be assigned to the {entityKind}, as there are overlapping team {workflowTerm} states.",
+    "Feedback sent. Thank you!": "Feedback sent. Thank you!",
+    "{teamsCount, plural, =1 {Team {teamsText} is} other {Teams {teamsText} are}} now assigned to project {projectName}.": "{teamsCount, plural, =1 {Team {teamsText} is} other {Teams {teamsText} are}} now assigned to project {projectName}.",
+    "To assign work to these teams, make sure that teams have their team workflows set up for the project.": "To assign work to these teams, make sure that teams have their team workflows set up for the project.",
+    "Assign": "Assign",
+    "link will be opened in the same window": "link will be opened in the same window",
+    "Workflow setup": "Workflow setup",
+    "Read more...": "Read more...",
+    "Unable to change team workflow": "Unable to change team workflow",
+    "The new workflow will intersect with {teamNames} {teamsCount, plural, =1 {team} other {teams}}. You can resolve this conflict by unassigning multiple teams from conflicting entities or by modifying other team workflows to avoid intersections.": "The new workflow will intersect with {teamNames} {teamsCount, plural, =1 {team} other {teams}}. You can resolve this conflict by unassigning multiple teams from conflicting entities or by modifying other team workflows to avoid intersections."
 }
