@@ -38,7 +38,7 @@
     "{entityKind} cannot end earlier than it starts": "{entityKind} cannot end earlier than it starts",
     "{entityKind} {entityId} is deleted": "{entityKind} {entityId} is deleted",
     "Workflow for '{entityKind}' defined in process '{processName}' has no states with defined responsible role. At least one state with responsible role should exist to assign person to {entityKind}.": "Workflow for '{entityKind}' defined in process '{processName}' has no states with defined responsible role. At least one state with responsible role should exist to assign person to {entityKind}.",
-    "You can assign multiple teams to an entity only when they are responsible for different parts of the {entityKind} workflow": "You can assign multiple teams to an entity only when they are responsible for different parts of the {entityKind} workflow",
+    "You can assign multiple teams to an entity only when they are responsible for different parts of the {entityKind} workflow": "Вы можете назначить несколько команд на сущность, только если команды ответственны за различные части процесса работы над {entityKind}",
     "This team can't be assigned to the {entityKind}, as there are overlapping team workflow states": "This team can't be assigned to the {entityKind}, as there are overlapping team workflow states",
     "A team is considered responsible for the states in {entityKind} workflow where they have team states mapped.": "A team is considered responsible for the states in {entityKind} workflow where they have team states mapped.",
     " and the ": "and the",
