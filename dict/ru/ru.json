@@ -37,7 +37,7 @@
     "Use {maxLength} characters or fewer for {fieldName}": "Use {maxLength} characters or fewer for {fieldName}",
     "{entityKind} cannot end earlier than it starts": "{entityKind} cannot end earlier than it starts",
     "{entityKind} {entityId} is deleted": "{entityKind} {entityId} is deleted",
-    "Workflow for '{entityKind}' defined in process '{processName}' has no states with defined responsible role. At least one state with responsible role should exist to assign person to {entityKind}.": "Workflow for '{entityKind}' defined in process '{processName}' has no states with defined responsible role. At least one state with responsible role should exist to assign person to {entityKind}.",
+    "Workflow for '{entityKind}' defined in process '{processName}' has no states with defined responsible role. At least one state with responsible role should exist to assign person to {entityKind}.": "Процесс работы для '{entityKind}' определенный в процессе '{processName}' не имеет статусов с ответственной ролью. Как минимум, должен быть один статус с ответственной ролью, чтобы назначить человека на {entityKind}.",
     "You can assign multiple teams to an entity only when they are responsible for different parts of the {entityKind} workflow": "Вы можете назначить несколько команд на сущность, только если команды ответственны за различные части процесса работы над {entityKind}",
     "This team can't be assigned to the {entityKind}, as there are overlapping team workflow states": "This team can't be assigned to the {entityKind}, as there are overlapping team workflow states",
     "A team is considered responsible for the states in {entityKind} workflow where they have team states mapped.": "Команда считается ответственной за статус в процессе работы над {entityKind}, если данный статус соответствует статусу в процессе работы команды.",
@@ -411,7 +411,7 @@
     "List view is not configured. Open a linked List view and specify its lanes and cards": "Список еще не настроен. Откройте выбранный список и выберите карточки и оси.",
     "Show top": "Отобразить последние",
     "elements": " элементов",
-    "Unable to display a widget content here": "Не возможно отобразить содержимое данного виджета здесь ",
+    "Unable to display a widget content here": "Невозможно отобразить содержимое данного виджета здесь ",
     "Some error occurred and we're not sure why": "Произошла ошибка и мы не уверены, почему",
     "Show error details": "Показать детали ошибки",
     "Please specify a link to the Tableau report you'd like to display here": "Пожалуйста, укажите ссылку на репорт из Tableau, который Вы хотите здесь показать",
@@ -626,6 +626,6 @@
     "link will be opened in the same window": "link will be opened in the same window",
     "Workflow setup": "Workflow setup",
     "Read more...": "Читать далее",
-    "Unable to change team workflow": "Не возможно изменить процесс работы команды",
+    "Unable to change team workflow": "Невозможно изменить процесс работы команды",
     "The new workflow will intersect with {teamNames} {teamsCount, plural, =1 {team} other {teams}}. You can resolve this conflict by unassigning multiple teams from conflicting entities or by modifying other team workflows to avoid intersections.": "Новый процесс работы пересекается для {teamNames} {teamsCount, plural, =1 {команды} other {команд}}. Вы можете решить этот конфликт, убрав назначение данных команд с сущностей или изменив другие процессы работы, чтобы избежать пересечений."
 }
