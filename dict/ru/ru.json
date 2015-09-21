@@ -617,7 +617,7 @@
     "Hide Groups and Views from your menu": "Спрятать Группы и Борды из Вашего меню",
     "Show hidden Groups and Views in your menu": "Показать спрятанные Группы и Борды в Вашем меню",
     "workflow": "workflow",
-    "You can assign multiple teams to an entity only when they are responsible for different parts of the {entityKind} {workflowTerm}.": "You can assign multiple teams to an entity only when they are responsible for different parts of the {entityKind} {workflowTerm}.",
+    "You can assign multiple teams to an entity only when they are responsible for different parts of the {entityKind} {workflowTerm}.": "Вы можете назначить несколько команд на сущность, только если команды ответственны за различные части процесса работы над {entityKind} {workflowTerm}.",
     "This team can't be assigned to the {entityKind}, as there are overlapping team {workflowTerm} states.": "This team can't be assigned to the {entityKind}, as there are overlapping team {workflowTerm} states.",
     "Feedback sent. Thank you!": "Feedback sent. Thank you!",
     "{teamsCount, plural, =1 {Team {teamsText} is} other {Teams {teamsText} are}} now assigned to project {projectName}.": "{teamsCount, plural, =1 {Команда {teamsText}} other {Команды {teamsText} are}} назначена(ны) на проект {projectName}.",
