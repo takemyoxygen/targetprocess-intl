@@ -40,7 +40,7 @@
     "Workflow for '{entityKind}' defined in process '{processName}' has no states with defined responsible role. At least one state with responsible role should exist to assign person to {entityKind}.": "Workflow for '{entityKind}' defined in process '{processName}' has no states with defined responsible role. At least one state with responsible role should exist to assign person to {entityKind}.",
     "You can assign multiple teams to an entity only when they are responsible for different parts of the {entityKind} workflow": "Вы можете назначить несколько команд на сущность, только если команды ответственны за различные части процесса работы над {entityKind}",
     "This team can't be assigned to the {entityKind}, as there are overlapping team workflow states": "This team can't be assigned to the {entityKind}, as there are overlapping team workflow states",
-    "A team is considered responsible for the states in {entityKind} workflow where they have team states mapped.": "A team is considered responsible for the states in {entityKind} workflow where they have team states mapped.",
+    "A team is considered responsible for the states in {entityKind} workflow where they have team states mapped.": "Команда считается ответственной за статус в процессе работы над {entityKind}, если данный статус соответствует статусу в процессе работы команды.",
     " and the ": "and the",
     "'{teamStateName}' state for the '{teamName}' team": "'{teamStateName}' state for the '{teamName}' team",
     "The {statesForTeams} are mapped to the same project state '{stateName}'.": "The {statesForTeams} are mapped to the same project state '{stateName}'.",
@@ -616,7 +616,7 @@
     "Group": "Группа",
     "Hide Groups and Views from your menu": "Спрятать Группы и Борды из Вашего меню",
     "Show hidden Groups and Views in your menu": "Показать спрятанные Группы и Борды в Вашем меню",
-    "workflow": "workflow",
+    "workflow": "процесс работы",
     "You can assign multiple teams to an entity only when they are responsible for different parts of the {entityKind} {workflowTerm}.": "Вы можете назначить несколько команд на сущность, только если команды ответственны за различные части процесса работы над {entityKind} {workflowTerm}.",
     "This team can't be assigned to the {entityKind}, as there are overlapping team {workflowTerm} states.": "This team can't be assigned to the {entityKind}, as there are overlapping team {workflowTerm} states.",
     "Feedback sent. Thank you!": "Feedback sent. Thank you!",
@@ -625,7 +625,7 @@
     "Assign": "Назначить",
     "link will be opened in the same window": "link will be opened in the same window",
     "Workflow setup": "Workflow setup",
-    "Read more...": "Read more...",
+    "Read more...": "Читать далее",
     "Unable to change team workflow": "Unable to change team workflow",
     "The new workflow will intersect with {teamNames} {teamsCount, plural, =1 {team} other {teams}}. You can resolve this conflict by unassigning multiple teams from conflicting entities or by modifying other team workflows to avoid intersections.": "The new workflow will intersect with {teamNames} {teamsCount, plural, =1 {team} other {teams}}. You can resolve this conflict by unassigning multiple teams from conflicting entities or by modifying other team workflows to avoid intersections."
 }
