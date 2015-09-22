@@ -163,7 +163,7 @@
     "Allocation could not exceed 100 percent for one project": "Allocation could not exceed 100 percent for one project",
     "Color should be specified in a hexadecimal format": "Color should be specified in a hexadecimal format",
     "The project name should be unique in the system": "The project name should be unique in the system",
-    "Cannot assign release to projects with different effort units. Project '{hourProjectName}' has 'Hour' planning unit, project '{pointProjectName}' has 'Point' planning unit.": "Cannot assign release to projects with different effort units. Project '{hourProjectName}' has 'Hour' planning unit, project '{pointProjectName}' has 'Point' planning unit.",
+    "Cannot assign release to projects with different effort units. Project '{hourProjectName}' has 'Hour' planning unit, project '{pointProjectName}' has 'Point' planning unit.": "Невозможно назначить релиз на проект с разными единицами измерения трудозатрат. Для проекта '{hourProjectName}' как единицы измерения трудозатрат выбраны 'часы', для проекта '{pointProjectName}' - 'пункты'.",
     "Release should be assigned to at least one project.": "Release should be assigned to at least one project.",
     "Severity with importance '{importance}' already exists": "Severity with importance '{importance}' already exists",
     "Severity with name '{name}' already exists": "Severity with name '{name}' already exists",
