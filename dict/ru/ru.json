@@ -124,7 +124,7 @@
     "Please choose another name for custom field. '{customFieldName}' is reserved by Targetprocess": "Please choose another name for custom field. '{customFieldName}' is reserved by Targetprocess",
     "There are no more custom fields available. The maximum number of custom fields is {maxCustomFieldCount}.": "There are no more custom fields available. The maximum number of custom fields is {maxCustomFieldCount}.",
     "The name can contain only letters, numbers, spaces and the symbols:_,.()": "The name can contain only letters, numbers, spaces and the symbols:_,.()",
-    "The name should not start with a number": "The name should not start with a number",
+    "The name should not start with a number": "Название не должно начинаться с цифры",
     "At least one Role should be not empty for Entity Type": "At least one Role should be not empty for Entity Type",
     "Name '{name}' can't contain comma character": "Name '{name}' can't contain comma character",
     "Workflow should contain one initial state": "Workflow should contain one initial state",
