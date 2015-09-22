@@ -116,7 +116,7 @@
     "Priority '{priorityName}' can not be set to entity": "Priority '{priorityName}' can not be set to entity",
     "Only administrator can change owner": "Only administrator can change owner",
     "Units could be defined only for Calculated Fields with Numeric type": "Units could be defined only for Calculated Fields with Numeric type",
-    "Make sure that this Value is in the list": "Make sure that this Value is in the list",
+    "Make sure that this Value is in the list": "Пожалуйста, проверьте, что указанное значение есть в списке",
     "Use digits in the Default value field": "Use digits in the Default value field",
     "No default values are allowed for this field type. Only the drop down, multi-select list, text and number field types can have default values": "No default values are allowed for this field type. Only the drop down, multi-select list, text and number field types can have default values",
     "The custom field could not be created for '{entityKind}'": "The custom field could not be created for '{entityKind}'",
