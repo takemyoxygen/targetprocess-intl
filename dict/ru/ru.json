@@ -554,7 +554,7 @@
     "- displays maximum info in minimum space. Unlimited nested lists are allowed.": "- отображает максимум информации в минимальном пространстве. ",
     "The color you specified can't be used in this report. Please remove it as otherwise invalid data may be displayed.": "The color you specified can't be used in this report. Please remove it as otherwise invalid data may be displayed.",
     "Do you really want to remove this {viewTypeName}": "Do you really want to remove this {viewTypeName}",
-    "Yikes...! Nothing in there :-|": "Yikes...! Nothing in there :-|",
+    "Yikes...! Nothing in there :-|": "Нет соответствующих карточек....",
     "Set up your board View": "Set up your board View",
     "Select process to customize:": "Выбрать процесс для кастомизации:",
     "You have no permissions to edit the process": "You have no permissions to edit the process",
