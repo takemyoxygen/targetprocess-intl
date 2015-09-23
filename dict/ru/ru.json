@@ -628,7 +628,7 @@
     "Read more...": "Читать далее",
     "Unable to change team workflow": "Невозможно изменить процесс работы команды",
     "The new workflow will intersect with {teamNames} {teamsCount, plural, =1 {team} other {teams}}. You can resolve this conflict by unassigning multiple teams from conflicting entities or by modifying other team workflows to avoid intersections.": "Новый процесс работы пересекается для {teamNames} {teamsCount, plural, =1 {команды} other {команд}}. Вы можете решить этот конфликт, убрав назначение данных команд с сущностей или изменив другие процессы работы, чтобы избежать пересечений.",
-    "Hold {shiftButton} to prioritize": "Hold {shiftButton} to prioritize",
+    "Hold {shiftButton} to prioritize": "Удерживайте {shiftButton} для приоритезации",
     "All columns and rows on this View are empty.": "All columns and rows on this View are empty.",
     "Refresh navigator": "Обновить навигатор",
     "Add Milestone": "Добавить Майлстоун",
