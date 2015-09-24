@@ -430,7 +430,7 @@
     "All open work assigned to you": "Вся незавершенная работа, назначенная на Вас",
     "Only the first {count} cards are shown": "Показаны только первые {count} карточек",
     "You have no assigned work. Get some rest!": "На Вас не назначена работа. Отдохните немного!",
-    "No state changes in {daysCount} days": "Статус не был изменен в течение {daysCount} {daysCount, plural, one {дня} other {дней}}",
+    "No state changes in {daysCount} days": "Статус не был изменен в течение {daysCount}",
     "Show comments": "Показать комментарии",
     "Comments from entities you follow, set as an owner or assigned to": "Комментарии по сущностям, которые вы 'фоловите', являетесь автором или назначены на них",
     "Related to me": "Относящиеся ко мне",
