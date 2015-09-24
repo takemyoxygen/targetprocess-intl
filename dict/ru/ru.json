@@ -555,7 +555,7 @@
     "The color you specified can't be used in this report. Please remove it as otherwise invalid data may be displayed.": "The color you specified can't be used in this report. Please remove it as otherwise invalid data may be displayed.",
     "Do you really want to remove this {viewTypeName}": "Do you really want to remove this {viewTypeName}",
     "Yikes...! Nothing in there :-|": "Нет соответствующих карточек....",
-    "Set up your board View": "Set up your board View",
+    "Set up your board View": "Настройте Ваш Борд",
     "Select process to customize:": "Выбрать процесс для кастомизации:",
     "You have no permissions to edit the process": "You have no permissions to edit the process",
     "only basic info, just one line. Could be a card name or ID.": "только основная информация, одна линия. Может быть название карточки или ID.",
@@ -661,7 +661,7 @@
     "Use filters": "Используйте фильтры",
     "Current": "Текущий(ая)",
     "Backlog": "Бэклог",
-    "Set up your list View": "Set up your list View",
+    "Set up your list View": "Настройте Ваш Список",
     "Set up your timeline View": "Set up your timeline View",
-    "Set up your details View": "Set up your details View"
+    "Set up your details View": "Настройте Ваш Борд с деталями карточек"
 }
