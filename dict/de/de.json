@@ -670,5 +670,11 @@
     "Planned End": "Planned End",
     "Anticipated End": "Anticipated End",
     "Are you sure?": "Are you sure?",
-    "The {entityType} will be deleted from the system": "The {entityType} will be deleted from the system"
+    "The {entityType} will be deleted from the system": "The {entityType} will be deleted from the system",
+    "Prev": "Prev",
+    "{currentRange} {totalCount,select,=0 {} other {of {totalCount}}}": "{currentRange} {totalCount,select,=0 {} other {of {totalCount}}}",
+    "Next": "Next",
+    "Entities per page": "Entities per page",
+    "click to edit": "click to edit",
+    "{rangeDateHours} {rangeDateHours, plural, one {hour} other {hours}} left": "{rangeDateHours} {rangeDateHours, plural, one {hour} other {hours}} left"
 }

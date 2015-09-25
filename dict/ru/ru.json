@@ -670,5 +670,11 @@
     "Planned End": "Planned End",
     "Anticipated End": "Anticipated End",
     "Are you sure?": "Вы уверены?",
-    "The {entityType} will be deleted from the system": "{entityType} будет удален из системы"
+    "The {entityType} will be deleted from the system": "{entityType} будет удален из системы",
+    "Prev": "Назад",
+    "{currentRange} {totalCount,select,=0 {} other {of {totalCount}}}": "{currentRange} {totalCount,select,=0 {} other {из {totalCount}}}",
+    "Next": "Вперед",
+    "Entities per page": "Сущностей на страницу",
+    "click to edit": "Кликните, чтобы редактировать",
+    "{rangeDateHours} {rangeDateHours, plural, one {hour} other {hours}} left": "{rangeDateHours} {rangeDateHours, plural, one {hour} other {hours}} left"
 }
