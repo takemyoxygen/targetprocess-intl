@@ -394,7 +394,7 @@
     "Burn Down Chart": "Burn Down репорт",
     "The Burn Down chart is a graphical representation of work left to do versus time": "Burn Down репорт - это графическое представление оставшейся работы в разрезе времени",
     "Not enough data to build this beautiful chart": "Недостаточно данных, чтобы построить этот красивый чарт",
-    "Add Release or Iteration and complete some user stories": "Добавьте релиз или итерацию и завершите несколько юзер сторей",
+    "Add Release or Iteration and complete some user stories": "Добавьте релиз или итерацию и завершите несколько юзер стори",
     "Any Report": "Любой репорт",
     "Add any existing report view to a dashboard": "Добавить любой из существующих репортов на дашборд",
     "Follow Activity": "Follow действий",
@@ -575,10 +575,10 @@
     "Currently it is visible to:": "Сейчас он доступен:",
     "Currently only you can see it.": "Сейчас только Вы можете его видеть.",
     "Projects": "Проекты",
-    "All users see this View so far.": "Все юзеры видят этот Борд сейчас.",
+    "All users see this View so far.": "Все пользователи видят этот Борд сейчас.",
     "Teams": "Команды",
     "There are no Teams nor Projects.": "Нет ни Команд, ни Проектов",
-    "This View will be visible to all users.": "Этот Борд будет доступен всем юзерам.",
+    "This View will be visible to all users.": "Этот Борд будет доступен всем пользователям.",
     "This View will be visible to you only.": "Этот Борд будет виден только Вам.",
     "This View will be visible to some Teams and Projects.": "Этот Борд будет виден некоторым Командам и Проектам",
     "This View's visibility will be changed:": "Доступность данного Борда будет изменена.",
@@ -670,5 +670,5 @@
     "Planned End": "Planned End",
     "Anticipated End": "Anticipated End",
     "Are you sure?": "Вы уверены?",
-    "The {entityType} will be deleted from the system": "The {entityType} will be deleted from the system"
+    "The {entityType} will be deleted from the system": "{entityType} будет удален из системы"
 }
