@@ -663,5 +663,10 @@
     "Backlog": "Бэклог",
     "Set up your list View": "Настройте Ваш Список",
     "Set up your timeline View": "Настройте Ваш Таймлайн",
-    "Set up your details View": "Настройте Ваш Борд с деталями карточек"
+    "Set up your details View": "Настройте Ваш Борд с деталями карточек",
+    "Start": "Start",
+    "End": "End",
+    "Planned Start": "Planned Start",
+    "Planned End": "Planned End",
+    "Anticipated End": "Anticipated End"
 }

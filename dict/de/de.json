@@ -663,5 +663,10 @@
     "Backlog": "Backlog",
     "Set up your list View": "Set up your list View",
     "Set up your timeline View": "Set up your timeline View",
-    "Set up your details View": "Set up your details View"
+    "Set up your details View": "Set up your details View",
+    "Start": "Start",
+    "End": "End",
+    "Planned Start": "Planned Start",
+    "Planned End": "Planned End",
+    "Anticipated End": "Anticipated End"
 }
