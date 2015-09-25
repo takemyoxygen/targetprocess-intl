@@ -668,5 +668,7 @@
     "End": "End",
     "Planned Start": "Planned Start",
     "Planned End": "Planned End",
-    "Anticipated End": "Anticipated End"
+    "Anticipated End": "Anticipated End",
+    "Are you sure?": "Вы уверены?",
+    "The {entityType} will be deleted from the system": "The {entityType} will be deleted from the system"
 }
