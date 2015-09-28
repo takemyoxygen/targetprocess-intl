@@ -676,6 +676,6 @@
     "Next": "Вперед",
     "Entities per page": "Сущностей на страницу",
     "click to edit": "Кликните, чтобы редактировать",
-    "{rangeDateHours} {rangeDateHours, plural, one {hour} other {hours}} left": "{rangeDateHours} {rangeDateHours, plural, one {час} other {часов}} left",
+    "{rangeDateHours} {rangeDateHours, plural, one {hour} other {hours}} left": "{rangeDateHours} {rangeDateHours, plural, one {час} other {часов}} осталось",
     "The current View settings do not allow prioritization": "Для текущего Борда не доступна приоритезация."
 }
