@@ -620,7 +620,7 @@
     "You can assign multiple teams to an entity only when they are responsible for different parts of the {entityKind} {workflowTerm}.": "Вы можете назначить несколько команд на сущность, только если команды ответственны за различные части {workflowTerm} над {entityKind} ",
     "This team can't be assigned to the {entityKind}, as there are overlapping team {workflowTerm} states.": "This team can't be assigned to the {entityKind}, as there are overlapping team {workflowTerm} states.",
     "Feedback sent. Thank you!": "Feedback sent. Thank you!",
-    "{teamsCount, plural, =1 {Team {teamsText} is} other {Teams {teamsText} are}} now assigned to project {projectName}.": "{teamsCount, plural, =1 {Команда {teamsText}} other {Команды {teamsText} are}} назначена(ны) на проект {projectName}.",
+    "{teamsCount, plural, =1 {Team {teamsText} is} other {Teams {teamsText} are}} now assigned to project {projectName}.": "{teamsCount, plural, =1 {Команда {teamsText} назначена на проект {projectName}} other {Команды {teamsText} назначены на проект {projectName}}}",
     "To assign work to these teams, make sure that teams have their team workflows set up for the project.": "To assign work to these teams, make sure that teams have their team workflows set up for the project.",
     "Assign": "Назначить",
     "link will be opened in the same window": "link will be opened in the same window",
