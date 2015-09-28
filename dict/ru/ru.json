@@ -468,7 +468,7 @@
     "You won't be able to prioritize cards by drag and drop on this View. This option is recommended if you want to lock priorities.": "Вы не сможете приоритезировать карточки перетаскиванием на данном борде. Эта опция рекомендована, если Вы хотите зафиксировать приоритеты.",
     "Prioritize only if the Shift key is pressed": "Приоритезация только при нажатом Shift",
     "You won't be able to prioritize unless the Shift key is pressed.": "Вы не сможете приоритезировать без нажатия Shift.",
-    "The current View settings do not allow prioritization.": "Для текущего борда не доступна приоритезация",
+    "The current View settings do not allow prioritization.": "Для текущего Борда не доступна приоритезация.",
     "It's either the cards cannot be prioritized together, or ranking is not applicable to them.": "Карточки или не могут быть приоритезированы вместе, или приоритезация к ним не применима",
     "Show on the timeline": "Отобразить на таймлайне",
     "Planned for Done": "Запланированное для сделанного",
@@ -676,5 +676,6 @@
     "Next": "Вперед",
     "Entities per page": "Сущностей на страницу",
     "click to edit": "Кликните, чтобы редактировать",
-    "{rangeDateHours} {rangeDateHours, plural, one {hour} other {hours}} left": "{rangeDateHours} {rangeDateHours, plural, one {hour} other {hours}} left"
+    "{rangeDateHours} {rangeDateHours, plural, one {hour} other {hours}} left": "{rangeDateHours} {rangeDateHours, plural, one {hour} other {hours}} left",
+    "The current View settings do not allow prioritization": "Для текущего Борда не доступна приоритезация."
 }

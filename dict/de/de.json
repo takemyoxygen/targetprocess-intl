@@ -676,5 +676,6 @@
     "Next": "Next",
     "Entities per page": "Entities per page",
     "click to edit": "click to edit",
-    "{rangeDateHours} {rangeDateHours, plural, one {hour} other {hours}} left": "{rangeDateHours} {rangeDateHours, plural, one {hour} other {hours}} left"
+    "{rangeDateHours} {rangeDateHours, plural, one {hour} other {hours}} left": "{rangeDateHours} {rangeDateHours, plural, one {hour} other {hours}} left",
+    "The current View settings do not allow prioritization": "The current View settings do not allow prioritization"
 }
