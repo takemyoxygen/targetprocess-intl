@@ -648,7 +648,7 @@
     "Print": "Печатать",
     "Finish": "Завершить",
     "{rangeDateDays} {rangeDateDays, plural, one {day} other {days}} left": "{rangeDateDays} {rangeDateDays, plural, one {день} other {дней}} осталось",
-    "{rangeDateHours} {rangeDateDays, plural, one {hour} other {hours}} left": "{rangeDateHours} {rangeDateDays, plural, one {час} other {часа}} осталось",
+    "{rangeDateHours} {rangeDateDays, plural, one {hour} other {hours}} left": "{rangeDateHours} {rangeDateDays, plural, one {час} other {часов}} осталось",
     "Perfect match!": "Точное соответствие!",
     "{range} left.": "{range} осталось.",
     "{range} overhead.": "{range} перегрузка.",
@@ -676,6 +676,6 @@
     "Next": "Вперед",
     "Entities per page": "Сущностей на страницу",
     "click to edit": "Кликните, чтобы редактировать",
-    "{rangeDateHours} {rangeDateHours, plural, one {hour} other {hours}} left": "{rangeDateHours} {rangeDateHours, plural, one {hour} other {hours}} left",
+    "{rangeDateHours} {rangeDateHours, plural, one {hour} other {hours}} left": "{rangeDateHours} {rangeDateHours, plural, one {час} other {часов}} left",
     "The current View settings do not allow prioritization": "Для текущего Борда не доступна приоритезация."
 }
