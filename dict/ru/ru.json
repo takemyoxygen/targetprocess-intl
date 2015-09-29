@@ -677,5 +677,11 @@
     "Entities per page": "Сущностей на страницу",
     "click to edit": "Кликните, чтобы редактировать",
     "{rangeDateHours} {rangeDateHours, plural, one {hour} other {hours}} left": "{rangeDateHours} {rangeDateHours, plural, one {час} other {часов}} осталось",
-    "The current View settings do not allow prioritization": "Для текущего Борда не доступна приоритезация."
+    "The current View settings do not allow prioritization": "Для текущего Борда не доступна приоритезация.",
+    "Type a name or email": "Type a name or email",
+    "Start typing name(s)": "Start typing name(s)",
+    "There's no one with this name or email.": "There's no one with this name or email.",
+    "The invitation will be sent to": "The invitation will be sent to",
+    "There's no one with this name. Please, enter the email address of the person you want to invite.": "There's no one with this name. Please, enter the email address of the person you want to invite.",
+    "{email} is invalid email": "{email} is invalid email"
 }

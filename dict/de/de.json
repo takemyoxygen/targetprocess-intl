@@ -677,5 +677,11 @@
     "Entities per page": "Entities per page",
     "click to edit": "click to edit",
     "{rangeDateHours} {rangeDateHours, plural, one {hour} other {hours}} left": "{rangeDateHours} {rangeDateHours, plural, one {hour} other {hours}} left",
-    "The current View settings do not allow prioritization": "The current View settings do not allow prioritization"
+    "The current View settings do not allow prioritization": "The current View settings do not allow prioritization",
+    "Type a name or email": "Type a name or email",
+    "Start typing name(s)": "Start typing name(s)",
+    "There's no one with this name or email.": "There's no one with this name or email.",
+    "The invitation will be sent to": "The invitation will be sent to",
+    "There's no one with this name. Please, enter the email address of the person you want to invite.": "There's no one with this name. Please, enter the email address of the person you want to invite.",
+    "{email} is invalid email": "{email} is invalid email"
 }
