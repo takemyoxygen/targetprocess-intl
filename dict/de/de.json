@@ -683,5 +683,6 @@
     "There's no one with this name or email.": "There's no one with this name or email.",
     "The invitation will be sent to": "The invitation will be sent to",
     "There's no one with this name. Please, enter the email address of the person you want to invite.": "There's no one with this name. Please, enter the email address of the person you want to invite.",
-    "{email} is invalid email": "{email} is invalid email"
+    "{email} is invalid email": "{email} is invalid email",
+    "Allocation can't be less than one day.": "Allocation can't be less than one day."
 }
