@@ -765,5 +765,6 @@
     "Workflow setup": "Workflow setup",
     "Unable to change team workflow": "Unable to change team workflow",
     "The new workflow will intersect with {teamNames} {teamsCount, plural, =1 {team} other {teams}}. You can resolve this conflict by unassigning multiple teams from conflicting entities or by modifying other team workflows to avoid intersections.": "The new workflow will intersect with {teamNames} {teamsCount, plural, =1 {team} other {teams}}. You can resolve this conflict by unassigning multiple teams from conflicting entities or by modifying other team workflows to avoid intersections.",
-    "contact our support": "contact our support"
+    "contact our support": "contact our support",
+    "{userName} is already allocated to the {projectName} project": "{userName} is already allocated to the {projectName} project"
 }

@@ -693,11 +693,11 @@
     "Are you sure you want to delete {cards}?": "Вы, действительно, хотите удалить {cards}?",
     "Selected cards": "Выбранные карточки",
     "Print": "Печатать",
-    "Start typing name(s)": "Start typing name(s)",
-    "There's no one with this name or email.": "There's no one with this name or email.",
-    "The invitation will be sent to": "The invitation will be sent to",
-    "There's no one with this name. Please, enter the email address of the person you want to invite.": "There's no one with this name. Please, enter the email address of the person you want to invite.",
-    "{email} is invalid email": "{email} is invalid email",
+    "Start typing name(s)": "Начните печатать имя или email",
+    "There's no one with this name or email.": "В системе нет пользователей с таким именем или email.",
+    "The invitation will be sent to": "Приглашение будет отправлено",
+    "There's no one with this name. Please, enter the email address of the person you want to invite.": "Пользователи с таким именем не найдены. Пожалуйста, введите email человека, которого вы хотите пригласить.",
+    "{email} is invalid email": "{email} некорректный",
     "This filter is already saved": "Этот фильтр уже сохранен",
     "Save this filter for future use": "Сохранить фильтр для использования в будущем",
     "Do you really want to remove this filter?": "Вы, действительно, хотите удалить этот фильтр?",
@@ -765,5 +765,6 @@
     "Workflow setup": "Настройка процесса работы",
     "Unable to change team workflow": "Невозможно изменить процесс работы команды",
     "The new workflow will intersect with {teamNames} {teamsCount, plural, =1 {team} other {teams}}. You can resolve this conflict by unassigning multiple teams from conflicting entities or by modifying other team workflows to avoid intersections.": "Процессы работы пересекутся для {teamNames} {teamsCount, plural, =1 {команды} other {команд}}. Вы можете решить этот конфликт, убрав назначение данных команд с сущностей или изменив их процессы работы, чтобы избежать пересечений.",
-    "contact our support": "contact our support"
+    "contact our support": "contact our support",
+    "{userName} is already allocated to the {projectName} project": "{userName} is already allocated to the {projectName} project"
 }
