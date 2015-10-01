@@ -246,7 +246,7 @@
     "Inconsistent slice definition provided.": "Inconsistent slice definition provided.",
     "Filter is incorrect.": "Фильтр задан не корректно.",
     "Invalid slice definition.": "Invalid slice definition.",
-    "Invalid date range": "Invalid date range",
+    "Invalid date range": "Некорректный диапазон дат",
     "Color": "Color",
     "Type a name or email": "Напечатайте имя или email",
     "Clone {view}": "Клонировать {view}",
