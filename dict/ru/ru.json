@@ -211,7 +211,7 @@
     "Syntax error": "Syntax error",
     "Error while parsing single-quoted string": "Error while parsing single-quoted string",
     "unexpected token": "unexpected token",
-    "This {userTerm} is allocated to this {projectTerm} as a {roleName} already. A {userTerm} cannot be allocated to one {projectTerm} in different {roleTerm}": "This {userTerm} is allocated to this {projectTerm} as a {roleName} already. A {userTerm} cannot be allocated to one {projectTerm} in different {roleTerm}",
+    "This {userTerm} is allocated to this {projectTerm} as a {roleName} already. A {userTerm} cannot be allocated to one {projectTerm} in different {roleTerm}": "Этот {userTerm} уже назначен на этот {projectTerm} в роли {roleName}. {userTerm} не может иметь другую {roleTerm} при назначении на один {projectTerm}.",
     "Empty rules are not allowed.": "Empty rules are not allowed.",
     "Rules are incorrect.": "Rules are incorrect.",
     "There's no such value for this custom field. You can't move the card here.": "There's no such value for this custom field. You can't move the card here.",
