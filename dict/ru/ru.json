@@ -696,7 +696,7 @@
     "Start typing name(s)": "Начните печатать имя или email",
     "There's no one with this name or email.": "В системе нет пользователей с таким именем или email.",
     "The invitation will be sent to": "Приглашение будет отправлено",
-    "There's no one with this name. Please, enter the email address of the person you want to invite.": "Пользователи с таким именем не найдены. Пожалуйста, введите email человека, которого вы хотите пригласить.",
+    "There's no one with this name. Please, enter the email address of the person you want to invite.": "Пользователи с таким именем не найдены. Пожалуйста, введите email человека, которого Вы хотите пригласить.",
     "{email} is invalid email": "{email} некорректный",
     "This filter is already saved": "Этот фильтр уже сохранен",
     "Save this filter for future use": "Сохранить фильтр для использования в будущем",
