@@ -198,7 +198,7 @@
     "Valid operators for boolean are : is, is not, ==, != . Was {operator}.": "Valid operators for boolean are : is, is not, ==, != . Was {operator}.",
     "Valid operators for '{expressionName}' are : is, is not, ==, != . Was {operator}.": "Valid operators for '{expressionName}' are : is, is not, ==, != . Was {operator}.",
     "Valid operators for 'EntityState' and '{entityState}' are : is, is not, ==, != . {operator} was used.": "Valid operators for 'EntityState' and '{entityState}' are : is, is not, ==, != . {operator} was used.",
-    "There is no '{propertyName}' member in {typeName}.": "There is no '{propertyName}' member in {typeName}.",
+    "There is no '{propertyName}' member in {typeName}.": "Поля '{propertyName}' нет в {typeName}.",
     "There is no '{propertyName}' attribute in {typeName}.": "There is no '{propertyName}' attribute in {typeName}.",
     "There is no '{methodName}' method in {typeName}.": "There is no '{methodName}' method in {typeName}.",
     "Could not convert from {sourceTypeName} to {targetTypeName}.": "Could not convert from {sourceTypeName} to {targetTypeName}.",
