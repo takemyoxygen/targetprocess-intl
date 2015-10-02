@@ -58,7 +58,7 @@
     "You can't relate an entity to itself": "You can't relate an entity to itself",
     "There's already a relation between the selected items": "There's already a relation between the selected items",
     "The same team member '{userName}' already exists in team '{teamName}'": "The same team member '{userName}' already exists in team '{teamName}'",
-    "The same relation between project '{projectName}' and team '{teamName}' already exists": "The same relation between project '{projectName}' and team '{teamName}' already exists",
+    "The same relation between project '{projectName}' and team '{teamName}' already exists": "Связь между проектом '{projectName}' и командой '{teamName}' уже задана.",
     "You can't add a Test Plan as its own child": "You can't add a Test Plan as its own child",
     "You can't add '{childTestPlanName}' test plan as a '{parentTestPlanName}' test plan child. This action will create a loop": "You can't add '{childTestPlanName}' test plan as a '{parentTestPlanName}' test plan child. This action will create a loop",
     "Please, assign the {entityName} card to a team first, and only then to someone from this team": "Please, assign the {entityName} card to a team first, and only then to someone from this team",
