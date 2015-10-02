@@ -12,7 +12,7 @@
     "{entityKind} with name '{entityName}' could not be found.": "{entityKind} with name '{entityName}' could not be found.",
     "{entityKind} with {fieldName} '{value}' could not be found": "{entityKind} with {fieldName} '{value}' could not be found",
     "The {childEntity} entity for {parentEntity} with ID {childEntityId} could not be found": "The {childEntity} entity for {parentEntity} with ID {childEntityId} could not be found",
-    "There's no '{stateName}' state defined for {entityKind} workflow in {teamsText} {teamsCount, plural, =1 {team} other {teams}}.": "There's no '{stateName}' state defined for {entityKind} workflow in {teamsText} {teamsCount, plural, =1 {team} other {teams}}.",
+    "There's no '{stateName}' state defined for {entityKind} workflow in {teamsText} {teamsCount, plural, =1 {team} other {teams}}.": "Статуса '{stateName}' нет в процессе работы над {entityKind} в {teamsCount, plural, =1 {команде} other {командах}} {teamsText}.",
     "There's no '{stateName}' state defined for the {entityTerm}.": "Статус '{stateName}' не задан для {entityTerm}.",
     "Cannot find project column in CSV file.": "Cannot find project column in CSV file.",
     "You can't change state from '{currentStateName}' to '{requestedStateName}'.": "You can't change state from '{currentStateName}' to '{requestedStateName}'.",
