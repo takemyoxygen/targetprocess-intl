@@ -185,7 +185,7 @@
     "{entityKind}.{propertyName} is in invalid state.": "{entityKind}.{propertyName} is in invalid state.",
     "The entity '{entityKind}' could not be resolved by name since there are more than one entity with the name '{name}'": "The entity '{entityKind}' could not be resolved by name since there are more than one entity with the name '{name}'",
     "Collections are not supported": "Collections are not supported",
-    "Could not use Calculated Custom Fields in Calculated Custom Fields": "Could not use Calculated Custom Fields in Calculated Custom Fields",
+    "Could not use Calculated Custom Fields in Calculated Custom Fields": "Нельзя использовать калькулируемые кастом филды в калькулируемых кастом филдах",
     "Acid '{acid}' is not found": "Acid '{acid}' is not found",
     "{entityKind} with Id {id} not found or access is forbidden": "Сущность {entityKind} c Id {id} не найдена или доступ к ней запрещен",
     "Entity type '{entityType}' is invalid or not present in slice definition.": "Entity type '{entityType}' is invalid or not present in slice definition.",
