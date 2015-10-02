@@ -768,5 +768,6 @@
     "contact our support": "contact our support",
     "{userName} is already allocated to the {projectName} project": "{userName} is already allocated to the {projectName} project",
     "{entityKind} '{entityName}' could not be found.": "{entityKind} '{entityName}' could not be found.",
-    "Empty data item is not supported for state axis.": "Empty data item is not supported for state axis."
+    "Empty data item is not supported for state axis.": "Empty data item is not supported for state axis.",
+    "Delete tag": "Delete tag"
 }

@@ -187,7 +187,7 @@
     "Collections are not supported": "Collections are not supported",
     "Could not use Calculated Custom Fields in Calculated Custom Fields": "Could not use Calculated Custom Fields in Calculated Custom Fields",
     "Acid '{acid}' is not found": "Acid '{acid}' is not found",
-    "{entityKind} with Id {id} not found or access is forbidden": "{entityKind} with Id {id} not found or access is forbidden",
+    "{entityKind} with Id {id} not found or access is forbidden": "Сущность {entityKind} c Id {id} не найдена или доступ запрещен",
     "Entity type '{entityType}' is invalid or not present in slice definition.": "Entity type '{entityType}' is invalid or not present in slice definition.",
     "You can only compare Responsible with Me.": "You can only compare Responsible with Me.",
     "There is no {projectName} member in {typeName}": "There is no {projectName} member in {typeName}",
@@ -768,5 +768,6 @@
     "contact our support": "contact our support",
     "{userName} is already allocated to the {projectName} project": "{userName} is already allocated to the {projectName} project",
     "{entityKind} '{entityName}' could not be found.": "{entityKind} '{entityName}' could not be found.",
-    "Empty data item is not supported for state axis.": "Empty data item is not supported for state axis."
+    "Empty data item is not supported for state axis.": "Empty data item is not supported for state axis.",
+    "Delete tag": "Delete tag"
 }
