@@ -214,7 +214,7 @@
     "This {userTerm} is allocated to this {projectTerm} as a {roleName} already. A {userTerm} cannot be allocated to one {projectTerm} in different {roleTerm}": "Этот {userTerm} уже назначен на этот {projectTerm} в роли {roleName}. {userTerm} не может иметь другую {roleTerm} при назначении на один {projectTerm}.",
     "Empty rules are not allowed.": "Empty rules are not allowed.",
     "Rules are incorrect.": "Rules are incorrect.",
-    "There's no such value for this custom field. You can't move the card here.": "There's no such value for this custom field. You can't move the card here.",
+    "There's no such value for this custom field. You can't move the card here.": "Для данной карточки не предусмотрено такое кастомное поле/значение. Вы не можете переместить сюда карточку.",
     "There's no such custom field value '{value}' for this card. Move is impossible.": "There's no such custom field value '{value}' for this card. Move is impossible.",
     "This custom field is required so it can't be empty.": "This custom field is required so it can't be empty.",
     "Filters on aggregation are not supported": "Filters on aggregation are not supported",
