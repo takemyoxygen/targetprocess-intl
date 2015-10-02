@@ -216,7 +216,7 @@
     "Rules are incorrect.": "Rules are incorrect.",
     "There's no such value for this custom field. You can't move the card here.": "Для данной карточки не предусмотрено такое кастомное поле/значение. Вы не можете переместить сюда карточку.",
     "There's no such custom field value '{value}' for this card. Move is impossible.": "There's no such custom field value '{value}' for this card. Move is impossible.",
-    "This custom field is required so it can't be empty.": "This custom field is required so it can't be empty.",
+    "This custom field is required so it can't be empty.": "Это кастомное поле обязательное и не может быть пустым.",
     "Filters on aggregation are not supported": "Filters on aggregation are not supported",
     "Many-to-Many axes are not supported.": "Many-to-Many axes are not supported.",
     "Property '{propertyName}' does not exist in '{resourceFields}'.": "Поле '{propertyName}' отсутствует в '{resourceFields}'.",
