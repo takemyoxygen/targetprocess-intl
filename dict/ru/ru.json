@@ -233,7 +233,7 @@
     "BeforeId should be equal to previous prioritization item id.": "BeforeId should be equal to previous prioritization item id.",
     "Could not find priority '{priority}' for entity '{entity}'": "Could not find priority '{priority}' for entity '{entity}'",
     "Cannot remove relation between Project and Team via View": "Cannot remove relation between Project and Team via View",
-    "Entity is not assigned to any team. Assign it to the team first.": "Entity is not assigned to any team. Assign it to the team first.",
+    "Entity is not assigned to any team. Assign it to the team first.": "Карточка не назначена на какую-либо команду. Для начала назначьте ее на команду.",
     "Cannot remove relation between Team and Project via View": "Cannot remove relation between Team and Project via View",
     "Add is not supported.": "Add is not supported.",
     "Could not find axis with id {axisId}.": "Could not find axis with id {axisId}.",
