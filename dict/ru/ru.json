@@ -267,7 +267,7 @@
     "{definitionName} Cloned": "{definitionName} Cloned",
     "Yes, I'm sure": "Да",
     "No": "Нет",
-    "{type} {name} was added.": "Сущность {type} с именем {name} была добавлена",
+    "{type} {name} was added.": "Сущность {type} {name} была добавлена.",
     "Read more": "Читать далее",
     "You can set custom highlighting for the cards on this View. A card can have up to three colors applied at one time.": "You can set custom highlighting for the cards on this View. A card can have up to three colors applied at one time.",
     "Please provide weekly hours": "Часы",
