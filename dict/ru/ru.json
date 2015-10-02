@@ -222,7 +222,7 @@
     "Property '{propertyName}' does not exist in '{resourceFields}'.": "Поле '{propertyName}' отсутствует в '{resourceFields}'.",
     "{itemsCount, plural, =1 {{itemsText} project} other {{itemsText} projects}}": "{itemsCount, plural, =1 {{itemsText} project} other {{itemsText} projects}}",
     "{itemsCount, plural, =1 {{itemsText} team} other {{itemsText} teams}}": "{itemsCount, plural, =1 {{itemsText} team} other {{itemsText} teams}}",
-    "These cards belong to the projects or teams that are not included to the current View context, so such move is impossible. Select {itemsToSelect} in the top context menu.": "These cards belong to the projects or teams that are not included to the current View context, so such move is impossible. Select {itemsToSelect} in the top context menu.",
+    "These cards belong to the projects or teams that are not included to the current View context, so such move is impossible. Select {itemsToSelect} in the top context menu.": "Карточки принадлежат проектам или командам, которые не выбраны в текущем контексте. Поэтому такой перенос карточек не возможен. Выберите {itemsToSelect} в контексте.",
     "The custom field you've selected as lane is not available in this project(s).": "Кастомное поле, выбранное как ось, не доступно в данном проекте(ах).",
     "It is not possible to move {targetEntityKind} in {axisEntityKind} axis.": "It is not possible to move {targetEntityKind} in {axisEntityKind} axis.",
     "Please, narrow your date range selection. It covers more than {cardsLimit} cards currently.": "Please, narrow your date range selection. It covers more than {cardsLimit} cards currently.",
