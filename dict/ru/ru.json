@@ -238,7 +238,7 @@
     "Add is not supported.": "Add is not supported.",
     "Could not find axis with id {axisId}.": "Could not find axis with id {axisId}.",
     "Invalid dataSelector.": "Invalid dataSelector.",
-    "The board is not configured for this card type": "The board is not configured for this card type",
+    "The board is not configured for this card type": "Борд не настроен для карточек данного типа",
     "Move operation failed because of concurrent access. Retry please.": "Move operation failed because of concurrent access. Retry please.",
     "Several many-to-many axes are not supported.": "Several many-to-many axes are not supported.",
     "You can't do that. This card isn't set to be shown on the current View.": "You can't do that. This card isn't set to be shown on the current View.",
