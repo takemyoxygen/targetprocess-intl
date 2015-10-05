@@ -54,7 +54,7 @@
     "Cannot unassign {releaseKind} '{releaseName}' from Project '{projectName}', because {releaseKind} contains work or {iterations} from this Project. You should unassign this work or {iterations} from {releaseKind} first.": "Cannot unassign {releaseKind} '{releaseName}' from Project '{projectName}', because {releaseKind} contains work or {iterations} from this Project. You should unassign this work or {iterations} from {releaseKind} first.",
     "User already follows this entity": "User already follows this entity",
     "Relation between such Process and User already exists": "Relation between such Process and User already exists",
-    "{userName} is already allocated to the {projectName} project.": "{userName} is already allocated to the {projectName} project.",
+    "{userName} is already allocated to the {projectName} project.": "{userName} уже назначен на проект {projectName}.",
     "You can't relate an entity to itself": "You can't relate an entity to itself",
     "There's already a relation between the selected items": "There's already a relation between the selected items",
     "The same team member '{userName}' already exists in team '{teamName}'": "The same team member '{userName}' already exists in team '{teamName}'",
