@@ -45,7 +45,7 @@
     "{entityKind} Start Date": "{entityKind} Start Date",
     "{entityKind} End Date": "{entityKind} End Date",
     "Allocation can't be less than one day.": "Allocation can't be less than one day.",
-    "{team} should be assigned to at least one {project} with the Test Cases practice enabled to create a {testPlan}": "{team} should be assigned to at least one {project} with the Test Cases practice enabled to create a {testPlan}",
+    "{team} should be assigned to at least one {project} with the Test Cases practice enabled to create a {testPlan}": "{team} должна быть назначена хотя бы на один {project} с включенной практикой Test Cases, чтобы добавить {testPlan}",
     "Failed to set custom field '{fieldName}'. Format is invalid.": "Failed to set custom field '{fieldName}'. Format is invalid.",
     "Team can be assigned to particular entity only once, however {assignmentCount} assignments are pending": "Team can be assigned to particular entity only once, however {assignmentCount} assignments are pending",
     "Team workflow '{workflowName}' in project '{projectName}' does not have state '{entityStateName}'": "Team workflow '{workflowName}' in project '{projectName}' does not have state '{entityStateName}'",
