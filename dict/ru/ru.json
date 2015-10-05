@@ -3,7 +3,7 @@
     "The provided password is invalid.": "The provided password is invalid.",
     "You have no rights to access this page.": "You have no rights to access this page.",
     "Access denied.": "Access denied.",
-    "{actionName} access to {entityKind} is denied for {user}.": "{actionName} access to {entityKind} is denied for {user}.",
+    "{actionName} access to {entityKind} is denied for {user}.": "{actionName} действие над {entityKind} запрещено для {user}.",
     "The access to {entityKind} with ID {entityId} is denied for {user}.": "The access to {entityKind} with ID {entityId} is denied for {user}.",
     "The access to {entityKind} is denied for {user}.": "The access to {entityKind} is denied for {user}.",
     "{entityKind} with id {entityId} is already deleted.": "{entityKind} with id {entityId} is already deleted.",
