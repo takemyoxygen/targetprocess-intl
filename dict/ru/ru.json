@@ -44,7 +44,7 @@
     "{entityName} is already allocated to this {entityKind} from {from} till {to} with {availability}% availability. Choose a different allocation period or modify the existing allocation": "{entityName} уже назначена на {entityKind} с {from} по {to} с {availability}% занятостью. Выберите другой период назначения или измените текущее назначение.",
     "{entityKind} Start Date": "{entityKind} Start Date",
     "{entityKind} End Date": "{entityKind} End Date",
-    "Allocation can't be less than one day.": "Allocation can't be less than one day.",
+    "Allocation can't be less than one day.": "Период назначения не может быть менее 1 дня.",
     "{team} should be assigned to at least one {project} with the Test Cases practice enabled to create a {testPlan}": "{team} должна быть назначена хотя бы на один {project} с включенной практикой Test Cases, чтобы добавить {testPlan}",
     "Failed to set custom field '{fieldName}'. Format is invalid.": "Failed to set custom field '{fieldName}'. Format is invalid.",
     "Team can be assigned to particular entity only once, however {assignmentCount} assignments are pending": "Team can be assigned to particular entity only once, however {assignmentCount} assignments are pending",
