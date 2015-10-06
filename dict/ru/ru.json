@@ -112,7 +112,7 @@
     "{entityKind} must be assigned to the '{teamName}' team to be added to the Team Iteration": "{entityKind} must be assigned to the '{teamName}' team to be added to the Team Iteration",
     "The Team '{teamName}' must be assigned the {entityKind} to be responsible": "The Team '{teamName}' must be assigned the {entityKind} to be responsible",
     "Entity not assigned to project cannot be assigned to {entityKind}": "Entity not assigned to project cannot be assigned to {entityKind}",
-    "There is no relation between {entityKind} '{entityName}' and project '{projectName}'": "There is no relation between {entityKind} '{entityName}' and project '{projectName}'",
+    "There is no relation between {entityKind} '{entityName}' and project '{projectName}'": "{entityKind} '{entityName}' и project '{projectName}' не связаны",
     "Invalid {entityKind} is supposed to be set": "Invalid {entityKind} is supposed to be set",
     "Invalid entity state '{entityState}' for '{entityKind}' - the entity state is not correctly formed (may be you forgot to set ID)": "Invalid entity state '{entityState}' for '{entityKind}' - the entity state is not correctly formed (may be you forgot to set ID)",
     "Invalid entity state '{entityState}' for '{entityKind}'": "Invalid entity state '{entityState}' for '{entityKind}'",
