@@ -8,7 +8,7 @@
     "The access to {entityKind} is denied for {user}.": "The access to {entityKind} is denied for {user}.",
     "{entityKind} with id {entityId} is already deleted.": "{entityKind} with id {entityId} is already deleted.",
     "Could not convert {from} to {to}.": "Could not convert {from} to {to}.",
-    "{entityKind} with id {entityId} could not be found.": "{entityKind} with id {entityId} could not be found.",
+    "{entityKind} with id {entityId} could not be found.": "Сущность {entityKind} с id {entityId} не найдена.",
     "{entityKind} with name '{entityName}' could not be found.": "{entityKind} with name '{entityName}' could not be found.",
     "{entityKind} with {fieldName} '{value}' could not be found": "{entityKind} with {fieldName} '{value}' could not be found",
     "The {childEntity} entity for {parentEntity} with ID {childEntityId} could not be found": "The {childEntity} entity for {parentEntity} with ID {childEntityId} could not be found",
