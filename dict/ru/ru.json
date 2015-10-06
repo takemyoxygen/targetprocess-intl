@@ -821,7 +821,7 @@
     "Prioritization in different cells is not supported": "Prioritization in different cells is not supported",
     "Prioritization is not supported in current board setup.": "Prioritization is not supported in current board setup.",
     "Effort axis works only with {role} effort": "Effort axis works only with {role} effort",
-    "A {teamTerm} allocation can't be removed this way. Right click on it and select remove instead.": "A {teamTerm} allocation can't be removed this way. Right click on it and select remove instead.",
+    "A {teamTerm} allocation can't be removed this way. Right click on it and select remove instead.": "{teamTerm} назначение не может быть изменено таким способом. Выберете 'Удалить' в контекстном меню.",
     "A {userTerm} allocation can't be removed this way. Right click on it and select remove instead.": "{userTerm} назначение не может быть изменено таким способом. Выберете 'Удалить' в контекстном меню.",
     "It is not possible to change {projectTerm} allocation if a View includes Person/User axis.": "It is not possible to change {projectTerm} allocation if a View includes Person/User axis.",
     "Projects shouldn't rely on context": "Projects shouldn't rely on context",
