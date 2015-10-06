@@ -33,7 +33,7 @@
     "'{teamStateName}' state for the '{teamName}' team": "'{teamStateName}' state for the '{teamName}' team",
     "The {statesForTeams} are mapped to the same project state '{stateName}'.": "The {statesForTeams} are mapped to the same project state '{stateName}'.",
     "The same assignment already exists. User '{userName}', Role '{roleName}'.": "The same assignment already exists. User '{userName}', Role '{roleName}'.",
-    "{entityKind} is not available for current process.": "{entityKind} is not available for current process.",
+    "{entityKind} is not available for current process.": "{entityKind} недоступен для текущего процесса.",
     "Allocation scaling operation failed. Allocation can't be less than one day.": "Allocation scaling operation failed. Allocation can't be less than one day.",
     "The allocation start date must be earlier than the allocation end date.": "Дата начала назначения человека на проект должна быть раньше даты конца назначения",
     "The allocation percentage must be in the 1-100% range.": "Процент назначения должен быть в диапазоне 1-100%",
