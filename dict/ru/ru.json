@@ -16,7 +16,7 @@
     "There's no '{stateName}' state defined for the {entityTerm}.": "Статус '{stateName}' не задан для {entityTerm}.",
     "Cannot find project column in CSV file.": "Cannot find project column in CSV file.",
     "You can't change state from '{currentStateName}' to '{requestedStateName}'.": "Вы не можете изменить статус с '{currentStateName}' на '{requestedStateName}'.",
-    "You need to create a {testPlanEntityKind} for the {targetEntityKind} in order to link {testPlansEntityKind} and {testCasesEntityKind} to it.": "You need to create a {testPlanEntityKind} for the {targetEntityKind} in order to link {testPlansEntityKind} and {testCasesEntityKind} to it.",
+    "You need to create a {testPlanEntityKind} for the {targetEntityKind} in order to link {testPlansEntityKind} and {testCasesEntityKind} to it.": "Вам нужно создать {testPlanEntityKind} для {targetEntityKind}, чтобы связать {testPlansEntityKind} и {testCasesEntityKind}.",
     "{fieldName} should be specified": "{fieldName} должно быть задано",
     "Value {value} of field '{fieldName}' is out of bound": "Value {value} of field '{fieldName}' is out of bound",
     "{fieldName} should be equal or greater than zero": "{fieldName} should be equal or greater than zero",
@@ -769,5 +769,6 @@
     "{userName} is already allocated to the {projectName} project": "{userName} is already allocated to the {projectName} project",
     "{entityKind} '{entityName}' could not be found.": "{entityKind} '{entityName}' could not be found.",
     "Empty data item is not supported for state axis.": "Empty data item is not supported for state axis.",
-    "Delete tag": "Delete tag"
+    "Delete tag": "Delete tag",
+    "Something weird happened. Please contact our support to identify the issue and fix it.": "Something weird happened. Please contact our support to identify the issue and fix it."
 }
