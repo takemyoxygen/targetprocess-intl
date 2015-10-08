@@ -297,10 +297,10 @@
     "Save": "Сохранить",
     "Currently it is visible to:": "Сейчас он доступен:",
     "Currently only you can see it.": "Сейчас только Вы можете его видеть.",
-    "Projects": "Проекты",
+    "Projects": "'Проекты'",
     "All users see this View so far.": "Все пользователи видят этот Борд сейчас.",
     "Teams": "Команды",
-    "There are no Teams nor Projects.": "Не выбраны ни команды, ни Проекты",
+    "There are no Teams nor Projects.": "Не выбраны ни Команды, ни Проекты",
     "This View will be visible to all users.": "Этот Борд будет доступен всем пользователям.",
     "This View will be visible to you only.": "Этот Борд будет виден только Вам.",
     "This View will be visible to some Teams and Projects.": "Этот Борд будет виден некоторым Командам и Проектам",
@@ -900,7 +900,7 @@
     "Select program": "Выберите программу",
     "Assign people": "Назначьте людей",
     "Assign teams": "Назначьте команды",
-    "Select a team icon": "выберите иконку для команды",
+    "Select a team icon": "Выберите иконку для команды",
     "Enter team name here": "Введите имя команды",
-    "Assign projects": "Назначьте проекты"
+    "Assign projects": "Назначьте проекты   "
 }
