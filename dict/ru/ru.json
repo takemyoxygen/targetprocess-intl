@@ -902,5 +902,8 @@
     "Assign teams": "Назначьте команды",
     "Select a team icon": "Выберите иконку для команды",
     "Enter team name here": "Введите имя команды",
-    "Assign projects": "Назначьте проекты   "
+    "Assign projects": "Назначьте проекты   ",
+    "The interface will be displayed in the new language after a page <span class=\"i-role-refresh\">refresh</span>.": "The interface will be displayed in the new language after a page <span class=\"i-role-refresh\">refresh</span>.",
+    "{entity, select, project {New} team {New}}": "{entity, select, project {Новый} team {Новая}}",
+    "{entity, select,project {New} team {New}}": "{entity, select,project {New} team {New}}"
 }
