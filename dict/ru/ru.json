@@ -22,7 +22,7 @@
     "{fieldName} should be equal or greater than zero": "{fieldName} should be equal or greater than zero",
     "{fieldName} should be greater than zero": "{fieldName} should be greater than zero",
     "Use {maxLength} characters or fewer for {fieldName}": "Use {maxLength} characters or fewer for {fieldName}",
-    "{entityKind} cannot end earlier than it starts": "{entityKind} не может заканчиваться раньше, чем начинается.",
+    "{entityKind} cannot end earlier than it starts": "{entityKind} не может <b>заканчиваться раньше</b>, чем <i>начинается</i>.",
     "{entityKind} {entityId} is deleted": "{entityKind} {entityId} is deleted",
     "Workflow for '{entityKind}' defined in process '{processName}' has no states with defined responsible role. At least one state with responsible role should exist to assign person to {entityKind}.": "Процесс работы для '{entityKind}', определенный в процессе '{processName}', не имеет статусов с ответственной ролью. Как минимум, должен быть один статус с ответственной ролью, чтобы назначить человека на {entityKind}.",
     "workflow": "процесс работы",
