@@ -264,7 +264,7 @@
     "New Report": "Новый Репорт",
     "New Group": "Новая Группа",
     "New Dashboard": "Новый Дашборд",
-    "{definitionName} Cloned": "{definitionName} Cloned",
+    "{definitionName} Cloned": "{definitionName} Копия",
     "Yes, I'm sure": "Да",
     "No": "Нет",
     "{type} {name} was added.": "Сущность {type} {name} была добавлена.",
