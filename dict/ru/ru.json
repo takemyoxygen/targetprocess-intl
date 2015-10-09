@@ -905,5 +905,8 @@
     "Assign projects": "Назначьте проекты   ",
     "The interface will be displayed in the new language after a page <span class=\"i-role-refresh\">refresh</span>.": "The interface will be displayed in the new language after a page <span class=\"i-role-refresh\">refresh</span>.",
     "{entity, select, project {New} team {New}}": "{entity, select, project {Новый} team {Новая}}",
-    "{entity, select,project {New} team {New}}": "{entity, select,project {Новый} team {Новая}}"
+    "{entity, select,project {New} team {New}}": "{entity, select,project {Новый} team {Новая}}",
+    "No Program": "Без программы",
+    "Start typing name(s) or email(s) to assign people to a project": "Start typing name(s) or email(s) to assign people to a project",
+    "Start typing name(s) or email(s) to assign people to a team": "Start typing name(s) or email(s) to assign people to a team"
 }
