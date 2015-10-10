@@ -2,6 +2,13 @@
   {
     "rtl": false,
     "pluralequation": "language.pluralequation",
+    "code": "da",
+    "name": "Danish",
+    "nplurals": 2
+  },
+  {
+    "rtl": false,
+    "pluralequation": "language.pluralequation",
     "code": "de",
     "name": "German",
     "nplurals": 2
