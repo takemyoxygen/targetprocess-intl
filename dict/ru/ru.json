@@ -154,7 +154,7 @@
     "Too many Next states": "Too many Next states",
     "The abbreviation should contain only upper case letters": "The abbreviation should contain only upper case letters",
     "The field Name contains invalid characters": "The field Name contains invalid characters",
-    "{entityKind} cannot be assigned to {releaseEntityKind} '{releaseName}' since {releaseEntityKind} '{releaseName}' is assigned to multiple projects": "{entityKind} cannot be assigned to {releaseEntityKind} '{releaseName}' since {releaseEntityKind} '{releaseName}' is assigned to multiple projects",
+    "{entityKind} cannot be assigned to {releaseEntityKind} '{releaseName}' since {releaseEntityKind} '{releaseName}' is assigned to multiple projects": "{entityKind} не может быть назначен на {releaseEntityKind} '{releaseName}', так как {releaseEntityKind} '{releaseName}' назначен на несколько проектов",
     "{entityKind} '{entityName}' start/end dates ({entityName}/{endDate}) are invalid. Start/End dates period overlaps {entityKind} '{conflictingEntityName}' ({conflictingStartDate}/{conflictingEndDate})": "Даты начала/конца {entityKind} '{entityName}' ({entityName}/{endDate}) некорректны. Период начала/конца перекрывает {entityKind} '{conflictingEntityName}' ({conflictingStartDate}/{conflictingEndDate})",
     "Priority with importance '{importance}' already exists": "Priority with importance '{importance}' already exists",
     "Priority with Name '{priorityName}' already exists": "Priority with Name '{priorityName}' already exists",
