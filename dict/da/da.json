@@ -972,5 +972,6 @@
     "The first time a person logs in, a new TP user is created with an email provided by identity provider. If an account with this email exists but was deleted or deactivated, we will restore and activate this user.": "The first time a person logs in, a new TP user is created with an email provided by identity provider. If an account with this email exists but was deleted or deactivated, we will restore and activate this user.",
     "The cycle time by team is the time an entity is in progress. Which is the time it takes from when the item enters the state directly after the planned state until it reaches the final state.": "The cycle time by team is the time an entity is in progress. Which is the time it takes from when the item enters the state directly after the planned state until it reaches the final state.",
     "{entityTypes} can be moved from the selected below states to the current one.": "{entityTypes} can be moved from the selected below states to the current one.",
-    "{entityTypes} can be moved to the selected below states from the current one.": "{entityTypes} can be moved to the selected below states from the current one."
+    "{entityTypes} can be moved to the selected below states from the current one.": "{entityTypes} can be moved to the selected below states from the current one.",
+    "Lead Time can’t be calculated for {entityType} because its start date is less than the creation date.": "Lead Time can’t be calculated for {entityType} because its start date is less than the creation date."
 }
