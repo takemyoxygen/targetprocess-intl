@@ -168,7 +168,7 @@
     "Color should be specified in a hexadecimal format": "Color should be specified in a hexadecimal format",
     "The project name should be unique in the system": "The project name should be unique in the system",
     "Cannot assign release to projects with different effort units. Project '{hourProjectName}' has 'Hour' planning unit, project '{pointProjectName}' has 'Point' planning unit.": "Невозможно назначить релиз на проект с разными единицами измерения трудозатрат. Для проекта '{hourProjectName}' как единицы измерения трудозатрат выбраны 'часы', для проекта '{pointProjectName}' - 'пункты'.",
-    "Release should be assigned to at least one project.": "Release should be assigned to at least one project.",
+    "Release should be assigned to at least one project.": "Релиз должен быть назначен хотя бы на один проект",
     "Severity with importance '{importance}' already exists": "Severity with importance '{importance}' already exists",
     "Severity with name '{name}' already exists": "Severity with name '{name}' already exists",
     "Role '{roleName}' is not present in workflow for entity type '{entityKind}'": "Role '{roleName}' is not present in workflow for entity type '{entityKind}'",
