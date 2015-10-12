@@ -86,7 +86,7 @@
     "The same reference already exists": "The same reference already exists",
     "Unable to parse Sign On Url '{signOnUrl}'": "Unable to parse Sign On Url '{signOnUrl}'",
     "The logo should be an image": "The logo should be an image",
-    "Planned Start Date should be earlier than Planned End Date": "Planned Start Date should be earlier than Planned End Date",
+    "Planned Start Date should be earlier than Planned End Date": "Дата Начала должна быть раньше Даты конца",
     "Cannot set responsible person not from project team": "Cannot set responsible person not from project team",
     "There can't be more than one license.": "There can't be more than one license.",
     "The license is required to be updated since Targetprocess version has changed. Please update the license at Settings -> License or contact your Targetprocess Administrator.": "Необходимо обновить лицензию, так как версия Targetprocess изменилась. Пожалуйста, обновите лицензию в Settings -> License или обратитесь к Вашему администратору TargetProcess.",
