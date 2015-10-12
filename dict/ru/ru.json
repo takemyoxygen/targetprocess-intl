@@ -972,5 +972,5 @@
     "The first time a person logs in, a new TP user is created with an email provided by identity provider. If an account with this email exists but was deleted or deactivated, we will restore and activate this user.": "Когда пользователь впервые входит, создаётся новый TP аккаунт с почтовым адресом, предоставленным поставщиком идентификации. Если аккаунт с таким почтовым адресом уже существовал, но был удалён либо деактивирован, мы восстановим его и заново активируем.",
     "The cycle time by team is the time an entity is in progress. Which is the time it takes from when the item enters the state directly after the planned state until it reaches the final state.": "Время цикла для команды это время, которое объект находится в состоянии прогресса. То есть время с момента, когда объект перешёл в состояние сразу после планируемого, до его перехода в финальное состояние.",
     "{entityTypes} can be moved from the selected below states to the current one.": "{entityTypes} могут перейти из выбранных состояний в текущее.",
-    "{entityTypes} can be moved to the selected below states from the current one.": "{entityTypes} могут перейти из текущего состояние в выбранные."
+    "{entityTypes} can be moved to the selected below states from the current one.": "{entityTypes} могут перейти из текущего состояния в выбранные."
 }
