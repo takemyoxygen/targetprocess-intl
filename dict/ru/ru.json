@@ -74,7 +74,7 @@
     "Failed to remove association between team '{team}' and project '{project}'. Reason : {exception}": "Failed to remove association between team '{team}' and project '{project}'. Reason : {exception}",
     "Project '{projectName}' has process '{processName}' but workflow '{workflowName}' is defined in process '{workflowProcessName}'": "Project '{projectName}' has process '{processName}' but workflow '{workflowName}' is defined in process '{workflowProcessName}'",
     "{entityKind} icon should be represented as one symbol": "{entityKind} icon should be represented as one symbol",
-    "Team name should be unique in the system": "Team name should be unique in the system",
+    "Team name should be unique in the system": "Имя команды должно быть уникальным в системе",
     "{entityKind} '{thisEntityName}' start/end dates ({thisStartDate}/{thisEndDate}) are invalid. Start/End dates period overlaps {entityKind} '{conflictedEntityName}' ({conflictedStartDate}/{conflictedEndDate})": "{entityKind} '{thisEntityName}' start/end dates ({thisStartDate}/{thisEndDate}) are invalid. Start/End dates period overlaps {entityKind} '{conflictedEntityName}' ({conflictedStartDate}/{conflictedEndDate})",
     "Failed to set property '{fieldName}' to value '{value}'.": "Failed to set property '{fieldName}' to value '{value}'.",
     "The name should be unique": "Имя должно быть уникальным",
