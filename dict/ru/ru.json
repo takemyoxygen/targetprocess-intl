@@ -842,7 +842,7 @@
     "Please note that we recommend using reports with Automatic sizes": "Мы рекомендуем использовать репорты с автоматическими размерами",
     "{createCustomTeamWorkflow}, if it differs from the default one.": "{createCustomTeamWorkflow}, если он отличается от стандартного.",
     "Create a custom Team Workflow": "Создайте собственный процесс работы для команды",
-    "Read more…": "Read more…",
+    "Read more…": "Читать далее",
     "You can {customizeWorkflow}.": "Вы можете {customizeWorkflow}.",
     "customize Workflow": "настроить процесс работы",
     "You can customize Workflow.": "Вы можете настроить процесс работы.",
@@ -945,7 +945,7 @@
     "{testCases} from this {userStory} will be added to the created {testPlan}.": "{testCases} from this {userStory} will be added to the created {testPlan}.",
     "Create a linked {testPlan}": "Create a linked {testPlan}",
     "Action required": "Action required",
-    "Read more...": "Read more...",
+    "Read more...": "Читать далее",
     "You can add {stateName} state manually in {processName} process.": "You can add {stateName} state manually in {processName} process.",
     "Possible transitions are: {currentStateName} → {nextStateNames}.": "Possible transitions are: {currentStateName} → {nextStateNames}.",
     "You can edit the workflow for {processName} process.": "You can edit the workflow for {processName} process.",
@@ -961,5 +961,7 @@
     "The end date of {details} allocation must be earlier than the {entityKind} {endDateText} of '{endDate}'": "The end date of {details} allocation must be earlier than the {entityKind} {endDateText} of '{endDate}'",
     "The end date of {details} allocation must be later than the {entityKind} {startDateText} of '{startDate}'": "The end date of {details} allocation must be later than the {entityKind} {startDateText} of '{startDate}'",
     "There are people allocations with dates that are outside of the project date range you tried to enter. Update the appropriate user or team allocations to fit the new project dates first and then try again.": "There are people allocations with dates that are outside of the project date range you tried to enter. Update the appropriate user or team allocations to fit the new project dates first and then try again.",
-    "Lead Time can't be calculated for {entityType} because its start date is less than the creation date.": "Время выполнения не может быть рассчитано для {entityType}, так как дата начала меньше даты создания."
+    "Lead Time can't be calculated for {entityType} because its start date is less than the creation date.": "Время выполнения не может быть рассчитано для {entityType}, так как дата начала меньше даты создания.",
+    "Marking a state as planned means that this is the state just before taking {entityTypes} into progress. The Cycle Time will start when {entityType} leaves this state. Please note, there can be only one planned state in the workflow.": "В состоянии, помеченном как планируемое, {entityTypes} находятся до начала работы над ними. Время цикла будет отсчитываться с момента, когда {entityType} покинет это состояние.\nОбратите внимание, что может быть лишь одно планируемое состояние в процессе работы.",
+    "Private project is visible to project owner and project team only, admins and observers don't see private project": "Скрытый проект виден только его владельцу и участниками команды. Администраторам и наблюдателям он недоступен."
 }
