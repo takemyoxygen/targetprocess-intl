@@ -955,5 +955,11 @@
     "Workflow setup": "Workflow setup",
     "Unable to change team workflow": "Unable to change team workflow",
     "The new workflow will intersect with {teamNames} {teamsCount, plural, =1 {team} other {teams}}. You can resolve this conflict by unassigning multiple teams from conflicting entities or by modifying other team workflows to avoid intersections.": "The new workflow will intersect with {teamNames} {teamsCount, plural, =1 {team} other {teams}}. You can resolve this conflict by unassigning multiple teams from conflicting entities or by modifying other team workflows to avoid intersections.",
-    "contact our support": "contact our support"
+    "contact our support": "contact our support",
+    "The start date of {details} allocation must be later than the {entityKind} {startDateText} of '{startDate}'": "The start date of {details} allocation must be later than the {entityKind} {startDateText} of '{startDate}'",
+    "The start date of {details} allocation must be earlier than the {entityKind} {endDateText} of '{endDate}'": "The start date of {details} allocation must be earlier than the {entityKind} {endDateText} of '{endDate}'",
+    "The end date of {details} allocation must be earlier than the {entityKind} {endDateText} of '{endDate}'": "The end date of {details} allocation must be earlier than the {entityKind} {endDateText} of '{endDate}'",
+    "The end date of {details} allocation must be later than the {entityKind} {startDateText} of '{startDate}'": "The end date of {details} allocation must be later than the {entityKind} {startDateText} of '{startDate}'",
+    "There are people allocations with dates that are outside of the project date range you tried to enter. Update the appropriate user or team allocations to fit the new project dates first and then try again.": "There are people allocations with dates that are outside of the project date range you tried to enter. Update the appropriate user or team allocations to fit the new project dates first and then try again.",
+    "Lead Time can't be calculated for {entityType} because its start date is less than the creation date.": "Lead Time can't be calculated for {entityType} because its start date is less than the creation date."
 }
