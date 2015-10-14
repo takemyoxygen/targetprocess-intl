@@ -971,7 +971,7 @@
     "The interface will be displayed in the new language after a page <span class=\"i-role-refresh\">refresh</span>.": "Новый язык будет применен после <span class=\"i-role-refresh\">обновления</span> страницы.",
     "{entity, select, project {New} team {New}}": "{entity, select, project {Новый} team {Новая}}",
     "{entity, select,project {New} team {New}}": "{entity, select,project {Новый} team {Новая}}",
-    "Share link": "Share link",
+    "Share link": "Поделиться ссылкой",
     "loading...": "loading...",
     "Copied to clipboard!": "Copied to clipboard!",
     "Process Control": "Контроль Процесса",
