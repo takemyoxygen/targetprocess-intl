@@ -1240,5 +1240,20 @@
     "Unassigning on this level of hierarchy is not possible.": "Unassigning on this level of hierarchy is not possible.",
     "Assigning on this level of hierarchy is not possible.": "Assigning on this level of hierarchy is not possible.",
     "Invalid date range.": "Invalid date range.",
-    "Setup workflow": "Setup workflow"
+    "Setup workflow": "Setup workflow",
+    "You need to select a project or a team to see the reports.": "You need to select a project or a team to see the reports.",
+    "Cumulative Flow": "Cumulative Flow",
+    "Other Reports...": "Other Reports...",
+    "Initial Effort": "Initial Effort",
+    "Start-of-Day Time Remaining": "Start-of-Day Time Remaining",
+    "Added": "Added",
+    "Removed": "Removed",
+    "Completed": "Completed",
+    "End-of-Day Time Remaining": "End-of-Day Time Remaining",
+    "Forecast End Date": "Forecast End Date",
+    "Lead Time": "Lead Time",
+    "Lead Time, days": "Lead Time, days",
+    "Cycle Time, days": "Cycle Time, days",
+    "There are more items to show. One can only see up to 1000 items at a time. You might want to narrow down your filter settings.": "There are more items to show. One can only see up to 1000 items at a time. You might want to narrow down your filter settings.",
+    "There are more items to show. One can only see up to 100 items at a time. You might want to narrow down your filter settings.": "There are more items to show. One can only see up to 100 items at a time. You might want to narrow down your filter settings."
 }
