@@ -1028,5 +1028,12 @@
     "Only with relations": "Only with relations",
     "Check if your filter is correct, and make sure that you've actually selected some work item(s) in the bar above": "Check if your filter is correct, and make sure that you've actually selected some work item(s) in the bar above",
     "There are more items to show.\\n\\n One can only see up to 100 items at a time. You might want to narrow down your filter settings.": "There are more items to show.\\n\\n One can only see up to 100 items at a time. You might want to narrow down your filter settings.",
-    "This network is a visualization of direct and hidden dependency relations between any entities in Targetprocess (e.g. projects, {userStories}, {features}, {bugs}, tasks, etc.)": "This network is a visualization of direct and hidden dependency relations between any entities in Targetprocess (e.g. projects, {userStories}, {features}, {bugs}, tasks, etc.)"
+    "This network is a visualization of direct and hidden dependency relations between any entities in Targetprocess (e.g. projects, {userStories}, {features}, {bugs}, tasks, etc.)": "This network is a visualization of direct and hidden dependency relations between any entities in Targetprocess (e.g. projects, {userStories}, {features}, {bugs}, tasks, etc.)",
+    "Initial Effort'": "Initial Effort'",
+    "Start-of-Day Time Remaining'": "Start-of-Day Time Remaining'",
+    "Added'": "Added'",
+    "Removed'": "Removed'",
+    "Completed'": "Completed'",
+    "End-of-Day Time Remaining'": "End-of-Day Time Remaining'",
+    "Forecast End Date'": "Forecast End Date'"
 }

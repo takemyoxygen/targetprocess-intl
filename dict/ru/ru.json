@@ -974,7 +974,7 @@
     "Share link": "Поделиться ссылкой",
     "loading...": "loading...",
     "Copied to clipboard!": "Copied to clipboard!",
-    "Process Control": "Контроль Процесса",
+    "Process Control": "Контроль процесса",
     "Burn Down": "Burn Down",
     "Cycle Time Distribution": "Распределение времени цикла",
     "Relations Network": "Relations Network",
@@ -1006,7 +1006,7 @@
     "You need to have at least some of the work items completed": "У  Вас должна быть завершена работа над какими-либо карточками",
     "Also, check if your filter is correct, and make sure that you've actually selected some work item(s) in chart settings": "Также проверьте, что ваш фильтр задан корректно и убедитесь, что выбраны типы сущностей в настройках репорта",
     "% of all entities": "% от всех сущностей",
-    "The distribution bars show how many entities were completed within a given cycle time. The cumulative line shows how many days will it take to complete a {userStories} or other entity with the desired probability.": "Репорт показывает распределение сущностей по времени выполнения, а также сколько времени необходимо, чтобы завершить {userStories} или другие сущности с определенной вероятностью.",
+    "The distribution bars show how many entities were completed within a given cycle time. The cumulative line shows how many days will it take to complete a {userStories} or other entity with the desired probability.": "Репорт показывает распределение сущностей по времени цикла, а также сколько времени необходимо, чтобы завершить {userStories} или другие сущности с определенной вероятностью.",
     "X-axis": "ось X",
     "Cycle or Lead Time in days": "Время Цикла или Время Выполнения в днях",
     "Y-axis": "ось Y",
@@ -1028,5 +1028,12 @@
     "Only with relations": "Only with relations",
     "Check if your filter is correct, and make sure that you've actually selected some work item(s) in the bar above": "Check if your filter is correct, and make sure that you've actually selected some work item(s) in the bar above",
     "There are more items to show.\\n\\n One can only see up to 100 items at a time. You might want to narrow down your filter settings.": "There are more items to show.\\n\\n One can only see up to 100 items at a time. You might want to narrow down your filter settings.",
-    "This network is a visualization of direct and hidden dependency relations between any entities in Targetprocess (e.g. projects, {userStories}, {features}, {bugs}, tasks, etc.)": "This network is a visualization of direct and hidden dependency relations between any entities in Targetprocess (e.g. projects, {userStories}, {features}, {bugs}, tasks, etc.)"
+    "This network is a visualization of direct and hidden dependency relations between any entities in Targetprocess (e.g. projects, {userStories}, {features}, {bugs}, tasks, etc.)": "This network is a visualization of direct and hidden dependency relations between any entities in Targetprocess (e.g. projects, {userStories}, {features}, {bugs}, tasks, etc.)",
+    "Initial Effort'": "Initial Effort'",
+    "Start-of-Day Time Remaining'": "Start-of-Day Time Remaining'",
+    "Added'": "Added'",
+    "Removed'": "Removed'",
+    "Completed'": "Completed'",
+    "End-of-Day Time Remaining'": "End-of-Day Time Remaining'",
+    "Forecast End Date'": "Forecast End Date'"
 }
