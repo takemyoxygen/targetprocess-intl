@@ -967,5 +967,8 @@
     "You can assign multiple teams to an entity only when they are responsible for different parts of the {entityKind} {workflowTerm}.": "You can assign multiple teams to an entity only when they are responsible for different parts of the {entityKind} {workflowTerm}.",
     "This team can't be assigned to the {entityKind}, as there are overlapping team {workflowTerm} states.": "This team can't be assigned to the {entityKind}, as there are overlapping team {workflowTerm} states.",
     "{entityKind} '{entityName}' start/end dates ({entityName}/{endDate}) are invalid. Start/End dates period overlaps {entityKind} '{conflictingEntityName}' ({conflictingStartDate}/{conflictingEndDate})": "{entityKind} '{entityName}' start/end dates ({entityName}/{endDate}) are invalid. Start/End dates period overlaps {entityKind} '{conflictingEntityName}' ({conflictingStartDate}/{conflictingEndDate})",
-    "You can set custom highlighting for the cards on this View. A card can have up to three colors applied at one time.": "You can set custom highlighting for the cards on this View. A card can have up to three colors applied at one time."
+    "You can set custom highlighting for the cards on this View. A card can have up to three colors applied at one time.": "You can set custom highlighting for the cards on this View. A card can have up to three colors applied at one time.",
+    "The interface will be displayed in the new language after a page <span class=\"i-role-refresh\">refresh</span>.": "Новый язык будет применен после <span class=\"i-role-refresh\">обновления</span> страницы.",
+    "{entity, select, project {New} team {New}}": "{entity, select, project {Новый} team {Новая}}",
+    "{entity, select,project {New} team {New}}": "{entity, select,project {Новый} team {Новая}}"
 }
