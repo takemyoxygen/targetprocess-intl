@@ -1008,7 +1008,7 @@
     "% of all entities": "% от всех сущностей",
     "The distribution bars show how many entities were completed within a given cycle time. The cumulative line shows how many days will it take to complete a {userStories} or other entity with the desired probability.": "Репорт показывает распределение сущностей по времени цикла, а также сколько времени необходимо, чтобы завершить {userStories} или другие сущности с определенной вероятностью.",
     "X-axis": "ось X",
-    "Cycle or Lead Time in days": "Время Цикла или Время Выполнения в днях",
+    "Cycle or Lead Time in days": "Время цикла или Время выполнения в днях",
     "Y-axis": "ось Y",
     "The completed entities in %": "Завершенные сущности в %",
     "Completion probability in %": "Вероятность завершения в %",
@@ -1251,10 +1251,11 @@
     "Completed": "Completed",
     "End-of-Day Time Remaining": "End-of-Day Time Remaining",
     "Forecast End Date": "Forecast End Date",
-    "Lead Time": "Lead Time",
-    "Lead Time, days": "Lead Time, days",
-    "Cycle Time, days": "Cycle Time, days",
+    "Lead Time": "Время выполнения",
+    "Lead Time, days": "Время выполнения, дни",
+    "Cycle Time, days": "Время цикла, дни",
     "There are more items to show. One can only see up to 1000 items at a time. You might want to narrow down your filter settings.": "Слишком много элементов для отображения. Может быть показано до 1000 элементов за один раз. Вы можете сократить диапазон данных, изменив настройки фильтра. ",
     "There are more items to show. One can only see up to 100 items at a time. You might want to narrow down your filter settings.": "Слишком много элементов для отображения. Может быть показано до 100 элементов за один раз. Вы можете сократить диапазон данных, изменив настройки фильтра. ",
-    "Synchronization of the selected combination of teams is not supported.": "Synchronization of the selected combination of teams is not supported."
+    "Synchronization of the selected combination of teams is not supported.": "Synchronization of the selected combination of teams is not supported.",
+    "Check progress": "Проверить прогресс"
 }
