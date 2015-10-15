@@ -871,12 +871,12 @@
     "Anyone can create Dashboards that are private or shared with their team/project, but only administrators can create public Dashboards.": "Только администраторы могут создавать общедоступные Дашборды. Остальные пользователи могут создать только личные либо общие для команды/проекта Дашборды.",
     "Easily create Reports from predefined templates.": "С лёгкостью создавайте репорты с помощью базовых шаблонов.",
     "Anyone can create Reports that are private or shared with their team/project, but only administrators can create public Reports.": "Только администраторы могут создавать общедоступные Репорты. Остальные пользователи могут создать только личные либо общие для команды/проекта Репорты.",
-    "Faceted charts are not fast when there are many values in both axes. Current restriction in Targetprocess is 100 facets in a single chart. It means you can have 10 values in X axis and 10 values in Y axis. Or 50 values in X axis and 2 values in Y axis.": "Панельные графики могут работать медленно, если на осях задано много значений. Текущее ограничение в Targetprocess - 100 панелей для одного графика. Это значит, что вы можете задать, например, по 10 значений на обоих осях или 50 значений на оси X и 2 на оси Y.",
-    "We recommend to use filters to have less values. For example, if you have Project axis, you can include just several projects you need.": "Мы рекомендуем использовать фильтры, для отображения меньшего количества значений. К примеру, если у вас задана ось Projects, вы можете выбрать лишь те проекты, что вас интересуют.",
-    "Select entities for the report. You can filter them to narrow down data.": "Выберите объекты для репорта. Вы можете использовать фильтры, чтобы уменьшить количество данных.",
-    "Describe entities to include into report, filter, specify type of data fields.": "Опишите объекты, которые необходимо включить в репорт, задайте фильтр, определите тип необходимых полей.",
-    "Map data source dimensions to axes, enhance visual representation.": "Назначьте оси для источника данных, улучшите визуальное отображение.",
-    "1. Select entities you want to see on a report and filter them": "1. Выберите объекты, которые вы хотите увидеть в отчёте",
+    "Faceted charts are not fast when there are many values in both axes. Current restriction in Targetprocess is 100 facets in a single chart. It means you can have 10 values in X axis and 10 values in Y axis. Or 50 values in X axis and 2 values in Y axis.": "Фасетные репорты могут работать медленно, если на осях задано много значений. Текущее ограничение в Targetprocess - 100 фасетов для одного репорта. Это значит, что вы можете задать, например, по 10 значений на обоих осях или 50 значений на оси X и 2 на оси Y.",
+    "We recommend to use filters to have less values. For example, if you have Project axis, you can include just several projects you need.": "Мы рекомендуем использовать фильтры для отображения меньшего количества значений. К примеру, если у вас задана ось Projects, вы можете выбрать лишь те проекты, что вас интересуют.",
+    "Select entities for the report. You can filter them to narrow down data.": "Выберите сущности для репорта. Вы можете использовать фильтры, чтобы уменьшить количество данных.",
+    "Describe entities to include into report, filter, specify type of data fields.": "Опишите сущности, которые необходимо включить в репорт, задайте фильтр, определите тип необходимых полей.",
+    "Map data source dimensions to axes, enhance visual representation.": "Назначьте оси, определите визуальное отображение",
+    "1. Select entities you want to see on a report and filter them": "1. Выберите сущности, которые вы хотите увидеть в репорте",
     "2. Specify axes like: EndDate, COUNT, etc.": "2. Задайте оси. Например, Дата окончания, количество, и т.д.",
     "This checkbox shows/hides planned dates for Done cards.": "Этот флажок показывает/прячет запланированные даты для карточек в состоянии Выполнено.",
     "This checkbox shows/hides Forecast for cards.": "Этот флажок показывает/прячет прогноз для карточек.",
@@ -1259,5 +1259,5 @@
     "Synchronization of the selected combination of teams is not supported.": "Synchronization of the selected combination of teams is not supported.",
     "Check progress": "Проверить прогресс",
     "Lead Time can't be calculated for {entityType}\n                         because its start date is less than the creation date.": "Lead Time can't be calculated for {entityType}\n                         because its start date is less than the creation date.",
-    "Specify a Projects-Teams context for this View, or go with \"not specified\" context.": "Specify a Projects-Teams context for this View, or go with \"not specified\" context."
+    "Specify a Projects-Teams context for this View, or go with \"not specified\" context.": "Задайте контекст \"проекты-команды\" этого Борда или продолжайте использовать общий контекст."
 }
