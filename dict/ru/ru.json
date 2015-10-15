@@ -1015,7 +1015,7 @@
     "Entity type ({types}, etc.)": "Типы сущностей ({types}, др.)",
     "Control limit:": "Контр. предел:",
     "Indicates the threshold at which the process is statistically 'unlikely' (3 standard errors from the median).": "Показывает опасный порог, при котором процесс статистически является 'неуспешным' (3 единицы отклонения от медианы).",
-    "Warning limit:": "Предупред. предел:",
+    "Warning limit:": "Пред. предел:",
     "Indicates the dangerous threshold. All the items above this line are suspicious (2 standard errors from the median).": "Показывает опасный порог. На сущности, находящиеся над этой линией, стоит обратить внимание (2 единицы отклонения от медианы).",
     "Median:": "Медиана:",
     "Typical lead or cycle time. The \"middle\" value in the list of all values.": "Типичное время цикла или время выполнения задачи. Среднее значение среди всех значений.",
