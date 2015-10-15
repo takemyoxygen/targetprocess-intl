@@ -1243,7 +1243,7 @@
     "Setup workflow": "Setup workflow",
     "You need to select a project or a team to see the reports.": "You need to select a project or a team to see the reports.",
     "Cumulative Flow": "Cumulative Flow",
-    "Other Reports...": "Other Reports...",
+    "Other Reports...": "Другие Репорты...",
     "Initial Effort": "Initial Effort",
     "Start-of-Day Time Remaining": "Start-of-Day Time Remaining",
     "Added": "Added",
@@ -1254,7 +1254,7 @@
     "Lead Time": "Lead Time",
     "Lead Time, days": "Lead Time, days",
     "Cycle Time, days": "Cycle Time, days",
-    "There are more items to show. One can only see up to 1000 items at a time. You might want to narrow down your filter settings.": "There are more items to show. One can only see up to 1000 items at a time. You might want to narrow down your filter settings.",
-    "There are more items to show. One can only see up to 100 items at a time. You might want to narrow down your filter settings.": "There are more items to show. One can only see up to 100 items at a time. You might want to narrow down your filter settings.",
+    "There are more items to show. One can only see up to 1000 items at a time. You might want to narrow down your filter settings.": "Слишком много элементов для отображения. Может быть показано до 1000 элементов за один раз. Вы можете сократить диапазон данных, изменив настройки фильтра. ",
+    "There are more items to show. One can only see up to 100 items at a time. You might want to narrow down your filter settings.": "Слишком много элементов для отображения. Может быть показано до 100 элементов за один раз. Вы можете сократить диапазон данных, изменив настройки фильтра. ",
     "Synchronization of the selected combination of teams is not supported.": "Synchronization of the selected combination of teams is not supported."
 }
