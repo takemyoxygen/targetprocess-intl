@@ -978,7 +978,7 @@
     "Burn Down": "Burn Down",
     "Cycle Time Distribution": "Распределение времени цикла",
     "Relations Network": "Схема связей",
-    "{iteration} (current)": "{iteration} (текущая)",
+    "{iteration} (current)": "{iteration} (в прогрессе)",
     "All Projects": "Все Проекты",
     "Weekly": "Еженедельная",
     "Daily": "Ежедневная",
