@@ -832,8 +832,8 @@
     "Update the workflow": "Обновите процесс работы",
     "Initial and final states cannot be marked as planned.": "Начальный и конечный статус не может быть помечен, как планируемый.",
     "{entityTypes} can be moved from the selected below states to the current one.": "{entityTypes} могут перейти из выбранных статусов в текущий.",
-    "{entityTypes} can be moved to the selected below states from the current one.": "{entityTypes} могут перейти из текущего состояния в выбранные.",
-    "Transitions do not affect the states order on a board.": "Переходы не влияют на порядок состояний на борде.",
+    "{entityTypes} can be moved to the selected below states from the current one.": "{entityTypes} могут перейти из текущего статуса в выбранные.",
+    "Transitions do not affect the states order on a board.": "Переходы не влияют на порядок статусов на борде.",
     "To get the proper report URL: {items}": "Для получения правильной ссылки на отчёт нужно: {items}",
     "Open your Tableau report": "Откройте ваш репорт из Tableau",
     "Click the 'Share' button at the bottom of the page": "Нажмите на кнопку 'Поделиться' в нижней части страницы",
@@ -1258,5 +1258,6 @@
     "There are more items to show. One can only see up to 100 items at a time. You might want to narrow down your filter settings.": "Слишком много элементов для отображения. Может быть показано до 100 элементов за один раз. Вы можете сократить диапазон данных, изменив настройки фильтра. ",
     "Synchronization of the selected combination of teams is not supported.": "Synchronization of the selected combination of teams is not supported.",
     "Check progress": "Проверить прогресс",
-    "Lead Time can't be calculated for {entityType}\n                         because its start date is less than the creation date.": "Lead Time can't be calculated for {entityType}\n                         because its start date is less than the creation date."
+    "Lead Time can't be calculated for {entityType}\n                         because its start date is less than the creation date.": "Lead Time can't be calculated for {entityType}\n                         because its start date is less than the creation date.",
+    "Specify a Projects-Teams context for this View, or go with \"not specified\" context.": "Specify a Projects-Teams context for this View, or go with \"not specified\" context."
 }
