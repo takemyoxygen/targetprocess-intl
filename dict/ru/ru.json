@@ -1259,5 +1259,9 @@
     "Synchronization of the selected combination of teams is not supported.": "Synchronization of the selected combination of teams is not supported.",
     "Check progress": "Проверить прогресс",
     "Lead Time can't be calculated for {entityType}\n                         because its start date is less than the creation date.": "Lead Time can't be calculated for {entityType}\n                         because its start date is less than the creation date.",
-    "Specify a Projects-Teams context for this View, or go with \"not specified\" context.": "Задайте контекст \"проекты-команды\" этого Борда или продолжайте использовать общий контекст."
+    "Specify a Projects-Teams context for this View, or go with \"not specified\" context.": "Задайте контекст \"проекты-команды\" этого Борда или продолжайте использовать общий контекст.",
+    "There are several methods named {methodName}.": "There are several methods named {methodName}.",
+    "The {childEntityKind} entity for {parentEntityKind} with ID {childEntityId} could not be found.": "The {childEntityKind} entity for {parentEntityKind} with ID {childEntityId} could not be found.",
+    "Severity with importance {importanceValue} already exists.": "Severity with importance {importanceValue} already exists.",
+    "This {userTerm} is allocated to this {projectTerm} as a '{roleName}' already. A {userTerm} cannot be allocated to one {projectTerm} in different {roleTerm}.": "This {userTerm} is allocated to this {projectTerm} as a '{roleName}' already. A {userTerm} cannot be allocated to one {projectTerm} in different {roleTerm}."
 }
