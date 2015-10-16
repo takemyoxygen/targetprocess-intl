@@ -1263,5 +1263,7 @@
     "There are several methods named {methodName}.": "There are several methods named {methodName}.",
     "The {childEntityKind} entity for {parentEntityKind} with ID {childEntityId} could not be found.": "The {childEntityKind} entity for {parentEntityKind} with ID {childEntityId} could not be found.",
     "Severity with importance {importanceValue} already exists.": "Severity with importance {importanceValue} already exists.",
-    "This {userTerm} is allocated to this {projectTerm} as a '{roleName}' already. A {userTerm} cannot be allocated to one {projectTerm} in different {roleTerm}.": "This {userTerm} is allocated to this {projectTerm} as a '{roleName}' already. A {userTerm} cannot be allocated to one {projectTerm} in different {roleTerm}."
+    "This {userTerm} is allocated to this {projectTerm} as a '{roleName}' already. A {userTerm} cannot be allocated to one {projectTerm} in different {roleTerm}.": "This {userTerm} is allocated to this {projectTerm} as a '{roleName}' already. A {userTerm} cannot be allocated to one {projectTerm} in different {roleTerm}.",
+    "Angle brackets expected.": "Angle brackets expected.",
+    "Unknown type '{type}'.": "Unknown type '{type}'."
 }
