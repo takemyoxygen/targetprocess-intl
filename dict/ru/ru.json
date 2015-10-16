@@ -949,7 +949,7 @@
     "You can add {stateName} state manually in {processName} process.": "Вы можете добавить {stateName} в процессе {processName}.",
     "Possible transitions are: {currentStateName} → {nextStateNames}.": "Возможные переходы: {currentStateName} → {nextStateNames}.",
     "You can edit the workflow for {processName} process.": "Вы можете редактировать {processName} процесс.",
-    "{teamsCount, plural, =1 {Team {teamsText} is} other {Teams {teamsText} are}} now assigned to project {projectName}.": "{teamsCount, plural, =1 {Команда {teamsText} назначена на проект {projectName}} other {Команды {teamsText} назначены на проект {projectName}}}",
+    "{teamsCount, plural, =1 {Team {teamsText} is} other {Teams {teamsText} are}} now assigned to project {projectName}.": "{teamsCount, plural, =1 {Команда {teamsText} назначена на проект {projectName}} other {Команды {teamsText} назначены на проект {projectName}}}.",
     "To assign work to these teams, make sure that teams have their team workflows set up for the project.": "Перед назначением работы на команды убедитесь, что у команд настроены процессы работы для данного проекта.",
     "link will be opened in the same window": "link will be opened in the same window",
     "Workflow setup": "Настройка процесса работы",
