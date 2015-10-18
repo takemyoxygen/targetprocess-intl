@@ -1265,5 +1265,6 @@
     "Severity with importance {importanceValue} already exists.": "Severity with importance {importanceValue} already exists.",
     "This {userTerm} is allocated to this {projectTerm} as a '{roleName}' already. A {userTerm} cannot be allocated to one {projectTerm} in different {roleTerm}.": "This {userTerm} is allocated to this {projectTerm} as a '{roleName}' already. A {userTerm} cannot be allocated to one {projectTerm} in different {roleTerm}.",
     "Angle brackets expected.": "Angle brackets expected.",
-    "Unknown type '{type}'.": "Unknown type '{type}'."
+    "Unknown type '{type}'.": "Unknown type '{type}'.",
+    "Workflow for {typesText} {typesCount, plural, =1 {entity type} other {entity types}} should be defined.": "Workflow for {typesText} {typesCount, plural, =1 {entity type} other {entity types}} should be defined."
 }
