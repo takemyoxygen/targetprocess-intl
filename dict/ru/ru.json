@@ -1268,11 +1268,11 @@
     "Unknown type '{type}'.": "Unknown type '{type}'.",
     "Workflow for {typesText} {typesCount, plural, =1 {entity type} other {entity types}} should be defined.": "Workflow for {typesText} {typesCount, plural, =1 {entity type} other {entity types}} should be defined.",
     "Size": "Размер",
-    "Selected cards are big Related cards are small": "Выбранные карточки - большие. \nСвязанные карточки - маленькие",
+    "Selected cards are big Related cards are small": "Выбранные карточки - большие. \nСвязанные карточки - маленькие.",
     "Arrows": "Стрелки",
     "Blocker": "Блокер",
     "Dependency": "Зависимость",
     "Relation": "Связь",
     "Link": "Ссылка",
-    "A \"done\" card is grey": "Сделанная карточка - серая"
+    "A \"done\" card is grey": "Сделанная карточка - серая."
 }
