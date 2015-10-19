@@ -1266,5 +1266,13 @@
     "This {userTerm} is allocated to this {projectTerm} as a '{roleName}' already. A {userTerm} cannot be allocated to one {projectTerm} in different {roleTerm}.": "This {userTerm} is allocated to this {projectTerm} as a '{roleName}' already. A {userTerm} cannot be allocated to one {projectTerm} in different {roleTerm}.",
     "Angle brackets expected.": "Angle brackets expected.",
     "Unknown type '{type}'.": "Unknown type '{type}'.",
-    "Workflow for {typesText} {typesCount, plural, =1 {entity type} other {entity types}} should be defined.": "Workflow for {typesText} {typesCount, plural, =1 {entity type} other {entity types}} should be defined."
+    "Workflow for {typesText} {typesCount, plural, =1 {entity type} other {entity types}} should be defined.": "Workflow for {typesText} {typesCount, plural, =1 {entity type} other {entity types}} should be defined.",
+    "Size": "Size",
+    "Selected cards are big Related cards are small": "Selected cards are big Related cards are small",
+    "Arrows": "Arrows",
+    "Blocker": "Blocker",
+    "Dependency": "Dependency",
+    "Relation": "Relation",
+    "Link": "Link",
+    "A \"done\" card is grey": "A \"done\" card is grey"
 }
