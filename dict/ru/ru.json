@@ -1284,7 +1284,7 @@
     "Tests": "Тесты",
     "{completedStories} of {totalStoriesCount} {userStoriesTerm} completed": "{completedStories} из {totalStoriesCount} {userStoriesTerm} завершено",
     "Completed {effortCompleted}": "Завершено {effortCompleted}",
-    "ToDo {effortToDo}": "Выполнить {effortToDo}",
+    "ToDo {effortToDo}": "Осталось {effortToDo}",
     "Spent {timeSpent}": "Потрачено {timeSpent}",
     "Remain {timeRemain}": "Осталось {timeRemain}",
     "Provide a required comment": "Напишите обязательный комментарий",
