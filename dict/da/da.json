@@ -1437,5 +1437,10 @@
     "Email Support": "Email Support",
     "Process setup": "Process setup",
     "Settings": "Settings",
-    "Send idea": "Send idea"
+    "Send idea": "Send idea",
+    "Copy to project...": "Copy to project...",
+    "No {entityTerm} found": "No {entityTerm} found",
+    "reset {entityTerm}": "reset {entityTerm}",
+    "reset": "reset",
+    "More": "More"
 }
