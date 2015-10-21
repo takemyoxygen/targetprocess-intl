@@ -1974,5 +1974,7 @@
     "Feedback sent": "Feedback sent",
     "What do you think about {thisFeature}?": "What do you think about {thisFeature}?",
     "Send feedback": "Send feedback",
-    "Give feedback about {featureName}": "Give feedback about {featureName}"
+    "Give feedback about {featureName}": "Give feedback about {featureName}",
+    "{affectedEntitiesCount, plural, =1 {It} other {They}} will be moved to '{targetStateName}' state.": "{affectedEntitiesCount, plural, =1 {It} other {They}} will be moved to '{targetStateName}' state.",
+    "State is Planned": "State is Planned"
 }

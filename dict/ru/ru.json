@@ -1967,12 +1967,14 @@
     "Based on our your feedback, we came up with a set of most useful rules that you can apply from the list below. Meanwhile we're developing a flexible system for creating your own rules. We will be happy if you share your experience and ideas with us.": "Based on our your feedback, we came up with a set of most useful rules that you can apply from the list below. Meanwhile we're developing a flexible system for creating your own rules. We will be happy if you share your experience and ideas with us.",
     "Send": "Send",
     "Share your wishes with us": "Share your wishes with us",
-    "Like": "Like",
-    "Miss": "Miss",
-    "Improve (your ideas)": "Improve (your ideas)",
-    "this feature": "this feature",
-    "Feedback sent": "Feedback sent",
-    "What do you think about {thisFeature}?": "What do you think about {thisFeature}?",
-    "Send feedback": "Send feedback",
-    "Give feedback about {featureName}": "Give feedback about {featureName}"
+    "Like": "Нравится",
+    "Miss": "Не хватает",
+    "Improve (your ideas)": "Можно улучшить (ваши идеи)",
+    "this feature": "эту возможность",
+    "Feedback sent": "Отзыв отправлен",
+    "What do you think about {thisFeature}?": "Что вы думаете о {thisFeature}? ",
+    "Send feedback": "Отправить отзыв",
+    "Give feedback about {featureName}": "Отправить отзыв о {featureName}",
+    "{affectedEntitiesCount, plural, =1 {It} other {They}} will be moved to '{targetStateName}' state.": "{affectedEntitiesCount, plural, =1 {It} other {They}} will be moved to '{targetStateName}' state.",
+    "State is Planned": "State is Planned"
 }
