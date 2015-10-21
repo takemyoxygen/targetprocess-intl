@@ -1390,7 +1390,7 @@
     "Add state": "Добавить статус",
     "Add Team Workflow": "Добавить процесс работы команды",
     "Do you really want to delete this Team Workflow?": "Вы, действительно, хотите удалить этот процесс работы команды?",
-    "Team Workflow can't be deleted as used by {teamsText} {teamsCount, plural, =1 {team} other {teams}}": "Процесс работы не может быть удален, так как его используют {teamsText} {teamsCount, plural, =1 {команды} other {команды}}",
+    "Team Workflow can't be deleted as used by {teamsText} {teamsCount, plural, =1 {team} other {teams}}": "Процесс работы команды не может быть удален, так как его используют {teamsText} {teamsCount, plural, =1 {команды} other {команды}}",
     "Delete Team Workflow": "Удалить процесс работы команды",
     "This operation can take a few moments, as it requires an update to any item related to the Team Workflow.": "Эта операция займет некоторое время, так как она требует обновления всех сущностей, имеющих отношение к процессу работы команды.",
     "Batch updating a Team Workflow may affect the Team State of items related to it.": "Обновление процесса работы команды может повлиять на статусы работы команды для сущностей, на которые она назначена.",
