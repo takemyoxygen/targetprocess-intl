@@ -1975,6 +1975,6 @@
     "What do you think about {thisFeature}?": "Что вы думаете о {thisFeature}? ",
     "Send feedback": "Отправить отзыв",
     "Give feedback about {featureName}": "Отправить отзыв о {featureName}",
-    "{affectedEntitiesCount, plural, =1 {It} other {They}} will be moved to '{targetStateName}' state.": "{affectedEntitiesCount, plural, =1 {It} other {They}} will be moved to '{targetStateName}' state.",
-    "State is Planned": "State is Planned"
+    "{affectedEntitiesCount, plural, =1 {It} other {They}} will be moved to '{targetStateName}' state.": "{affectedEntitiesCount, plural, =1 {Сущность будет перенесена} other {Сущности будут перенесены}} в '{targetStateName}' статус.",
+    "State is Planned": "Статус - планируемый"
 }
