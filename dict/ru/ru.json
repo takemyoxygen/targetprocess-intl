@@ -353,7 +353,7 @@
     "Do you really want to delete user?": "Do you really want to delete user?",
     "Effort": "Effort",
     "Total": "Итого",
-    "You don't have any teams available to assign a {type} to.": "You don't have any teams available to assign a {type} to.",
+    "You don't have any teams available to assign a {type} to.": "У вас нет команд, чтобы назначить на них {type}.",
     "No teams have been selected from the project and team selector. <br/>Select some teams to assign work to them.": "No teams have been selected from the project and team selector. <br/>Select some teams to assign work to them.",
     "Quick add work and people": "Quick add work and people",
     "Do you really want to delete this {view}": "Do you really want to delete this {view}",
