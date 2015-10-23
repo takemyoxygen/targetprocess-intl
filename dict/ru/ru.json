@@ -539,7 +539,7 @@
     "Set up your board View": "Настройте Ваш Борд",
     "All columns and rows on this View are empty.": "Все колонки и ряды на данном Борде пустые.",
     "Finish": "Завершить",
-    "{rangeDateDays} {rangeDateDays, plural, one {day} other {days}} left": "{rangeDateDays} {rangeDateDays, plural, one {день остался} few {дня осталось} many {дней осталось} other {дня осталось}}",
+    "{rangeDateDays} {rangeDateDays, plural, one {day} other {days}} left": "{rangeDateDays, plural, one {Остался {rangeDateDays} день} few {Осталось {rangeDateDays} дня} many {Осталось {rangeDateDays} дней} other {Осталось {rangeDateDays} дня}}",
     "{rangeDateHours} {rangeDateHours, plural, one {hour} other {hours}} left": "{rangeDateHours} {rangeDateHours, plural, one {час} other {часов}} осталось",
     "Perfect match!": "Точное соответствие!",
     "{range} left.": "{range} осталось.",
