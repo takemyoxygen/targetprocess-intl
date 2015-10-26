@@ -1773,7 +1773,7 @@
     "RequestType": "RequestType",
     "Requesters": "Requesters",
     "RequestersStrict": "RequestersStrict",
-    "BuildDate": "BuildDate",
+    "BuildDate": "Дата Билда",
     "ParentId": "ParentId",
     "Assignment": "Assignment",
     "HasEffort": "HasEffort",
