@@ -1452,7 +1452,7 @@
     "Team Info": "Team Info",
     "Program Info": "Program Info",
     "Process": "Process",
-    "Name": "Name",
+    "Name": "Название",
     "IsDefault": "IsDefault",
     "Description": "Description",
     "EntityStates": "EntityStates",
@@ -1959,5 +1959,6 @@
     "Cycle Time": "Cycle Time",
     "Test Plan": "Test Plan",
     "User Story": "User Story",
-    "Entity Type": "Entity Type"
+    "Entity Type": "Entity Type",
+    "Process Admins": "Process Admins"
 }
