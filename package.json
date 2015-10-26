@@ -1,6 +1,6 @@
 {
   "name": "targetprocess-intl",
-  "version": "0.376.0",
+  "version": "0.377.0",
   "description": "\"Dictionaries of translations for localization targetprocess\"",
   "main": "index.js",
   "scripts": {
