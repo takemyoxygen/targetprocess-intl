@@ -1354,7 +1354,7 @@
     "Continue": "Продолжить",
     "Transition From": "Переход со статуса ааа ббб ввв ггг ддд",
     "Transition To": "Переход в статус ааа ббб ввв ггг ддд",
-    "Responsible role": "Ответственная роль",
+    "Responsible role": "Ответственная роль ааа ббб ввв ггг ддд еее",
     "People assigned to this role will be responsible for {singleEntityTerm} in this state.": "Люди, назначенные в данной роли, будут ответственны за работу над сущностью {singleEntityTerm} в этом статусе.",
     "Marking a state as planned means that this is the state just before taking {multipleEntitiesTerm} into progress.": "Отметка 'запланировано' означает, что в этом статусе {multipleEntitiesTerm} находятся до того, как они попадают в работу.  ",
     "The Cycle Time will start when {multipleEntitiesTerm} leaves this state.": "Время цикла начнет считаться, когда {multipleEntitiesTerm} покинут этот статус.",
