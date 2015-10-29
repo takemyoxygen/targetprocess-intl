@@ -1952,5 +1952,9 @@
     "Time Pattern": "Time Pattern",
     "Entity Kind": "Entity Kind",
     "Type": "Type",
-    "Listed": "Listed"
+    "Listed": "Listed",
+    "Provide an allocation date": "Provide an allocation date",
+    "planned start/end dates of {cellDatesItemKind}": "planned start/end dates of {cellDatesItemKind}",
+    "The current entity depends on the inbound entities, so they should be completed <b>BEFORE</b> the current entity is started.": "Текущая сущность зависит от входящих сущностей, то есть работа над ними должна быть завершена <b>до</b> старта текущей сущности.",
+    "The outbound entities depend on the current entity, so they should be started <b>AFTER</b> the current entity is completed.": "Исходящие сущности зависят от текущей сущности, то есть работа над ними должна быть начата <b>после</b> завершения текущей сущности."
 }
