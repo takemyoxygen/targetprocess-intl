@@ -1046,7 +1046,7 @@
     "Method '{method}' does not exist in '{type}'.": "Method '{method}' does not exist in '{type}'.",
     "Methods on type '{type}' are not accessible.": "Methods on type '{type}' are not accessible.",
     "Method '{method}' in type '{type}' does not return a value.": "Method '{method}' in type '{type}' does not return a value.",
-    "Property '{property}' does not exist in '{type}'.": "Property '{property}' does not exist in '{type}'.",
+    "Property '{property}' does not exist in '{type}'.": "Поля '{property}' нет в '{type}'.",
     "No applicable indexer exists in type '{type}'.": "No applicable indexer exists in type '{type}'.",
     "Ambiguous invocation of indexer in type '{type}'.": "Ambiguous invocation of indexer in type '{type}'.",
     "Operator '{operator}' incompatible with operand type '{type}'.": "Operator '{operator}' incompatible with operand type '{type}'.",
