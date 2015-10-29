@@ -1956,5 +1956,18 @@
     "Provide an allocation date": "Provide an allocation date",
     "planned start/end dates of {cellDatesItemKind}": "planned start/end dates of {cellDatesItemKind}",
     "The current entity depends on the inbound entities, so they should be completed <b>BEFORE</b> the current entity is started.": "Текущая сущность зависит от входящих сущностей, то есть работа над ними должна быть завершена <b>до</b> старта текущей сущности.",
-    "The outbound entities depend on the current entity, so they should be started <b>AFTER</b> the current entity is completed.": "Исходящие сущности зависят от текущей сущности, то есть работа над ними должна быть начата <b>после</b> завершения текущей сущности."
+    "The outbound entities depend on the current entity, so they should be started <b>AFTER</b> the current entity is completed.": "Исходящие сущности зависят от текущей сущности, то есть работа над ними должна быть начата <b>после</b> завершения текущей сущности.",
+    "Back to search results": "Back to search results",
+    "Any states": "Any states",
+    "Enter more than 2 characters": "Enter more than 2 characters",
+    "Search in": "Search in",
+    "Any entities": "Any entities",
+    "All projects & teams": "All projects & teams",
+    "All projects": "All projects",
+    "switch to the old search": "switch to the old search",
+    "Something is wrong with the search. Try again or {switchToOldSearch}.": "Something is wrong with the search. Try again or {switchToOldSearch}.",
+    "Search results might be incomplete at this point. Indexing is still in progress...": "Search results might be incomplete at this point. Indexing is still in progress...",
+    "Previous": "Previous",
+    "Global search": "Global search",
+    "Close": "Close"
 }
