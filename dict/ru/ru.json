@@ -1058,7 +1058,7 @@
     "The access to {entityKind} is denied for '{user}'.": "The access to {entityKind} is denied for '{user}'.",
     "{entityKind} with {fieldName} '{value}' could not be found.": "{entityKind} with {fieldName} '{value}' could not be found.",
     "The {childEntity} entity for {parentEntity} with ID {childEntityId} could not be found.": "The {childEntity} entity for {parentEntity} with ID {childEntityId} could not be found.",
-    "{fieldName} should be specified.": "{fieldName} should be specified.",
+    "{fieldName} should be specified.": "{fieldName} должно быть задано.",
     "Value {value} of field {fieldName} is out of bounds.": "Value {value} of field {fieldName} is out of bounds.",
     "{fieldName} should be equal to or greater than zero.": "{fieldName} should be equal to or greater than zero.",
     "{fieldName} should be greater than zero.": "{fieldName} should be greater than zero.",
