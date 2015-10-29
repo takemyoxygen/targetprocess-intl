@@ -1616,7 +1616,7 @@
     "Outbound Assignables": "Outbound Assignables",
     "Attachments": "Attachments",
     "Assignable": "Assignable",
-    "Effort": "Effort",
+    "Effort": "Трудозатраты",
     "Effort Completed": "Effort Completed",
     "Effort To Do": "Effort To Do",
     "Progress": "Progress",
@@ -1973,10 +1973,8 @@
     "Assign To Me": "Assign To Me",
     "Unassign": "Unassign",
     "For filter start typing name": "For filter start typing name",
-    "Add assignment": "Add assignment",
-    "This {entityTerm} can't be assigned to a person. Its process '{processName}' doesn't have any Role for {entityTerm} workflow.": "This {entityTerm} can't be assigned to a person. Its process '{processName}' doesn't have any Role for {entityTerm} workflow.",
-    "Contact your administrator to add a responsible role to at least one state in the workflow.": "Contact your administrator to add a responsible role to at least one state in the workflow.",
-    "Add a responsible role to at least one state in the <span class=\"i-role-workflow-link\">workflow</span>.": "Add a responsible role to at least one state in the <span class=\"i-role-workflow-link\">workflow</span>.",
-    "Read more…": "Read more…",
-    "Possible transitions are: {currentStateName} → {nextStateNames}.": "Possible transitions are: {currentStateName} → {nextStateNames}."
+    "Add assignment": "Добавить назначение",
+    "This {entityTerm} can't be assigned to a person. Its process '{processName}' doesn't have any Role for {entityTerm} workflow.": "Этот {entityTerm} не может быть назначен на человека. В его   '{processName}' не определена ни одна роль для процесса работы над {entityTerm}.",
+    "Contact your administrator to add a responsible role to at least one state in the workflow.": "Свяжитесь с вашим администратором, чтобы добавить ответственную роль, как минимум в один статус в процессе работы.",
+    "Add a responsible role to at least one state in the <span class=\"i-role-workflow-link\">workflow</span>.": "Добавьте ответственную роль, как минимум в один статус в <span class=\"i-role-workflow-link\">процессе работы</span>."
 }

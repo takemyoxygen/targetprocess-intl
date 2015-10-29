@@ -1976,7 +1976,5 @@
     "Add assignment": "Add assignment",
     "This {entityTerm} can't be assigned to a person. Its process '{processName}' doesn't have any Role for {entityTerm} workflow.": "This {entityTerm} can't be assigned to a person. Its process '{processName}' doesn't have any Role for {entityTerm} workflow.",
     "Contact your administrator to add a responsible role to at least one state in the workflow.": "Contact your administrator to add a responsible role to at least one state in the workflow.",
-    "Add a responsible role to at least one state in the <span class=\"i-role-workflow-link\">workflow</span>.": "Add a responsible role to at least one state in the <span class=\"i-role-workflow-link\">workflow</span>.",
-    "Read more…": "Read more…",
-    "Possible transitions are: {currentStateName} → {nextStateNames}.": "Possible transitions are: {currentStateName} → {nextStateNames}."
+    "Add a responsible role to at least one state in the <span class=\"i-role-workflow-link\">workflow</span>.": "Add a responsible role to at least one state in the <span class=\"i-role-workflow-link\">workflow</span>."
 }
