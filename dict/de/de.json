@@ -1976,5 +1976,15 @@
     "Add assignment": "Add assignment",
     "This {entityTerm} can't be assigned to a person. Its process '{processName}' doesn't have any Role for {entityTerm} workflow.": "This {entityTerm} can't be assigned to a person. Its process '{processName}' doesn't have any Role for {entityTerm} workflow.",
     "Contact your administrator to add a responsible role to at least one state in the workflow.": "Contact your administrator to add a responsible role to at least one state in the workflow.",
-    "Add a responsible role to at least one state in the <span class=\"i-role-workflow-link\">workflow</span>.": "Add a responsible role to at least one state in the <span class=\"i-role-workflow-link\">workflow</span>."
+    "Add a responsible role to at least one state in the <span class=\"i-role-workflow-link\">workflow</span>.": "Add a responsible role to at least one state in the <span class=\"i-role-workflow-link\">workflow</span>.",
+    "Can not use Calculated Custom Fields in Calculated Custom Fields.": "Can not use Calculated Custom Fields in Calculated Custom Fields.",
+    "'{functionName}' can only be called with a positive integer argument.": "'{functionName}' can only be called with a positive integer argument.",
+    "How the min, average and max Cycle Time of User Stories changes by week": "How the min, average and max Cycle Time of User Stories changes by week",
+    "How many Requests were added every day for the last two months": "How many Requests were added every day for the last two months",
+    "For every person the effort ToDo, in progress and completed in the current iteration of each project": "For every person the effort ToDo, in progress and completed in the current iteration of each project",
+    "Oops, it seems that we can't render this report": "Oops, it seems that we can't render this report",
+    "Focus": "Focus",
+    "There are no saved filters": "There are no saved filters",
+    "Either the cards cannot be prioritized together, or ranking is not applicable to them.": "Either the cards cannot be prioritized together, or ranking is not applicable to them.",
+    "Link will be opened in the same window": "Link will be opened in the same window"
 }
