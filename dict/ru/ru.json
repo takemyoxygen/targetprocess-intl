@@ -1986,5 +1986,6 @@
     "Focus": "Focus",
     "There are no saved filters": "There are no saved filters",
     "Either the cards cannot be prioritized together, or ranking is not applicable to them.": "Either the cards cannot be prioritized together, or ranking is not applicable to them.",
-    "Link will be opened in the same window": "Link will be opened in the same window"
+    "Link will be opened in the same window": "Link will be opened in the same window",
+    "Team State is not in sync with Entity State.": "Team State is not in sync with Entity State."
 }
