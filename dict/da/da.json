@@ -2214,5 +2214,10 @@
     "Issue": "Issue",
     "Idea": "Idea",
     "Question": "Question",
-    "User doesn't belong to any project": "User doesn't belong to any project"
+    "User doesn't belong to any project": "User doesn't belong to any project",
+    "No date": "No date",
+    "Future": "Future",
+    "Past": "Past",
+    "Today ({date})": "Today ({date})",
+    "</option>": "</option>"
 }
