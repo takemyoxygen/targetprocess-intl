@@ -2024,9 +2024,9 @@
     "Open/total Requests": "Открыто/всего Реквестов",
     "Open/total {entityTerm}": "Открыто/всего {entityTerm}",
     "Open tasks": "Открытые задачи",
-    "Open {entityTerm}": "Open {entityTerm}",
-    "Open requests": "Open requests",
-    "Open/total test plan runs": "Open/total test plan runs",
+    "Open {entityTerm}": "Открыто {entityTerm}",
+    "Open requests": "Открытые реквесты",
+    "Open/total test plan runs": "Открыто/всего прогонов тест плана",
     "Open test plan runs": "Open test plan runs",
     "Total effort": "Total effort",
     "Completed effort": "Completed effort",
@@ -2221,5 +2221,7 @@
     "Today ({date})": "Сегодня ({date})",
     "</option>": "</option>",
     "Total Effort should be equal to EffortCompleted + EffortToDo when several effort fields are modified. Actual values: Effort={effort}, EffortCompleted={effortCompleted}, EffortToDo={effortToDo}.": "Total Effort should be equal to EffortCompleted + EffortToDo when several effort fields are modified. Actual values: Effort={effort}, EffortCompleted={effortCompleted}, EffortToDo={effortToDo}.",
-    "ToDo and completed work by Features": "ToDo and completed work by Features"
+    "ToDo and completed work by Features": "ToDo and completed work by Features",
+    "To Do": "Сделать",
+    "Work in progress": "Work in progress"
 }

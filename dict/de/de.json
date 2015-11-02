@@ -2221,5 +2221,7 @@
     "Today ({date})": "Today ({date})",
     "</option>": "</option>",
     "Total Effort should be equal to EffortCompleted + EffortToDo when several effort fields are modified. Actual values: Effort={effort}, EffortCompleted={effortCompleted}, EffortToDo={effortToDo}.": "Total Effort should be equal to EffortCompleted + EffortToDo when several effort fields are modified. Actual values: Effort={effort}, EffortCompleted={effortCompleted}, EffortToDo={effortToDo}.",
-    "ToDo and completed work by Features": "ToDo and completed work by Features"
+    "ToDo and completed work by Features": "ToDo and completed work by Features",
+    "To Do": "To Do",
+    "Work in progress": "Work in progress"
 }
