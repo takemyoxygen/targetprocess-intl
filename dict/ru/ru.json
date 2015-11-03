@@ -2226,5 +2226,8 @@
     "Work in progress": "Work in progress",
     "Order": "Порядок",
     "Rank": "Порядковый Номер",
-    "Default Role": "Роль по-умолчанию"
+    "Default Role": "Роль по-умолчанию",
+    "The var Milestone has been deleted": "The var Milestone has been deleted",
+    "The Milestone has been updated": "The Milestone has been updated",
+    "The Milestone has been added": "The Milestone has been added"
 }
