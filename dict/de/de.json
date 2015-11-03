@@ -2227,11 +2227,8 @@
     "Order": "Order",
     "Rank": "Rank",
     "Default Role": "Default Role",
-    "The var Milestone has been deleted": "The var Milestone has been deleted",
     "The Milestone has been updated": "The Milestone has been updated",
     "The Milestone has been added": "The Milestone has been added",
     "], sampleData: {name:": "], sampleData: {name:",
-    "The Milestone has been deleted": "The Milestone has been deleted",
-    "Read more…": "Read more…",
-    "Possible transitions are: {currentStateName} → {nextStateNames}.": "Possible transitions are: {currentStateName} → {nextStateNames}."
+    "The Milestone has been deleted": "The Milestone has been deleted"
 }
