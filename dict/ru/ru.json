@@ -1416,7 +1416,7 @@
     "Give feedback about {featureName}": "Отправить отзыв о {featureName}",
     "{affectedEntitiesCount, plural, =1 {It} other {They}} will be moved to '{targetStateName}' state.": "{affectedEntitiesCount, plural, =1 {Сущность будет перенесена} other {Сущности будут перенесены}} в статус '{targetStateName}'.",
     "State is Planned": "Статус - планируемый ааа ббб ввв ггг ддд",
-    "Add Comment": "Добавить комментарий",
+    "Add Comment": "Add Comment",
     "Delete comment?": "Удалить комментарий?",
     "Add comment": "Добавить комментарий",
     "Add Reply": "Ответить",
