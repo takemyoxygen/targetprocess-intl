@@ -2230,5 +2230,9 @@
     "The Milestone has been updated": "The Milestone has been updated",
     "The Milestone has been added": "The Milestone has been added",
     "], sampleData: {name:": "], sampleData: {name:",
-    "The Milestone has been deleted": "The Milestone has been deleted"
+    "The Milestone has been deleted": "The Milestone has been deleted",
+    "Success!": "Success!",
+    "{fromEntityTerm} '{entityName}\\' has been converted to {toEntityTerm} {entityLink}.": "{fromEntityTerm} '{entityName}\\' has been converted to {toEntityTerm} {entityLink}.",
+    "{entityTerm} has been copied to project '{projectName}\\'.": "{entityTerm} has been copied to project '{projectName}\\'.",
+    "Search Project": "Search Project"
 }
