@@ -2234,5 +2234,10 @@
     "Success!": "Success!",
     "{fromEntityTerm} '{entityName}\\' has been converted to {toEntityTerm} {entityLink}.": "{fromEntityTerm} '{entityName}\\' has been converted to {toEntityTerm} {entityLink}.",
     "{entityTerm} has been copied to project '{projectName}\\'.": "{entityTerm} has been copied to project '{projectName}\\'.",
-    "Search Project": "Search Project"
+    "Search Project": "Search Project",
+    "No email notification was sent as Email Notifications are disabled in System Settings.": "No email notification was sent as Email Notifications are disabled in System Settings.",
+    "Email notification was sent": "Email notification was sent",
+    "Email notification was sent to {count} people": "Email notification was sent to {count} people",
+    "Email notification was sent to {names}": "Email notification was sent to {names}",
+    "Adding new comment. Please wait...": "Adding new comment. Please wait..."
 }
