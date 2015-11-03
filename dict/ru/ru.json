@@ -2229,5 +2229,6 @@
     "Default Role": "Роль по-умолчанию",
     "The var Milestone has been deleted": "The var Milestone has been deleted",
     "The Milestone has been updated": "The Milestone has been updated",
-    "The Milestone has been added": "The Milestone has been added"
+    "The Milestone has been added": "The Milestone has been added",
+    "], sampleData: {name:": "], sampleData: {name:"
 }
