@@ -1991,7 +1991,7 @@
     "No Team": "Команда не выбрана",
     "No Responsible Team": "Ответственная Команда не выбрана",
     "No Epic": "Эпик не выбран",
-    "No {entityKind}": "{entityKind} не выбран",
+    "No {entityKind}": "{entityKind} не выбрано",
     "No Feature": "Фича не выбрана",
     "No Tags": "Теги не заданы",
     "No Team Iteration": "Итерация Команды не задана",
@@ -2230,5 +2230,8 @@
     "The var Milestone has been deleted": "The var Milestone has been deleted",
     "The Milestone has been updated": "The Milestone has been updated",
     "The Milestone has been added": "The Milestone has been added",
-    "], sampleData: {name:": "], sampleData: {name:"
+    "], sampleData: {name:": "], sampleData: {name:",
+    "The Milestone has been deleted": "The Milestone has been deleted",
+    "Read more…": "Read more…",
+    "Possible transitions are: {currentStateName} → {nextStateNames}.": "Possible transitions are: {currentStateName} → {nextStateNames}."
 }
