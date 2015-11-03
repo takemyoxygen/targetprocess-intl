@@ -2231,13 +2231,16 @@
     "The Milestone has been added": "The Milestone has been added",
     "], sampleData: {name:": "], sampleData: {name:",
     "The Milestone has been deleted": "The Milestone has been deleted",
-    "Success!": "Success!",
-    "{fromEntityTerm} '{entityName}\\' has been converted to {toEntityTerm} {entityLink}.": "{fromEntityTerm} '{entityName}\\' has been converted to {toEntityTerm} {entityLink}.",
-    "{entityTerm} has been copied to project '{projectName}\\'.": "{entityTerm} has been copied to project '{projectName}\\'.",
+    "Success!": "Успешно!",
+    "{fromEntityTerm} '{entityName}\\' has been converted to {toEntityTerm} {entityLink}.": "Сущность {fromEntityTerm} '{entityName}\\' была конвертирована в сущность {toEntityTerm} {entityLink}.",
+    "{entityTerm} has been copied to project '{projectName}\\'.": "Сущность {entityTerm} была скопирована в проект '{projectName}\\'.",
     "Search Project": "Search Project",
     "No email notification was sent as Email Notifications are disabled in System Settings.": "Email нотификации не были отправлены, так как они выключены в системных настройках.",
     "Email notification was sent": "Email нотификация были отправлены",
     "Email notification was sent to {count} people": "Email нотификации были отправлены {count} людям",
     "Email notification was sent to {names}": "Email нотификации были отправлены {names}",
-    "Adding new comment. Please wait...": "Добавляется новый комментарий...Пожалуйста, подождите..."
+    "Adding new comment. Please wait...": "Добавляется новый комментарий...Пожалуйста, подождите...",
+    "Done ({names})": "Done ({names})",
+    "To Do ({names})": "To Do ({names})",
+    "Planned ({names})": "Planned ({names})"
 }

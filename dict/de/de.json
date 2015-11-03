@@ -2239,5 +2239,8 @@
     "Email notification was sent": "Email notification was sent",
     "Email notification was sent to {count} people": "Email notification was sent to {count} people",
     "Email notification was sent to {names}": "Email notification was sent to {names}",
-    "Adding new comment. Please wait...": "Adding new comment. Please wait..."
+    "Adding new comment. Please wait...": "Adding new comment. Please wait...",
+    "Done ({names})": "Done ({names})",
+    "To Do ({names})": "To Do ({names})",
+    "Planned ({names})": "Planned ({names})"
 }
