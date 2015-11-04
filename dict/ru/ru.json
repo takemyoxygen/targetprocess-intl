@@ -2161,7 +2161,7 @@
     "Update Avatar": "Update Avatar",
     "Find duplicate": "Найти дубликат",
     "{entityTerm} Duplicates": "{entityTerm} Дубликаты",
-    "{mergedCount} {totalCount, plural, one {entity was} other {of {totalCount} entities were}} merged into the {entityTerm} #{id}": "{mergedCount} {totalCount, plural, one {сущность была} other {из {totalCount} сущности были}} объединены в {entityTerm} #{id}",
+    "{mergedCount} {totalCount, plural, one {entity was} other {of {totalCount} entities were}} merged into the {entityTerm} #{id}": "{mergedCount} {totalCount, plural, one {сущность была объединена} other {из {totalCount} сущности были объединены}} в {entityTerm} #{id}",
     "Merge": "Объединить",
     "Are you sure you want to merge and close all related {entitiesTerm} marked as duplicates?": "Вы, действительно, хотите объединить и закрыть привязанные {entitiesTerm}, отмеченные как дубликаты.",
     "When merging, any {entitiesTerm} that are related to this entity with the \"duplicate\" relation type and which are not in their final state will have their descriptions, comments, {fieldNames} and followers copied to this entity. Afterwards, the related duplicate entities will be closed.": "При объединении любых {entitiesTerm}, привязанных к данной сущности с типом связи 'дубликат' и не находящихся в финальном статусе, все описание, комментарии, {fieldNames} и фоловеры будут  перенесены в текущую сущность. После этого привязанные дублирующие сущности будут закрыты.",
