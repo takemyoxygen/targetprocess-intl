@@ -2240,7 +2240,7 @@
     "Email notification was sent to {count} people": "Email нотификации были отправлены {count} людям",
     "Email notification was sent to {names}": "Email нотификации были отправлены {names}",
     "Adding new comment. Please wait...": "Добавляется новый комментарий...Пожалуйста, подождите...",
-    "Done ({names})": "Done ({names})",
+    "Done ({names})": "Готово ({names})",
     "To Do ({names})": "Сделать ({names})",
     "Planned ({names})": "Planned ({names})"
 }
