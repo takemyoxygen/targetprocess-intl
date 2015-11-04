@@ -2242,5 +2242,7 @@
     "Adding new comment. Please wait...": "Adding new comment. Please wait...",
     "Done ({names})": "Done ({names})",
     "To Do ({names})": "To Do ({names})",
-    "Planned ({names})": "Planned ({names})"
+    "Planned ({names})": "Planned ({names})",
+    "{fromEntityTerm} '{entityName}' has been converted to {toEntityTerm} {entityLink}.": "{fromEntityTerm} '{entityName}' has been converted to {toEntityTerm} {entityLink}.",
+    "{entityTerm} has been copied to project '{projectName}'.": "{entityTerm} has been copied to project '{projectName}'."
 }
