@@ -2203,7 +2203,7 @@
     "Only administrators can edit email if Single sign-on is enabled": "Только администраторы могут редактировать email, если включен Single sign-on",
     "Type the new password if you want to change it": "Напечатайте новый пароль, если вы хотите его поменять",
     "Active Directory User Name": "Active Directory имя пользователя",
-    "Ex: MyDomain\\\\Ted": "Ex: MyDomain\\\\Ted",
+    "Ex: MyDomain\\\\Ted": "Пример: MyDomain\\\\Ted",
     "Weekly Hours": "Рабочие часы в неделю",
     "Interface Language": "Язык интерфейса",
     "unlimited access": "неограниченный доступ",
