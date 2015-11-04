@@ -2147,7 +2147,7 @@
     "EffortCompleted should be non-negative, but it was {value}": "EffortCompleted should be non-negative, but it was {value}",
     "EffortToDo should be non-negative, but it was {value}": "EffortToDo should be non-negative, but it was {value}",
     "Total Effort should be equal to EffortCompleted + EffortToDo when several effort fields are modified. Actual values: Effort={effort}, EffortCompleted={effortCompleted}, EffortToDo={effortToDo}": "Total Effort should be equal to EffortCompleted + EffortToDo when several effort fields are modified. Actual values: Effort={effort}, EffortCompleted={effortCompleted}, EffortToDo={effortToDo}",
-    "{entityTerm} has {childCountLayout} {childCount, plural, one {{childEntityTerm}} other {{childEntitiesTerm}}} with total effort {effort}{pointName}": "{entityTerm} has {childCountLayout} {childCount, plural, one {{childEntityTerm}} other {{childEntitiesTerm}}} with total effort {effort}{pointName}",
+    "{entityTerm} has {childCountLayout} {childCount, plural, one {{childEntityTerm}} other {{childEntitiesTerm}}} with total effort {effort}{pointName}": "У {entityTerm} есть {childCountLayout} {childCount, plural, one {{childEntityTerm}} other {{childEntitiesTerm}}} с суммарными трудозатратами {effort}{pointName}",
     "Assign to Team": "Assign to Team",
     "Search Teams": "Search Teams",
     "Expand all": "Раскрыть все",
