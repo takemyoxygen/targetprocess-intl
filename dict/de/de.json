@@ -2250,5 +2250,11 @@
     "{blockersCount, select, 0 {You can't see <b>{count}</b> inbound {count, plural, one {relation} other {relations}}.} other {You can't see <b>{count}</b> inbound {count, plural, one {relation} other {relations}}, <i>{blockersCount}</i> of them {blockersCount, plural, one {is a blocker} other {are blockers}}.}} The project might be deleted or you do not have sufficient permissions.": "{blockersCount, select, 0 {You can't see <b>{count}</b> inbound {count, plural, one {relation} other {relations}}.} other {You can't see <b>{count}</b> inbound {count, plural, one {relation} other {relations}}, <i>{blockersCount}</i> of them {blockersCount, plural, one {is a blocker} other {are blockers}}.}} The project might be deleted or you do not have sufficient permissions.",
     "{blockersCount, select, 0 {You can't see <b>{count}</b> outbound {count, plural, one {relation} other {relations}}.} other {You can't see <b>{count}</b> outbound {count, plural, one {relation} other {relations}}, <i>{blockersCount}</i> of them {blockersCount, plural, one {is a blocker} other {are blockers}}.}} The project might be deleted or you do not have sufficient permissions.": "{blockersCount, select, 0 {You can't see <b>{count}</b> outbound {count, plural, one {relation} other {relations}}.} other {You can't see <b>{count}</b> outbound {count, plural, one {relation} other {relations}}, <i>{blockersCount}</i> of them {blockersCount, plural, one {is a blocker} other {are blockers}}.}} The project might be deleted or you do not have sufficient permissions.",
     "Find duplicate:": "Find duplicate:",
-    "Ex: {example}": "Ex: {example}"
+    "Ex: {example}": "Ex: {example}",
+    "Apply": "Apply",
+    "last week": "last week",
+    "30 days": "30 days",
+    "3 months": "3 months",
+    "1 year": "1 year",
+    "Select:": "Select:"
 }
