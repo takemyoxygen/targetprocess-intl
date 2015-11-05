@@ -2165,7 +2165,7 @@
     "Merge": "Объединить",
     "Are you sure you want to merge and close all related {entitiesTerm} marked as duplicates?": "Вы, действительно, хотите объединить и закрыть привязанные {entitiesTerm}, отмеченные как дубликаты.",
     "When merging, any {entitiesTerm} that are related to this entity with the \"duplicate\" relation type and which are not in their final state will have their descriptions, comments, {fieldNames} and followers copied to this entity. Afterwards, the related duplicate entities will be closed.": "При объединении любых {entitiesTerm}, привязанных к данной сущности с типом связи 'дубликат' и не находящихся в финальном статусе, все описание, комментарии, {fieldNames} и фоловеры будут  перенесены в текущую сущность. После этого привязанные дублирующие сущности будут закрыты.",
-    "{countLayout} {count, plural, one {day} other {days}} passed": "{countLayout} {count, plural, one {day} other {days}} passed",
+    "{countLayout} {count, plural, one {day} other {days}} passed": "{countLayout} {count, plural, one {день} few {дня} many {дней} other {дня}} прошло",
     "Projects & Teams": "Проекты и Команды",
     "None": "Никакой",
     "Inbound": "Входящие",
