@@ -2244,5 +2244,7 @@
     "To Do ({names})": "Сделать ({names})",
     "Planned ({names})": "Planned ({names})",
     "{fromEntityTerm} '{entityName}' has been converted to {toEntityTerm} {entityLink}.": "Сущность {fromEntityTerm} '{entityName}' была конвертирована в {toEntityTerm} {entityLink}.",
-    "{entityTerm} has been copied to project '{projectName}'.": "{entityTerm} была скопирована в проект '{projectName}'."
+    "{entityTerm} has been copied to project '{projectName}'.": "{entityTerm} была скопирована в проект '{projectName}'.",
+    "inbound": "входящие",
+    "outbound": "исходящие"
 }
