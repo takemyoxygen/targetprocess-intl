@@ -2173,7 +2173,7 @@
     "filter": "фильтр",
     "ID, Name or type ? for advanced filter": "ID, Название или напечатайте ? для расширенного фильтра",
     "create {entityName}": "создать {entityName}",
-    "Nothing found. You need to {createEntityLink} first.": "Ничего не найдено. Вам нужно создать {createEntityLink} сначала.",
+    "Nothing found. You need to {createEntityLink} first.": "Ничего не найдено. Вам нужно {createEntityLink} сначала.",
     "{assignExisting} <i>or</i> {createNew}": "{assignExisting} <i>или</i> {createNew}",
     "Assign to Project": "Назначить на проект",
     "Search Projects": "Найти проект",
