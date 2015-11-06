@@ -11,7 +11,7 @@
     "Indexing of multi-dimensional arrays is not supported": "Indexing of multi-dimensional arrays is not supported",
     "Array index must be an integer expression": "Array index must be an integer expression",
     "Digit expected": "Digit expected",
-    "Syntax error": "Syntax error",
+    "Syntax error": "Синтаксическая ошибка",
     "':' expected": "':' expected",
     "'(' expected": "'(' expected",
     "')' or operator expected": "')' or operator expected",
