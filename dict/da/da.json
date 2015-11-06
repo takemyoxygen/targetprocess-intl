@@ -2256,5 +2256,9 @@
     "30 days": "30 days",
     "3 months": "3 months",
     "1 year": "1 year",
-    "Select:": "Select:"
+    "Select:": "Select:",
+    "for {parentEntityType}": "for {parentEntityType}",
+    "e.g. {reportUrlExample}": "e.g. {reportUrlExample}",
+    "Delete {selectedCard} {selectedCard, plural, one {card} other {cards}}": "Delete {selectedCard} {selectedCard, plural, one {card} other {cards}}",
+    "Print {selectedCard} {selectedCard, plural, one {card} other {cards}}": "Print {selectedCard} {selectedCard, plural, one {card} other {cards}}"
 }

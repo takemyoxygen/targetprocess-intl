@@ -325,7 +325,7 @@
     "Add metric": "Add metric",
     "Save": "Сохранить",
     "ANY PROCESS": "ANY PROCESS",
-    "Add": "Добавить",
+    "Add": "Добавить!!!\n",
     "Metrics": "Metrics",
     "Works for any process": "Works for any process",
     "Targetprocess uses some predefined metrics by default.": "Targetprocess uses some predefined metrics by default.",
@@ -2256,5 +2256,9 @@
     "30 days": "30 дней",
     "3 months": "3 месяца",
     "1 year": "1 год",
-    "Select:": "Выберите:"
+    "Select:": "Выберите:",
+    "for {parentEntityType}": "for {parentEntityType}",
+    "e.g. {reportUrlExample}": "e.g. {reportUrlExample}",
+    "Delete {selectedCard} {selectedCard, plural, one {card} other {cards}}": "Delete {selectedCard} {selectedCard, plural, one {card} other {cards}}",
+    "Print {selectedCard} {selectedCard, plural, one {card} other {cards}}": "Print {selectedCard} {selectedCard, plural, one {card} other {cards}}"
 }
