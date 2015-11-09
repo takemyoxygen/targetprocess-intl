@@ -1258,7 +1258,7 @@
     "Remain {timeRemain}": "Осталось {timeRemain}",
     "Provide a required comment": "Напишите обязательный комментарий",
     "{entityName} is in the '{stateName}' state of '{teamName}' team.": "{entityName} находится в статусе '{stateName}' команды '{teamName}'.",
-    "State": "Статус!",
+    "State": "Статус",
     "{subStateName} ({stateName} for {teamName})": "{subStateName} ({stateName} для {teamName})",
     "Old Edit": "Редактирование из TP2",
     "Print View": "Режим печати",
