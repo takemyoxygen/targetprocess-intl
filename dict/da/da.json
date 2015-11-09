@@ -2260,5 +2260,9 @@
     "for {parentEntityType}": "for {parentEntityType}",
     "e.g. {reportUrlExample}": "e.g. {reportUrlExample}",
     "Delete {selectedCard} {selectedCard, plural, one {card} other {cards}}": "Delete {selectedCard} {selectedCard, plural, one {card} other {cards}}",
-    "Print {selectedCard} {selectedCard, plural, one {card} other {cards}}": "Print {selectedCard} {selectedCard, plural, one {card} other {cards}}"
+    "Print {selectedCard} {selectedCard, plural, one {card} other {cards}}": "Print {selectedCard} {selectedCard, plural, one {card} other {cards}}",
+    "Uploading your images…": "Uploading your images…",
+    "Loading…": "Loading…",
+    "Read more…": "Read more…",
+    "Possible transitions are: {currentStateName} → {nextStateNames}.": "Possible transitions are: {currentStateName} → {nextStateNames}."
 }
