@@ -2229,11 +2229,8 @@
     "Default Role": "Роль по-умолчанию",
     "The Milestone has been updated": "Веха была обновлена",
     "The Milestone has been added": "Веха была добавлена",
-    "], sampleData: {name:": "], sampleData: {name:",
     "The Milestone has been deleted": "Веха была удалена",
     "Success!": "Успешно!",
-    "{fromEntityTerm} '{entityName}\\' has been converted to {toEntityTerm} {entityLink}.": "Сущность {fromEntityTerm} '{entityName}\\' была конвертирована в сущность {toEntityTerm} {entityLink}.",
-    "{entityTerm} has been copied to project '{projectName}\\'.": "Сущность {entityTerm} была скопирована в проект '{projectName}\\'.",
     "Search Project": "Search Project",
     "No email notification was sent as Email Notifications are disabled in System Settings.": "Email нотификации не были отправлены, так как они выключены в системных настройках.",
     "Email notification was sent": "Email нотификация были отправлены",
@@ -2264,5 +2261,10 @@
     "Last login:": "Последний вход:",
     "Cycle:": "Цикл:",
     "Lead:": "Выполнение:",
-    "Velocity:": "Скорость:"
+    "Velocity:": "Скорость:",
+    "Search templates": "Search templates",
+    "In order to add a {teamWorkflowName} there must be at least an Initial and a Final State in the Team Workflow.": "In order to add a {teamWorkflowName} there must be at least an Initial and a Final State in the Team Workflow.",
+    "In: {inboundCount, number, integer}, out: {outboundCount, number, integer}": "Вход: {inboundCount, number, integer}, исход: {outboundCount, number, integer}",
+    "Will appear for top severity bugs": "Будет отображено для багов самой высокой серьезности",
+    "body": "body"
 }

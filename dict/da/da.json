@@ -2229,11 +2229,8 @@
     "Default Role": "Default Role",
     "The Milestone has been updated": "The Milestone has been updated",
     "The Milestone has been added": "The Milestone has been added",
-    "], sampleData: {name:": "], sampleData: {name:",
     "The Milestone has been deleted": "The Milestone has been deleted",
     "Success!": "Success!",
-    "{fromEntityTerm} '{entityName}\\' has been converted to {toEntityTerm} {entityLink}.": "{fromEntityTerm} '{entityName}\\' has been converted to {toEntityTerm} {entityLink}.",
-    "{entityTerm} has been copied to project '{projectName}\\'.": "{entityTerm} has been copied to project '{projectName}\\'.",
     "Search Project": "Search Project",
     "No email notification was sent as Email Notifications are disabled in System Settings.": "No email notification was sent as Email Notifications are disabled in System Settings.",
     "Email notification was sent": "Email notification was sent",
@@ -2264,5 +2261,10 @@
     "Last login:": "Last login:",
     "Cycle:": "Cycle:",
     "Lead:": "Lead:",
-    "Velocity:": "Velocity:"
+    "Velocity:": "Velocity:",
+    "Search templates": "Search templates",
+    "In order to add a {teamWorkflowName} there must be at least an Initial and a Final State in the Team Workflow.": "In order to add a {teamWorkflowName} there must be at least an Initial and a Final State in the Team Workflow.",
+    "In: {inboundCount, number, integer}, out: {outboundCount, number, integer}": "In: {inboundCount, number, integer}, out: {outboundCount, number, integer}",
+    "Will appear for top severity bugs": "Will appear for top severity bugs",
+    "body": "body"
 }
