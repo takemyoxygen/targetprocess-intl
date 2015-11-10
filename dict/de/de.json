@@ -2268,5 +2268,10 @@
     "Will appear for top severity bugs": "Will appear for top severity bugs",
     "body": "body",
     "], sampleData: {name:": "], sampleData: {name:",
-    "Click to remove": "Click to remove"
+    "Click to remove": "Click to remove",
+    "Uploading your images…": "Uploading your images…",
+    "Loading…": "Loading…",
+    "Read more…": "Read more…",
+    "Started — Finished": "Started — Finished",
+    "Possible transitions are: {currentStateName} → {nextStateNames}.": "Possible transitions are: {currentStateName} → {nextStateNames}."
 }
