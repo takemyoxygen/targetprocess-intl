@@ -2266,5 +2266,6 @@
     "In order to add a {teamWorkflowName} there must be at least an Initial and a Final State in the Team Workflow.": "In order to add a {teamWorkflowName} there must be at least an Initial and a Final State in the Team Workflow.",
     "In: {inboundCount, number, integer}, out: {outboundCount, number, integer}": "Вход: {inboundCount, number, integer}, исход: {outboundCount, number, integer}",
     "Will appear for top severity bugs": "Будет отображено для багов самой высокой серьезности",
-    "body": "body"
+    "body": "body",
+    "], sampleData: {name:": "], sampleData: {name:"
 }
