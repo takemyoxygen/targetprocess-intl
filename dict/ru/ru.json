@@ -2088,7 +2088,7 @@
     "{entityTerm} date": "дата {entityTerm}",
     "{entityTerm} Date": "дата {entityTerm}",
     "Cycle time": "Время цикла",
-    "n/a": "недоступно",
+    "n/a": "н/д",
     "Lead time": "Время выполнения",
     "Time spent/time remaining": "Потрачено/осталось времени",
     "Spent: {timeSpent} / remain: {timeRemain}": "Потрачено: {timeSpent} / осталось: {timeRemain}",
