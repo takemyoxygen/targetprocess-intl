@@ -158,7 +158,7 @@
     "Invalid entity state '{entityState}' for '{entityKind}' - the entity state is not correctly formed (may be you forgot to set ID)": "Invalid entity state '{entityState}' for '{entityKind}' - the entity state is not correctly formed (may be you forgot to set ID)",
     "Priority '{priorityName}' can not be set to entity": "Priority '{priorityName}' can not be set to entity",
     "Invalid parent project": "Неправильный родительский проект",
-    "Only administrator can change owner": "Only administrator can change owner",
+    "Only administrator can change owner": "Только администратор может поменять владельца",
     "Units could be defined only for Calculated Fields with Numeric type": "Units could be defined only for Calculated Fields with Numeric type",
     "Make sure that this Value is in the list": "Пожалуйста, проверьте, что указанное значение есть в списке",
     "Use digits in the Default value field": "Use digits in the Default value field",
