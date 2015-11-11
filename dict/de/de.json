@@ -2268,5 +2268,10 @@
     "Will appear for top severity bugs": "Will appear for top severity bugs",
     "body": "body",
     "], sampleData: {name:": "], sampleData: {name:",
-    "Click to remove": "Click to remove"
+    "Click to remove": "Click to remove",
+    "My Profile": "My Profile",
+    "Logout": "Logout",
+    "Track time": "Track time",
+    "Time Sheet": "Time Sheet",
+    "Buy": "Buy"
 }

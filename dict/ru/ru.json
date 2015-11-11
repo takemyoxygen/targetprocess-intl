@@ -2268,5 +2268,10 @@
     "Will appear for top severity bugs": "Будет отображено для багов самой высокой серьезности",
     "body": "body",
     "], sampleData: {name:": "], sampleData: {name:",
-    "Click to remove": "Нажмите, чтобы удалить"
+    "Click to remove": "Нажмите, чтобы удалить",
+    "My Profile": "Мой профиль",
+    "Logout": "Выход",
+    "Track time": "Отчёт по времени",
+    "Time Sheet": "Занести время",
+    "Buy": "Купить"
 }
