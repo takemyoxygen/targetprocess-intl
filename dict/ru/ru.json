@@ -1376,7 +1376,7 @@
     "Settings": "Настройки",
     "Send idea": "Отправить идею",
     "Copy to project...": "Копировать в проект...",
-    "No {entityTerm} found": "Сущность {entityTerm} не найдена",
+    "No {entityTerm} found": "{entityTerm} не найдены",
     "reset {entityTerm}": "сбросить {entityTerm}",
     "reset": "сбросить",
     "More": "Больше",
