@@ -1722,7 +1722,7 @@
     "Test Item Links": "Test Item Links",
     "Modifier": "Modifier",
     "Bug": "Bug",
-    "Request": "Request",
+    "Request": "Реквест",
     "Task": "Task",
     "Impediment": "Impediment",
     "Build": "Билд",
@@ -2287,7 +2287,5 @@
     "Inbound Relation": "Inbound Relation",
     "Outbound Relation": "Outbound Relation",
     "Responsible Teams": "Responsible Teams",
-    "<#= Denormalize(className) #>": "<#= Denormalize(className) #>",
-    "<#= Denormalize(this.Pluralize(className)) #>": "<#= Denormalize(this.Pluralize(className)) #>",
     "Business Values": "Business Values"
 }

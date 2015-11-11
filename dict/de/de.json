@@ -2287,7 +2287,5 @@
     "Inbound Relation": "Inbound Relation",
     "Outbound Relation": "Outbound Relation",
     "Responsible Teams": "Responsible Teams",
-    "<#= Denormalize(className) #>": "<#= Denormalize(className) #>",
-    "<#= Denormalize(this.Pluralize(className)) #>": "<#= Denormalize(this.Pluralize(className)) #>",
     "Business Values": "Business Values"
 }
