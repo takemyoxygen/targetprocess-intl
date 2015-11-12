@@ -2391,5 +2391,6 @@
     "Loading…": "Loading…",
     "Read more…": "Read more…",
     "Started — Finished": "Started — Finished",
-    "Possible transitions are: {currentStateName} → {nextStateNames}.": "Possible transitions are: {currentStateName} → {nextStateNames}."
+    "Possible transitions are: {currentStateName} → {nextStateNames}.": "Possible transitions are: {currentStateName} → {nextStateNames}.",
+    "Use these rules to change the default business logic and to automate some actions in the system. Note that the rules are global, they are not limited to a specific project or process. If there is a rule enabled that you feel wasn't applied, check the system log. Don't worry if the rule you need isn't here just yet; we're already working on a language for creating your own custom rules.": "Use these rules to change the default business logic and to automate some actions in the system. Note that the rules are global, they are not limited to a specific project or process. If there is a rule enabled that you feel wasn't applied, check the system log. Don't worry if the rule you need isn't here just yet; we're already working on a language for creating your own custom rules."
 }
