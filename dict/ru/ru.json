@@ -2557,11 +2557,11 @@
     "with name 'Marketing'": "with name 'Marketing'",
     "created this year": "created this year",
     "phone field not specified": "phone field not specified",
-    "Blank": "Blank",
+    "Blank": "Пустой",
     "People by Project": "People by Project",
     "Epics, Features and Stories": "Epics, Features and Stories",
     "Feature Progress by Epic": "Feature Progress by Epic",
-    "Just an empty View": "Just an empty View",
+    "Just an empty View": "Просто пустой Борд",
     "All active users by projects": "All active users by projects",
     "Complete hierarchy of requirements": "Complete hierarchy of requirements",
     "High level progress tracking": "High level progress tracking"
