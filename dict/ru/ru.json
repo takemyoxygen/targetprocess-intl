@@ -2587,5 +2587,6 @@
     "Project Manager": "Project Manager",
     "Top Manager": "Top Manager",
     "Support Person": "Support Person",
-    "QA Engineer": "QA Engineer"
+    "QA Engineer": "QA Engineer",
+    "Add {entitiesTerm}": "Add {entitiesTerm}"
 }
