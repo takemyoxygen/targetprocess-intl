@@ -2588,5 +2588,10 @@
     "Top Manager": "Top Manager",
     "Support Person": "Support Person",
     "QA Engineer": "QA Engineer",
-    "Add {entitiesTerm}": "Add {entitiesTerm}"
+    "Add {entitiesTerm}": "Add {entitiesTerm}",
+    "Blocking": "Blocking",
+    "Critical": "Critical",
+    "Normal": "Normal",
+    "Small": "Small",
+    "Enhancement": "Enhancement"
 }
