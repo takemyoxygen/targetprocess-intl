@@ -2582,5 +2582,10 @@
     "Search results might be incomplete at this point. Indexing is still in progress…": "Search results might be incomplete at this point. Indexing is still in progress…",
     "Describe the report…": "Describe the report…",
     "Drop here…": "Drop here…",
-    "loading…": "loading…"
+    "loading…": "loading…",
+    "Developer": "Developer",
+    "Project Manager": "Project Manager",
+    "Top Manager": "Top Manager",
+    "Support Person": "Support Person",
+    "QA Engineer": "QA Engineer"
 }
