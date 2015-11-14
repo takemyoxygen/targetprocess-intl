@@ -2593,5 +2593,7 @@
     "Critical": "Critical",
     "Normal": "Normal",
     "Small": "Small",
-    "Enhancement": "Enhancement"
+    "Enhancement": "Enhancement",
+    "(Start Date + Planned Duration (i.e. Planned End Date - Planned Start Date))": "(Start Date + Planned Duration (i.e. Planned End Date - Planned Start Date))",
+    "{statesCount, plural, =1 {Team Workflow state, which is} other {{statesCount} Team Workflow states, which are}} mapped to this state, will also be deleted.": "{statesCount, plural, =1 {Team Workflow state, which is} other {{statesCount} Team Workflow states, which are}} mapped to this state, will also be deleted."
 }
