@@ -2688,5 +2688,17 @@
     "Used by": "Used by",
     "{teamsCount} teams": "{teamsCount} teams",
     "There are no teams assigned to projects from {processName} process": "There are no teams assigned to projects from {processName} process",
-    "Add team": "Add team"
+    "Add team": "Add team",
+    "Average": "Average",
+    "Fix ASAP": "Fix ASAP",
+    "Fix If Time": "Fix If Time",
+    "Good": "Good",
+    "Great": "Great",
+    "High": "High",
+    "Highest": "Highest",
+    "Low": "Low",
+    "Moderate": "Moderate",
+    "Must Have": "Must Have",
+    "Nice To Have": "Nice To Have",
+    "Urgent": "Urgent"
 }
