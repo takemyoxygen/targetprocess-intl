@@ -2357,7 +2357,7 @@
     "Set the correct {iteration} velocity": "Set the correct {iteration} velocity",
     "Move {userStories}": "Move {userStories}",
     "Move all the incomplete {userStories},{bugs} and {testPlanRuns} to the next {iteration}": "Move all the incomplete {userStories},{bugs} and {testPlanRuns} to the next {iteration}",
-    "fixed": "fixed",
+    "fixed": "исправлено",
     "done": "готово",
     "added": "добавлено",
     "(no {entityTerm})": "(no {entityTerm})",
