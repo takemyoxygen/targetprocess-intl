@@ -2684,5 +2684,9 @@
     "Back to previous page": "Back to previous page",
     "{entityTerm} with Id {entityId} not found or access is forbidden.": "{entityTerm} with Id {entityId} not found or access is forbidden.",
     "Context error.": "Context error.",
-    "Teams error.": "Teams error."
+    "Teams error.": "Teams error.",
+    "Used by": "Used by",
+    "{teamsCount} teams": "{teamsCount} teams",
+    "There are no teams assigned to projects from {processName} process": "There are no teams assigned to projects from {processName} process",
+    "Add team": "Add team"
 }
