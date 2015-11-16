@@ -2740,5 +2740,8 @@
     "Visual Filters": "Visual Filters",
     "Visual filters are not supported for current configuration": "Visual filters are not supported for current configuration",
     "Apply filter": "Apply filter",
-    "Clear": "Clear"
+    "Clear": "Clear",
+    "Are you sure you want to remove project '{projectName}' from this team?": "Are you sure you want to remove project '{projectName}' from this team?",
+    "There are no people in this team": "There are no people in this team",
+    "There are no people in this project": "There are no people in this project"
 }
