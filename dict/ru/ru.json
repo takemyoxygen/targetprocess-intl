@@ -2382,7 +2382,7 @@
     "Auto-assign new people": "Автоматически назначать новых людей",
     "Go to team members": "Перейти к членам команды",
     "Activity": "Активность",
-    "admin": "админ",
+    "admin": "администратор",
     "inactive": "неактивный",
     "Activity sparkline provides an overview of progress over the last 16 weeks. The numbers shown are: a maximum of assignments done/added at any given week out of those 16, and done/added in the current calendar week (on the right).": "Активити спарклайн предоставляет...",
     "open {entitiesTerm}": "открыто {entitiesTerm}",
