@@ -2742,6 +2742,6 @@
     "Apply filter": "Применить фильтр",
     "Clear": "Очистить",
     "Are you sure you want to remove project '{projectName}' from this team?": "Are you sure you want to remove project '{projectName}' from this team?",
-    "There are no people in this team": "There are no people in this team",
-    "There are no people in this project": "There are no people in this project"
+    "There are no people in this team": "В эту команду не включены люди",
+    "There are no people in this project": "В этот проект не включены люди"
 }
