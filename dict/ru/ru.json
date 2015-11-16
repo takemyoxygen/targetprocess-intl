@@ -2360,7 +2360,7 @@
     "fixed": "исправлено",
     "done": "готово",
     "added": "добавлено",
-    "(no {entityTerm})": "({entityTerm} не выбрано)",
+    "(no {entityTerm})": "(без {entityTerm})",
     "This project has no teams": "На этот проект не назначены команды",
     "Unassign team from project?": "Убрать команду c проекта?",
     "Are you sure you want to assign all people from team '{teamName}' to project?": "Вы, действительно, хотите назначить всех членов команды '{teamName}' на проект?",
