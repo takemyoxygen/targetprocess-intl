@@ -2743,5 +2743,13 @@
     "Clear": "Очистить",
     "Are you sure you want to remove project '{projectName}' from this team?": "Are you sure you want to remove project '{projectName}' from this team?",
     "There are no people in this team": "В эту команду не включены люди",
-    "There are no people in this project": "В этот проект не включены люди"
+    "There are no people in this project": "В этот проект не включены люди",
+    "{entityTerm} not found.": "{entityTerm} not found.",
+    "Unable to complete the editing of '{workflowName}' team workflow.": "Unable to complete the editing of '{workflowName}' team workflow.",
+    "The new workflow will intersect with {conflictsText} {conflictsCount, plural, one {team workflow} other {team workflows}}.": "The new workflow will intersect with {conflictsText} {conflictsCount, plural, one {team workflow} other {team workflows}}.",
+    "You can resolve this conflict by unassigning multiple teams from conflicting entities or by modifying other team workflows to avoid intersections.": "You can resolve this conflict by unassigning multiple teams from conflicting entities or by modifying other team workflows to avoid intersections.",
+    "Some of conflicting entities are assigned to {deletedProjectsText} deleted {deletedProjectsCount, plural, one {project} other {projects}}.": "Some of conflicting entities are assigned to {deletedProjectsText} deleted {deletedProjectsCount, plural, one {project} other {projects}}.",
+    "Try to restore {deletedProjectsCount, plural, one {it} other {them}} or please {contactSupportLink}.": "Try to restore {deletedProjectsCount, plural, one {it} other {them}} or please {contactSupportLink}.",
+    "Looks like application is not available. Please check your connection or server availability.": "Looks like application is not available. Please check your connection or server availability.",
+    "Unknown error.": "Unknown error."
 }
