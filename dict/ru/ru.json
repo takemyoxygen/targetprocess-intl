@@ -2351,7 +2351,7 @@
     "Finish {iteration}:": "Завершить {iteration}:",
     "Next {iteration}:": "Следующая {iteration}:",
     "Split {userStories}": "Разделить {userStories}",
-    "Move the {userStories} that haven't been started to the next {iteration}": "Перенести на следующую {iteration} {userStories}, которые не были начаты.",
+    "Move the {userStories} that haven't been started to the next {iteration}": "Перенести на следующую {iteration} {userStories}, которые не были начаты",
     "Split started but not finished {userStories}. The Completed tasks will remain in the old {userStory}, all the rest will be moved to the next {iteration} as a part of the new {userStory}": "Разделить начатые, но незавершенные {userStories}. Завершенные задачи останутся в старой {userStory}, все остальные будут перенесены в следующую {iteration} как часть новой {userStory}",
     "Move all the incomplete {bugs} and {testPlanRuns} to the next {iteration}": "Перенести все незавершенные {bugs} и {testPlanRuns} в следующую {iteration}",
     "Set the correct {iteration} velocity": "Задать корректную скорость для {iteration}",
