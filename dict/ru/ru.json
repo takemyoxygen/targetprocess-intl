@@ -2767,7 +2767,7 @@
     "entity (added)": "сущность (добавлена)",
     "entity (closed)": "сущность (закрыта)",
     "total days in entity state": "всего дней в статусе",
-    "daily total spent time": "всего потрачено времени за день",
+    "daily total spent time": "потрачено времени за день",
     "[{entityType}] #{entityId} {entityName} (closed)": "[{entityType}] #{entityId} {entityName} (закрыто)",
     "[{entityType}] #{entityId} {entityName} (added)": "[{entityType}] #{entityId} {entityName} (добавлено)",
     "({count} {count, plural, one {day} other {days}})": "({count} {count, plural, one {день} few {дня} many {дней} other {дня}})",
