@@ -2751,5 +2751,6 @@
     "Some of conflicting entities are assigned to {deletedProjectsText} deleted {deletedProjectsCount, plural, one {project} other {projects}}.": "Some of conflicting entities are assigned to {deletedProjectsText} deleted {deletedProjectsCount, plural, one {project} other {projects}}.",
     "Try to restore {deletedProjectsCount, plural, one {it} other {them}} or please {contactSupportLink}.": "Try to restore {deletedProjectsCount, plural, one {it} other {them}} or please {contactSupportLink}.",
     "Looks like application is not available. Please check your connection or server availability.": "Looks like application is not available. Please check your connection or server availability.",
-    "Unknown error.": "Unknown error."
+    "Unknown error.": "Unknown error.",
+    "Select one of possible ranges": "Select one of possible ranges"
 }
