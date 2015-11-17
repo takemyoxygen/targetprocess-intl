@@ -2752,5 +2752,7 @@
     "Try to restore {deletedProjectsCount, plural, one {it} other {them}} or please {contactSupportLink}.": "Try to restore {deletedProjectsCount, plural, one {it} other {them}} or please {contactSupportLink}.",
     "Looks like application is not available. Please check your connection or server availability.": "Looks like application is not available. Please check your connection or server availability.",
     "Unknown error.": "Unknown error.",
-    "Select one of possible ranges": "Select one of possible ranges"
+    "Select one of possible ranges": "Select one of possible ranges",
+    "show old…": "показать предыдущие...",
+    "Are you sure you want to remove project '{projectName}' from this program?": "Are you sure you want to remove project '{projectName}' from this program?"
 }
