@@ -2566,7 +2566,7 @@
     "Complete hierarchy of requirements": "Complete hierarchy of requirements",
     "High level progress tracking": "High level progress tracking",
     "more…": "другие...",
-    "no details…": "no details…",
+    "no details…": "нет деталей...",
     "We need your consent to change this View's visibility. Please let us load additional data…": "We need your consent to change this View's visibility. Please let us load additional data…",
     "Yikes…! Nothing in there :-|": "Yikes…! Nothing in there :-|",
     "Copy to project…": "Copy to project…",
@@ -2576,7 +2576,7 @@
     "Create…": "Create…",
     "Add Item": "Add Item",
     "Click to add content…": "Click to add content…",
-    "Click to add description…": "Click to add description…",
+    "Click to add description…": "Нажмите, чтобы добавить описание",
     "Saving…": "Saving…",
     "Other Reports…": "Other Reports…",
     "Search results might be incomplete at this point. Indexing is still in progress…": "Search results might be incomplete at this point. Indexing is still in progress…",
@@ -2779,5 +2779,8 @@
     "Invalid entity field name. Name should have format \"CustomField[1-60]\"": "Invalid entity field name. Name should have format \"CustomField[1-60]\"",
     "Global custom field could not be assigned to a process": "Global custom field could not be assigned to a process",
     "{teamsCount, plural, =0 {} one { {teamsText} team} other { {teamsText} teams}}{comma} {usersCount, plural, =0 {} other {{ usersText}}} {allocationsCount, plural, =0 {} one {allocation is } other {allocations are }} conflicting with the project date `{projectDate}' you tried to enter. Update the appropriate allocations to fit new project dates and then try again": "{teamsCount, plural, =0 {} one { {teamsText} team} other { {teamsText} teams}}{comma} {usersCount, plural, =0 {} other {{ usersText}}} {allocationsCount, plural, =0 {} one {allocation is } other {allocations are }} conflicting with the project date `{projectDate}' you tried to enter. Update the appropriate allocations to fit new project dates and then try again",
-    "Custom Field Scope": "Custom Field Scope"
+    "Custom Field Scope": "Custom Field Scope",
+    "({count, number, integer} {count, plural, one {day} other {days}})": "({count, number, integer} {count, plural, one {день} few {дня} many {дней} other {дня}})",
+    "{count, number, integer} {count, plural, one {day} other {days}} in this state": "{count, number, integer} {count, plural, one {день} few {дня} many {дней} other {дня}} в этом статусе",
+    "({count, number, integer} {count, plural, one {hour} other {hours}})": "({count, number, integer} {count, plural, one {час} few {часа} many {часов} other {часа}})"
 }
