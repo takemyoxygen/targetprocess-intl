@@ -2152,7 +2152,7 @@
     "Search Teams": "Найти команду",
     "Expand all": "Раскрыть все",
     "Collapse all": "Свернуть все",
-    "Load more records": "Загрузить больше записей ~!@#$%^&*()_+:\"|<>?{}",
+    "Load more records": "Загрузить больше записей ~",
     "No more records": "Больше нет записей",
     "{fieldName} changed from {oldValue} to {newValue}": "{fieldName} изменено с {oldValue} на {newValue}",
     "no details...": "нет деталей...",
