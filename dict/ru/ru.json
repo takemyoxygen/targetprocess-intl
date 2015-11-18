@@ -1769,7 +1769,7 @@
     "Linked Release": "Linked Release",
     "Linked Iteration": "Linked Iteration",
     "Linked Team Iteration": "Linked Team Iteration",
-    "Not Run Count": "Not Run Count",
+    "Not Run Count": "Количество незапущенных тест кейсов",
     "Passed Count": "Passed Count",
     "Failed Count": "Failed Count",
     "On Hold Count": "On Hold Count",
