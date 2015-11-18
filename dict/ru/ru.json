@@ -2775,5 +2775,9 @@
     "({count} {count, plural, one {hour} other {hours}})": "({count} {count, plural, one {час} few {часа} many {часов} other {часа}})",
     "State name": "Название статуса",
     "Cycle Time:": "Время цикла:",
-    "Lead Time:": "Общее время:"
+    "Lead Time:": "Общее время:",
+    "Invalid entity field name. Name should have format \"CustomField[1-60]\"": "Invalid entity field name. Name should have format \"CustomField[1-60]\"",
+    "Global custom field could not be assigned to a process": "Global custom field could not be assigned to a process",
+    "{teamsCount, plural, =0 {} one { {teamsText} team} other { {teamsText} teams}}{comma} {usersCount, plural, =0 {} other {{ usersText}}} {allocationsCount, plural, =0 {} one {allocation is } other {allocations are }} conflicting with the project date `{projectDate}' you tried to enter. Update the appropriate allocations to fit new project dates and then try again": "{teamsCount, plural, =0 {} one { {teamsText} team} other { {teamsText} teams}}{comma} {usersCount, plural, =0 {} other {{ usersText}}} {allocationsCount, plural, =0 {} one {allocation is } other {allocations are }} conflicting with the project date `{projectDate}' you tried to enter. Update the appropriate allocations to fit new project dates and then try again",
+    "Custom Field Scope": "Custom Field Scope"
 }
