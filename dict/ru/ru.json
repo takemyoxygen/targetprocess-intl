@@ -2589,7 +2589,7 @@
     "Support Person": "Инженер поддержки",
     "QA Engineer": "Тестировщик",
     "Add {entitiesTerm}": "Add {entitiesTerm}",
-    "Blocking": "Блокирующая",
+    "Blocking": "Блокирует",
     "Critical": "Критично",
     "Normal": "Средне",
     "Small": "Незначительно",
