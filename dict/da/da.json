@@ -2817,5 +2817,7 @@
     "Attachment #{attachmentId} added": "Attachment #{attachmentId} added",
     "Attachment #{attachmentId} updated": "Attachment #{attachmentId} updated",
     "Attachment #{attachmentId} deleted": "Attachment #{attachmentId} deleted",
-    "Empty": "Empty"
+    "Empty": "Empty",
+    "The configuration of this view is no longer supported. Project Members have been replaced by User Allocations.": "The configuration of this view is no longer supported. Project Members have been replaced by User Allocations.",
+    "Create a new view with user allocations as cards to manage people allocations on projects.": "Create a new view with user allocations as cards to manage people allocations on projects."
 }
