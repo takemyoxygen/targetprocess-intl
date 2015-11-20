@@ -1,23 +1,32 @@
 [
   {
-    "rtl": false,
-    "pluralequation": "language.pluralequation",
     "code": "da",
     "name": "Danish",
-    "nplurals": 2
+    "stats": {
+      "totalTokensCount": 2827,
+      "translatedTokensCount": 0,
+      "reviewedTokensCount": 0,
+      "translatedWordsCount": 0
+    }
   },
   {
-    "rtl": false,
-    "pluralequation": "language.pluralequation",
     "code": "de",
     "name": "German",
-    "nplurals": 2
+    "stats": {
+      "totalTokensCount": 2827,
+      "translatedTokensCount": 1534,
+      "reviewedTokensCount": 1534,
+      "translatedWordsCount": 9881
+    }
   },
   {
-    "rtl": false,
-    "pluralequation": "language.pluralequation",
     "code": "ru",
     "name": "Russian",
-    "nplurals": 4
+    "stats": {
+      "totalTokensCount": 2827,
+      "translatedTokensCount": 1479,
+      "reviewedTokensCount": 1473,
+      "translatedWordsCount": 7865
+    }
   }
 ]

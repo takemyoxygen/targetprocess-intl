@@ -549,7 +549,7 @@
     "{effortTotal} assigned.": "{effortTotal} назначено.",
     "{effortTotal} done.": "{effortTotal} выполнено.",
     "Select the cards you want to see in the View": "Выберите карточки, которые хотите видеть на Борде",
-    "Set horizontal and vertical lanes": "Задайте горизонтальные и вертикальные оси",
+    "Set horizontal and vertical lanes": "Задайте горизонтальную и вертикальную оси",
     "Use filters": "Используйте фильтры",
     "Current": "Текущий",
     "Timeline": "Таймлайн",
@@ -888,9 +888,9 @@
     "There is no saved filters": "Нет сохранённых фильтров",
     "Make private": "Сделать личным",
     "Share this filter": "Сделать этот фильтр общим",
-    "Set vertical and horizontal lanes": "Выбрать горизонтальные и вертикальные оси",
-    "No vertical lanes": "Вертикальные оси не заданы",
-    "No horizontal lanes": "Горизонтальные оси не заданы",
+    "Set vertical and horizontal lanes": "Выбрать горизонтальную и вертикальную оси",
+    "No vertical lanes": "Вертикальная ось не задана",
+    "No horizontal lanes": "Горизонтальная ось не задана",
     "Swap lanes": "Поменять местами оси",
     "Set 1st and 2nd hierarchy level": "Выбрать 1-ый и 2-ой уровень иерархии",
     "No 1st level": "1-ый уровень не задан",
@@ -2821,5 +2821,9 @@
     "The configuration of this view is no longer supported. Project Members have been replaced by User Allocations.": "The configuration of this view is no longer supported. Project Members have been replaced by User Allocations.",
     "Create a new view with user allocations as cards to manage people allocations on projects.": "Create a new view with user allocations as cards to manage people allocations on projects.",
     "{count, plural, one {day} other {days}}": "{count, plural, one {день} few {дня} many {дней} other {дня}}",
-    "{count, number, integer} {daysText} in this state": "{count, number, integer} {daysText} в этом статусе"
+    "{count, number, integer} {daysText} in this state": "{count, number, integer} {daysText} в этом статусе",
+    "Sprint": "Sprint",
+    "Sprints": "Sprints",
+    "Sprint Iteration": "Sprint Iteration",
+    "Sprint Iterations": "Sprint Iterations"
 }

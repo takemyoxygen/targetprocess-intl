@@ -2821,5 +2821,9 @@
     "The configuration of this view is no longer supported. Project Members have been replaced by User Allocations.": "The configuration of this view is no longer supported. Project Members have been replaced by User Allocations.",
     "Create a new view with user allocations as cards to manage people allocations on projects.": "Create a new view with user allocations as cards to manage people allocations on projects.",
     "{count, plural, one {day} other {days}}": "{count, plural, one {day} other {days}}",
-    "{count, number, integer} {daysText} in this state": "{count, number, integer} {daysText} in this state"
+    "{count, number, integer} {daysText} in this state": "{count, number, integer} {daysText} in this state",
+    "Sprint": "Sprint",
+    "Sprints": "Sprints",
+    "Sprint Iteration": "Sprint Iteration",
+    "Sprint Iterations": "Sprint Iterations"
 }
