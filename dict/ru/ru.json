@@ -2822,7 +2822,7 @@
     "Create a new view with user allocations as cards to manage people allocations on projects.": "Create a new view with user allocations as cards to manage people allocations on projects.",
     "{count, plural, one {day} other {days}}": "{count, plural, one {день} few {дня} many {дней} other {дня}}",
     "{count, number, integer} {daysText} in this state": "{count, number, integer} {daysText} в этом статусе",
-    "Sprint": "Sprint",
+    "Sprint": "Спринт",
     "Sprints": "Sprints",
     "Sprint Iteration": "Sprint Iteration",
     "Sprint Iterations": "Sprint Iterations"
