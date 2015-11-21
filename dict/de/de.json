@@ -2824,7 +2824,6 @@
     "{count, number, integer} {daysText} in this state": "{count, number, integer} {daysText} in this state",
     "Sprint": "Sprint",
     "Sprints": "Sprints",
-    "Sprint Iteration": "Sprint Iteration",
     "Team Sprint": "Team Sprint",
     "Team Sprints": "Team Sprints"
 }
