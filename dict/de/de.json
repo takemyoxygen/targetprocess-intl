@@ -2858,5 +2858,11 @@
     "{value} (#{id})": "{value} (#{id})",
     "{team} Team Entity State": "{team} Team Entity State",
     "{team} Start Date State": "{team} Start Date State",
-    "{team} End Date State": "{team} End Date State"
+    "{team} End Date State": "{team} End Date State",
+    "SMTP Server": "SMTP Server",
+    "SMTP Port": "SMTP Port",
+    "SMTP Login": "SMTP Login",
+    "SMTP Password": "SMTP Password",
+    "SMTP Authentication": "SMTP Authentication",
+    "SMTP Sender": "SMTP Sender"
 }

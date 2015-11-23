@@ -2838,8 +2838,8 @@
     "{fieldName} #{id} added": "{fieldName} #{id} added",
     "{fieldName} #{id} updated": "{fieldName} #{id} updated",
     "{fieldName} #{id} deleted": "{fieldName} #{id} deleted",
-    "{team} team is assigned": "{team} team is assigned",
-    "{team} team is unassigned": "{team} team is unassigned",
+    "{team} team is assigned": "{team} назначена",
+    "{team} team is unassigned": "{team} убрана",
     "{firstName} {lastName} [{roleName}] removed from team": "{firstName} {lastName} [{roleName}] removed from team",
     "{firstName} {lastName} [{roleName}] added to team": "{firstName} {lastName} [{roleName}] added to team",
     "Project Member {firstName} {lastName} [{roleName}] updated": "Project Member {firstName} {lastName} [{roleName}] updated",
@@ -2856,7 +2856,13 @@
     "Test Case \"{testCaseTitle}\" removed from Test Plan \"{testPlanTitle}\"": "Test Case \"{testCaseTitle}\" removed from Test Plan \"{testPlanTitle}\"",
     "Test Case \"{testCaseTitle}\" assigned to Test Plan \"{testPlanTitle}\"": "Test Case \"{testCaseTitle}\" assigned to Test Plan \"{testPlanTitle}\"",
     "{value} (#{id})": "{value} (#{id})",
-    "{team} Team Entity State": "{team} Team Entity State",
-    "{team} Start Date State": "{team} Start Date State",
-    "{team} End Date State": "{team} End Date State"
+    "{team} Team Entity State": "{team} Командный статус",
+    "{team} Start Date State": "{team} дата начала",
+    "{team} End Date State": "{team} дата окончания",
+    "SMTP Server": "SMTP Server",
+    "SMTP Port": "SMTP Port",
+    "SMTP Login": "SMTP Login",
+    "SMTP Password": "SMTP Password",
+    "SMTP Authentication": "SMTP Authentication",
+    "SMTP Sender": "SMTP Sender"
 }
