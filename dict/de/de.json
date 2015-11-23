@@ -1908,12 +1908,6 @@
     "Entity Type Id": "Entity Type Id",
     "Global Settings": "Global Settings",
     "Company Name": "Company Name",
-    "S M T P Server": "S M T P Server",
-    "S M T P Port": "S M T P Port",
-    "S M T P Login": "S M T P Login",
-    "S M T P Password": "S M T P Password",
-    "S M T P Authentication": "S M T P Authentication",
-    "S M T P Sender": "S M T P Sender",
     "Is Email Notifications Enabled": "Is Email Notifications Enabled",
     "Help Desk Portal Path": "Help Desk Portal Path",
     "App Host And Path": "App Host And Path",
@@ -2873,5 +2867,6 @@
     "Initializing filters…": "Initializing filters…",
     "{team} Team Start Date": "{team} Team Start Date",
     "{team} Team End Date": "{team} Team End Date",
-    "{responsible, select, team {Responsible} person {Responsible}}": "{responsible, select, team {Responsible} person {Responsible}}"
+    "{responsible, select, team {Responsible} person {Responsible}}": "{responsible, select, team {Responsible} person {Responsible}}",
+    "{days, plural, =0 {} one {1d} other {{days}d}} {hours, plural, =0 {} one {1h} other { {hours}h}} {minutes, plural, =0 {} one {1m} other { {minutes}m}}": "{days, plural, =0 {} one {1d} other {{days}d}} {hours, plural, =0 {} one {1h} other { {hours}h}} {minutes, plural, =0 {} one {1m} other { {minutes}m}}"
 }
