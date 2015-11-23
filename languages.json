@@ -1,13 +1,7 @@
 [
   {
     "code": "da",
-    "name": "Danish",
-    "stats": {
-      "totalTokensCount": 2875,
-      "translatedTokensCount": 0,
-      "reviewedTokensCount": 0,
-      "translatedWordsCount": 0
-    }
+    "name": "Danish"
   },
   {
     "code": "de",
@@ -24,9 +18,9 @@
     "name": "Russian",
     "stats": {
       "totalTokensCount": 2875,
-      "translatedTokensCount": 1529,
-      "reviewedTokensCount": 1508,
-      "translatedWordsCount": 8034
+      "translatedTokensCount": 1535,
+      "reviewedTokensCount": 1514,
+      "translatedWordsCount": 8048
     }
   }
 ]
