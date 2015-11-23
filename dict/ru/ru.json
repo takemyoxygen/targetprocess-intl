@@ -2150,7 +2150,7 @@
     "{entityTerm} has {childCountLayout} {childCount, plural, one {{childEntityTerm}} other {{childEntitiesTerm}}} with total effort {effort}{pointName}": "У {entityTerm} есть {childCountLayout} {childCount, plural, one {{childEntityTerm}} other {{childEntitiesTerm}}} с суммарными трудозатратами {effort}{pointName}",
     "Assign to Team": "Назначить команду",
     "Search Teams": "Найти команду",
-    "Expand all": "Раскрыть все",
+    "Expand all": "Раскрыть все!",
     "Collapse all": "Свернуть все",
     "Load more records": "Загрузить больше записей",
     "No more records": "Больше нет записей",
