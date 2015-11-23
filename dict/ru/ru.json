@@ -2868,5 +2868,11 @@
     "{team} Team Start Date": "Дата начала для команды {team}",
     "{team} Team End Date": "Дата окончания для команды {team} ",
     "{responsible, select, team {Responsible} person {Responsible}}": "{responsible, select, team {Ответственная} person {Ответственный}}",
-    "{days, plural, =0 {} one {1d} other {{days}d}} {hours, plural, =0 {} one {1h} other { {hours}h}} {minutes, plural, =0 {} one {1m} other { {minutes}m}}": "{days, plural, =0 {} one {1д} other {{days}д}} {hours, plural, =0 {} one {1ч} other { {hours}ч}} {minutes, plural, =0 {} one {1м} other { {minutes}м}}"
+    "{days, plural, =0 {} one {1d} other {{days}d}} {hours, plural, =0 {} one {1h} other { {hours}h}} {minutes, plural, =0 {} one {1m} other { {minutes}m}}": "{days, plural, =0 {} one {1д} other {{days}д}} {hours, plural, =0 {} one {1ч} other { {hours}ч}} {minutes, plural, =0 {} one {1м} other { {minutes}м}}",
+    "S M T P Server": "S M T P Server",
+    "S M T P Port": "S M T P Port",
+    "S M T P Login": "S M T P Login",
+    "S M T P Password": "S M T P Password",
+    "S M T P Authentication": "S M T P Authentication",
+    "S M T P Sender": "S M T P Sender"
 }
