@@ -2749,7 +2749,7 @@
     "Select one of possible ranges": "Select one of possible ranges",
     "show old…": "показать предыдущие...",
     "Are you sure you want to remove project '{projectName}' from this program?": "Are you sure you want to remove project '{projectName}' from this program?",
-    "{days, plural, =0 {} one {1 day} other {{days} days}} {hours, plural, =0 {} one {1 hour} other {{hours} hours}} {minutes, plural, =0 {} one {1 minute} other {{minutes} minutes}}": "{days, plural, =0 {} one {1 день} few {{days} дня}} many {{days} дней}} other {{days} дня}} {hours, plural, =0 {} one {1 час} few {{hours} часа}} many {{hours} часов}} other {{hours} часа}} {minutes, plural, =0 {} one {1 минута} other {{minutes} минуты}} other {{minutes} минут}} other {{minutes} минуты}}",
+    "{days, plural, =0 {} one {1 day} other {{days} days}} {hours, plural, =0 {} one {1 hour} other {{hours} hours}} {minutes, plural, =0 {} one {1 minute} other {{minutes} minutes}}": "{days, plural, =0 {} one {1 день} few {{days} дня} many {{days} дней} other {{days} дня}} {hours, plural, =0 {} one {1 час} few {{hours} часа} many {{hours} часов} other {{hours} часа}} {minutes, plural, =0 {} one {1 минута} few {{minutes} минуты} many {{minutes} минут} other {{minutes} минуты}}",
     "{days, plural, =0 {} one {1 d} other {{days} d}} {hours, plural, =0 {} one {1 h} other { {hours} h}} {minutes, plural, =0 {} one {1 m} other { {minutes} m}}": "{days, plural, =0 {} one {1 d} other {{days} d}} {hours, plural, =0 {} one {1 h} other { {hours} h}} {minutes, plural, =0 {} one {1 m} other { {minutes} m}}",
     "normal flow": "нормальный процесс",
     "multiple state transitions": "многочисленные переходы по статусам",
