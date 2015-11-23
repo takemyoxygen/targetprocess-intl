@@ -2706,7 +2706,7 @@
     "True": "True",
     "False": "False",
     "filter off": "filter off",
-    "not {value}": "not {value}",
+    "not {value}": "не {значение}",
     "Any": "любой",
     "last 7 days": "последние 7 дней",
     "last 4 weeks": "last 4 weeks",
