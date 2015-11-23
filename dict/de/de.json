@@ -2870,5 +2870,7 @@
     "Error at position: {column}": "Error at position: {column}",
     "Show details…": "Show details…",
     "Select…": "Select…",
-    "Initializing filters…": "Initializing filters…"
+    "Initializing filters…": "Initializing filters…",
+    "{team} Team Start Date": "{team} Team Start Date",
+    "{team} Team End Date": "{team} Team End Date"
 }

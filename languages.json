@@ -3,7 +3,7 @@
     "code": "da",
     "name": "Danish",
     "stats": {
-      "totalTokensCount": 2872,
+      "totalTokensCount": 2874,
       "translatedTokensCount": 0,
       "reviewedTokensCount": 0,
       "translatedWordsCount": 0
@@ -13,7 +13,7 @@
     "code": "de",
     "name": "German",
     "stats": {
-      "totalTokensCount": 2872,
+      "totalTokensCount": 2874,
       "translatedTokensCount": 1534,
       "reviewedTokensCount": 1534,
       "translatedWordsCount": 9881

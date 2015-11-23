@@ -2706,7 +2706,7 @@
     "True": "True",
     "False": "False",
     "filter off": "filter off",
-    "not {value}": "не {значение}",
+    "not {value}": "не {value}",
     "Any": "любой",
     "last 7 days": "последние 7 дней",
     "last 4 weeks": "last 4 weeks",
@@ -2870,5 +2870,7 @@
     "Error at position: {column}": "Error at position: {column}",
     "Show details…": "Show details…",
     "Select…": "Select…",
-    "Initializing filters…": "Initializing filters…"
+    "Initializing filters…": "Initializing filters…",
+    "{team} Team Start Date": "{team} Team Start Date",
+    "{team} Team End Date": "{team} Team End Date"
 }
