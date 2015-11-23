@@ -2872,5 +2872,6 @@
     "Select…": "Select…",
     "Initializing filters…": "Initializing filters…",
     "{team} Team Start Date": "{team} Team Start Date",
-    "{team} Team End Date": "{team} Team End Date"
+    "{team} Team End Date": "{team} Team End Date",
+    "{responsible, select, team {Responsible} person {Responsible}}": "{responsible, select, team {Responsible} person {Responsible}}"
 }
