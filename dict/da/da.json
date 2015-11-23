@@ -2864,5 +2864,11 @@
     "SMTP Login": "SMTP Login",
     "SMTP Password": "SMTP Password",
     "SMTP Authentication": "SMTP Authentication",
-    "SMTP Sender": "SMTP Sender"
+    "SMTP Sender": "SMTP Sender",
+    "DSL filter expression is either invalid or too complex for us to show it here": "DSL filter expression is either invalid or too complex for us to show it here",
+    "Error details: {message}": "Error details: {message}",
+    "Error at position: {column}": "Error at position: {column}",
+    "Show details…": "Show details…",
+    "Select…": "Select…",
+    "Initializing filters…": "Initializing filters…"
 }
