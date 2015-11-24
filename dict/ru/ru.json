@@ -1106,7 +1106,7 @@
     "{entityKind} '{entityName}' start/end dates ({startDate}/{endDate}) are invalid. Start/End dates period overlaps {entityKind} '{conflictingEntityName}' ({conflictingStartDate}/{conflictingEndDate}).": "{entityKind} '{entityName}' start/end dates ({startDate}/{endDate}) are invalid. Start/End dates period overlaps {entityKind} '{conflictingEntityName}' ({conflictingStartDate}/{conflictingEndDate}).",
     "Failed to set property {fieldName} to value '{value}'.": "Failed to set property {fieldName} to value '{value}'.",
     "The name should be unique.": "The name should be unique.",
-    "{teamsCount, plural, =1 {Team {teamsText} needs} other {Teams {teamsText} need}} to be assigned to project '{projectName}'.": "{teamsCount, plural, =1 {Команда {teamsText} должна} other {Команды {teamsText} должны}} быть назначены на проект '{projectName}'.",
+    "{teamsCount, plural, =1 {Team {teamsText} needs} other {Teams {teamsText} need}} to be assigned to project '{projectName}'.": "{teamsCount, plural, =1 {Команда {teamsText} должна быть назначена} other {Команды {teamsText} должны быть назначены}} на проект '{projectName}'.",
     "Kanban Board can not be created for scope id = {scopeId}.": "Kanban Board can not be created for scope id = {scopeId}.",
     "Invalid email address.": "Invalid email address.",
     "Delete Date should be null.": "Delete Date should be null.",
