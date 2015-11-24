@@ -406,7 +406,7 @@
     "Do you really want to remove this Group? This action will not delete Views.": "Вы действительно хотите удалить эту группу? Этим действием вы не удалите Борды.",
     "Owners": "Владельцы",
     "Rename": "Переименовать",
-    "{itemTypeName} {itemName} has been deleted.": "{itemTypeName} {itemName} был(а) удален(а).",
+    "{itemTypeName} {itemName} has been deleted.": "{{itemTypeName} {itemName} был(а) удален(а).",
     "Undelete": "Восстановить",
     "Create new Groups and Views": "Создать новые группы и доски",
     "Create": "Создать",
