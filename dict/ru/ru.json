@@ -2847,7 +2847,7 @@
     "Test Case \"{testCaseTitle}\" run": "Прогон Тест кейса \"{testCaseTitle}\"",
     "Test Case \"Unknown\" removed from Test Plan \"Unknown\"": "Тест кейс \"Unknown\" удален из Тест плана \"Unknown\"",
     "Test Case \"Unknown\" assigned to Test Plan \"Unknown\"": "Тест кейс \"Unknown\" назначен на Тест план \"Unknown\"",
-    "Test Case \"{testCaseTitle}\" removed from Test Plan \"{testPlanTitle}\"": "Тест-кейс \"{testCaseTitle}\" удален из Тест плана \"{testPlanTitle}\"",
+    "Test Case \"{testCaseTitle}\" removed from Test Plan \"{testPlanTitle}\"": "Тест кейс \"{testCaseTitle}\" удален из Тест плана \"{testPlanTitle}\"",
     "Test Case \"{testCaseTitle}\" assigned to Test Plan \"{testPlanTitle}\"": "Тест кейс \"{testCaseTitle}\" назначен на Тест план \"{testPlanTitle}\"",
     "{value} (#{id})": "{value} (#{id})",
     "{team} Team Entity State": "{team} Командный статус",
