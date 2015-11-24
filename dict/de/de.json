@@ -2874,5 +2874,9 @@
     "S M T P Login": "S M T P Login",
     "S M T P Password": "S M T P Password",
     "S M T P Authentication": "S M T P Authentication",
-    "S M T P Sender": "S M T P Sender"
+    "S M T P Sender": "S M T P Sender",
+    "{count, plural, one {week} other {weeks}}": "{count, plural, one {week} other {weeks}}",
+    "{count, plural, one {month} other {months}}": "{count, plural, one {month} other {months}}",
+    "{count, plural, one {quarter} other {quarters}}": "{count, plural, one {quarter} other {quarters}}",
+    "{count, plural, one {year} other {years}}": "{count, plural, one {year} other {years}}"
 }
