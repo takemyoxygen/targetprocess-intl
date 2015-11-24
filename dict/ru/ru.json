@@ -479,7 +479,7 @@
     "You can not edit Access because you are not admin or owner of this {viewType}": "Вы не можете редактировать доступ, так как вы не администратор и не владелец {viewType}",
     "Send notification": "Отправить уведомление",
     "About Access": "О доступе",
-    "Only you as the {itemTypeName} owner can see this {itemTypeName}. That's the default option for new {itemTypeNamePlural}.": "Только вы, как владелец, можете видеть {itemTypeName,select, View {эту доску} other {этот {itemTypeName}}}. Это настройка по умолчанию для всех новых {itemTypeNamePlural}.",
+    "Only you as the {itemTypeName} owner can see this {itemTypeName}. That's the default option for new {itemTypeNamePlural}.": "Только вы, как владелец, можете видеть {itemTypeName,select, Доска {эту доску} other {этот {itemTypeName}}}. Это настройка по умолчанию для всех новых {itemTypeNamePlural}.",
     "Everyone can see this {itemTypeName}. It will be shown in the left menu.": "Все смогут видеть {itemTypeName} в левом меню.",
     "Custom sharing": "Настройка доступа отдельным проектам и/или командам",
     "You as the {itemTypeName} owner or admin decide which team can see and change this {itemTypeName}.": "Вы (владелец или администратор) решаете, какая команда может видеть и изменять этот {itemTypeName}.",
