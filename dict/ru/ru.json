@@ -1210,7 +1210,7 @@
     "Could not find priority '{priority}' for {entityKind}.": "Could not find priority '{priority}' for {entityKind}.",
     "Cannot remove relation between Project and Team via View.": "Cannot remove relation between Project and Team via View.",
     "Cannot remove relation between Team and Project via View.": "Cannot remove relation between Team and Project via View.",
-    "The board is not configured for this card type.": "The board is not configured for this card type.",
+    "The board is not configured for this card type.": "Борд не настроен для карточек этого типа.",
     "Projects shouldn't rely on context.": "Projects shouldn't rely on context.",
     "Teams shouldn't rely on context.": "Teams shouldn't rely on context.",
     "Unassigning on this level of hierarchy is not possible.": "Unassigning on this level of hierarchy is not possible.",
