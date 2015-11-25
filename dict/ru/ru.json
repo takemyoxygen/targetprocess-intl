@@ -2675,7 +2675,7 @@
     "Posted data can't be bound to Burn Down filter.": "Posted data can't be bound to Burn Down filter.",
     "Posted data can't be bound to User story history.": "Posted data can't be bound to User story history.",
     "You were redirected to the error page but no error was caught.": "You were redirected to the error page but no error was caught.",
-    "Back to previous page": "Back to previous page",
+    "Back to previous page": "Вернуться на предыдущую страницу",
     "{entityTerm} with Id {entityId} not found or access is forbidden.": "Сущность {entityTerm} c id {entityId} не найдена или доступ запрещен.",
     "Context error.": "Context error.",
     "Teams error.": "Teams error.",
