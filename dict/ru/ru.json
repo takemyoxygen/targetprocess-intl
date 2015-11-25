@@ -2894,7 +2894,7 @@
     "{testPlanPluralTerm} from the related outbound entities": "{testPlanPluralTerm} from the related outbound entities",
     "{testPlanPluralTerm} from the related {childTypeCount, plural, one {{lastChildTypePluralTerm}} other {{childTypePluralTermsCommaSeparated} and {lastChildTypePluralTerm}}}": "{testPlanPluralTerm} from the related {childTypeCount, plural, one {{lastChildTypePluralTerm}} other {{childTypePluralTermsCommaSeparated} and {lastChildTypePluralTerm}}}",
     "Create {testPlanTerm}": "Create {testPlanTerm}",
-    "Create a related {testPlanTerm}": "Create a related {testPlanTerm}",
+    "Create a related {testPlanTerm}": "Создать связанный {testPlanTerm}",
     "Include the following {testPlanPluralTerm} to the {entityNameTerm} {testPlanTerm}": "Include the following {testPlanPluralTerm} to the {entityNameTerm} {testPlanTerm}",
     "Include {testCasePluralTerm} listed below to the {userStoryTerm} {testPlanTerm}": "Include {testCasePluralTerm} listed below to the {userStoryTerm} {testPlanTerm}",
     "Now it's possible to organize {testCasePluralTerm} linked to a {userStoryTerm} to a related {testPlanTerm}.": "Now it's possible to organize {testCasePluralTerm} linked to a {userStoryTerm} to a related {testPlanTerm}.",
