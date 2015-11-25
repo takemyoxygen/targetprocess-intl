@@ -353,7 +353,7 @@
     "No teams have been selected from the project and team selector. <br/>Select some teams to assign work to them.": "No teams have been selected from the project and team selector. <br/>Select some teams to assign work to them.",
     "Quick add work and people": "Быстро добавить работу и людей",
     "Do you really want to delete this {view}": "Вы действительно хотите удалить {view}?",
-    "Remove {view}": "Удалить {view}",
+    "Remove {view}": "Удалить {view, select, Доска {доску} other {view}}.\n",
     "Setup": "Настройка",
     "{blockersCount, select, 0 {You can't see <b>{count}</b> {relationType} {count, plural, one {relation} other {relations}}.} other {You can't see <b>{count}</b> {relationType} {count, plural, one {relation} other {relations}}, <i>{blockersCount}</i> of them {blockersCount, plural, one {is a blocker} other {are blockers}}.}} The project might be deleted or you do not have sufficient permissions.": "{blockersCount, select, 0 {Вам недоступны: <b>{count}</b> {relationType} {count, plural, one {связи} other {связи}}.} other {Вам недоступны: <b>{count}</b> {relationType} {count, plural, one {связи} other {связи}}, <i>{blockersCount}</i> из {blockersCount, plural, one {это блокер} other {блокеры}}.}} Возможно, проект был удалён или у вас не хватает прав.",
     "The new interface language will be applied after <span class=\"i-role-refresh\">refresh</span>": "Мы перейдём на новый язык после <span class=\"i-role-refresh\">обновления страницы</span>",
