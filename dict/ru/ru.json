@@ -2893,7 +2893,7 @@
     "{testPlanPluralTerm} from the related inbound entities": "{testPlanPluralTerm} из входящих сущностей",
     "{testPlanPluralTerm} from the related outbound entities": "{testPlanPluralTerm} из исходящих сущностей",
     "{testPlanPluralTerm} from the related {childTypeCount, plural, one {{lastChildTypePluralTerm}} other {{childTypePluralTermsCommaSeparated} and {lastChildTypePluralTerm}}}": "{testPlanPluralTerm} из связанных {childTypeCount, plural, one {{lastChildTypePluralTerm}} other {{childTypePluralTermsCommaSeparated} и {lastChildTypePluralTerm}}}",
-    "Create {testPlanTerm}": "Create {testPlanTerm}",
+    "Create {testPlanTerm}": "Создать связанный {testPlan}",
     "Create a related {testPlanTerm}": "Создать связанный {testPlanTerm}",
     "Include the following {testPlanPluralTerm} to the {entityNameTerm} {testPlanTerm}": "Включить следующие {testPlanPluralTerm} в {entityNameTerm} {testPlanTerm}",
     "Include {testCasePluralTerm} listed below to the {userStoryTerm} {testPlanTerm}": "Include {testCasePluralTerm} listed below to the {userStoryTerm} {testPlanTerm}",
