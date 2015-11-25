@@ -2900,7 +2900,7 @@
     "Now it's possible to organize {testCasePluralTerm} linked to a {userStoryTerm} to a related {testPlanTerm}.": "Now it's possible to organize {testCasePluralTerm} linked to a {userStoryTerm} to a related {testPlanTerm}.",
     "That will allow to run it as many times as you need and re-use {testCasePluralTerm}": "That will allow to run it as many times as you need and re-use {testCasePluralTerm}",
     "to test different {userStoryPluralTerm}.": "to test different {userStoryPluralTerm}.",
-    "Create run": "Создать План ран",
+    "Create run": "Создать прогон Тест плана",
     "Start run": "Start run",
     "Go to runs": "Go to runs",
     "Open Related {testPlanDetailsHeaderName}": "Open Related {testPlanDetailsHeaderName}",
