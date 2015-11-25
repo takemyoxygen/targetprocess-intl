@@ -145,7 +145,7 @@
     "The {entityKind} with the same email already exists": "The {entityKind} with the same email already exists",
     "Words reserved by Targetprocess cannot be used as custom terms": "Words reserved by Targetprocess cannot be used as custom terms",
     "Each term should be unique. '{duplicateName}' is already in use. Try another name": "Each term should be unique. '{duplicateName}' is already in use. Try another name",
-    "Add TestCase to TestPlan to create a TestCaseRun": "Add TestCase to TestPlan to create a TestCaseRun",
+    "Add TestCase to TestPlan to create a TestCaseRun": "Добавить Тест кейс в Тест план, чтобы создать Тест кейс ран",
     "You can't delete a {childName} as its parent Test Plan Run is in the final state. Re-open a parent Test Plan Run if you need to make any changes in it.": "Вы не можете удалить {childName}, так как его родительский Test Plan Run находится в финальном статусе. Переоткройте родительский Test Plan Run, если вы хотите сделать в нём какие-либо изменения.",
     "You can't link Test Plan to {entityKind} entity.": "You can't link Test Plan to {entityKind} entity.",
     "Total run estimate can't be less than the sum of child test plan run estimates, which is {estimatedHours} hours.": "Total run estimate can't be less than the sum of child test plan run estimates, which is {estimatedHours} hours.",
