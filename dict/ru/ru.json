@@ -2888,7 +2888,7 @@
     "All Test Cases in the Test Plan have been executed": "All Test Cases in the Test Plan have been executed",
     "Reordering": "Reordering",
     "Add Note": "Добавить комментарий",
-    "Add more details": "Add more details",
+    "Add more details": "Добавить детали",
     "No {testPlanPluralTerm}": "No {testPlanPluralTerm}",
     "{testPlanPluralTerm} from the related inbound entities": "{testPlanPluralTerm} из входящих сущностей",
     "{testPlanPluralTerm} from the related outbound entities": "{testPlanPluralTerm} из исходящих сущностей",
