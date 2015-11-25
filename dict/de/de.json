@@ -2935,5 +2935,15 @@
     "delete current step": "delete current step",
     "Got it": "Got it",
     "Add step": "Add step",
-    "Add result": "Add result"
+    "Add result": "Add result",
+    "No test plans": "No test plans",
+    "Test plans from the related inbound entities": "Test plans from the related inbound entities",
+    "Test plans from the related outbound entities": "Test plans from the related outbound entities",
+    "Test plans from the related {childTypeCount, plural, one {{lastChildTypePluralTerm}} other {{childTypePluralTermsCommaSeparated} and {lastChildTypePluralTerm}}}": "Test plans from the related {childTypeCount, plural, one {{lastChildTypePluralTerm}} other {{childTypePluralTermsCommaSeparated} and {lastChildTypePluralTerm}}}",
+    "Create test plan": "Create test plan",
+    "Create a related test plan": "Create a related test plan",
+    "Include the following test plans to the {entityNameTerm} test plan": "Include the following test plans to the {entityNameTerm} test plan",
+    "Include test cases listed below to the {userStoryTerm} test plan": "Include test cases listed below to the {userStoryTerm} test plan",
+    "Now it's possible to organize test cases linked to a {userStoryTerm} to a related test plan.": "Now it's possible to organize test cases linked to a {userStoryTerm} to a related test plan.",
+    "That will allow to run it as many times as you need and re-use test cases": "That will allow to run it as many times as you need and re-use test cases"
 }
