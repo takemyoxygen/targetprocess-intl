@@ -2905,7 +2905,7 @@
     "Go to runs": "Перейти к прогонам тест плана",
     "Open Related {testPlanDetailsHeaderName}": "Open Related {testPlanDetailsHeaderName}",
     "Bugs Count": "Bugs Count",
-    "Open Test Plan Runs": "Open Test Plan Runs",
+    "Open Test Plan Runs": "Открытые прогоны тест планов",
     "Test Case Count": "Test Case Count",
     "Open: {openBugCount, number, integer}/Total: {totalBugCount, number, integer}": "Открыто: {openCount} / Всего: {totalCount}",
     "Pass": "Пройден",
