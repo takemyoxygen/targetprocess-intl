@@ -2885,7 +2885,7 @@
     "{entityKind} already has linked test plan": "{entityKind} already has linked test plan",
     "Passed: {passed, number, integer}, Failed: {failed, number, integer}, Not Run: {notRun, number, integer}, On Hold: {onHold, number, integer} / Blocked: {blocked, number, integer}": "Passed: {passed, number, integer}, Failed: {failed, number, integer}, Not Run: {notRun, number, integer}, On Hold: {onHold, number, integer} / Blocked: {blocked, number, integer}",
     "You don't have access to the initial Test Case, so you cannot view the attachments. Please contact your administrator.": "You don't have access to the initial Test Case, so you cannot view the attachments. Please contact your administrator.",
-    "All Test Cases in the Test Plan have been executed": "All Test Cases in the Test Plan have been executed",
+    "All Test Cases in the Test Plan have been executed": "Все тест кейсы в данном прогоне тест плана выполнены",
     "Reordering": "Reordering",
     "Add Note": "Добавить комментарий",
     "Add more details": "Добавить детали",
