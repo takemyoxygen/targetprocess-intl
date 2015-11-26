@@ -2883,7 +2883,7 @@
     "Marking a state as planned means that this is the state just before taking {entityTerm} into progress.": "Marking a state as planned means that this is the state just before taking {entityTerm} into progress.",
     "The Cycle Time will start when {entityTerm} leaves this state.": "The Cycle Time will start when {entityTerm} leaves this state.",
     "{entityKind} already has linked test plan": "{entityKind} already has linked test plan",
-    "Passed: {passed, number, integer}, Failed: {failed, number, integer}, Not Run: {notRun, number, integer}, On Hold: {onHold, number, integer} / Blocked: {blocked, number, integer}": "Прошли: {passed}, не прошли: {failed}, не проходились: {notRun}, отложены: {hold}, заблокировано: {blocked})",
+    "Passed: {passed, number, integer}, Failed: {failed, number, integer}, Not Run: {notRun, number, integer}, On Hold: {onHold, number, integer} / Blocked: {blocked, number, integer}": "Пройдено: {passed, number, integer}, Не пройдено: {failed, number, integer}, Не выполнено: {notRun, number, integer}, Отложено: {onHold, number, integer} / Заблокировано: {blocked, number, integer}",
     "You don't have access to the initial Test Case, so you cannot view the attachments. Please contact your administrator.": "You don't have access to the initial Test Case, so you cannot view the attachments. Please contact your administrator.",
     "All Test Cases in the Test Plan have been executed": "Все тест кейсы в данном прогоне тест плана выполнены",
     "Reordering": "Reordering",
