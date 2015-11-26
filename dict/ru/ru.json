@@ -2942,7 +2942,7 @@
     "Test plans from the related {childTypeCount, plural, one {{lastChildTypePluralTerm}} other {{childTypePluralTermsCommaSeparated} and {lastChildTypePluralTerm}}}": "Тест планы из связанных {childTypeCount, plural, one {{lastChildTypePluralTerm}} other {{childTypePluralTermsCommaSeparated} и {lastChildTypePluralTerm}}}",
     "Create test plan": "Создать тест план",
     "Create a related test plan": "Создать связанный тест план",
-    "Include the following test plans to the {entityNameTerm} test plan": "Include the following test plans to the {entityNameTerm} test plan",
+    "Include the following test plans to the {entityNameTerm} test plan": "Включить следующие тест планы в {entityNameTerm} тест план",
     "Include test cases listed below to the {userStoryTerm} test plan": "Include test cases listed below to the {userStoryTerm} test plan",
     "Now it's possible to organize test cases linked to a {userStoryTerm} to a related test plan.": "Now it's possible to organize test cases linked to a {userStoryTerm} to a related test plan.",
     "That will allow to run it as many times as you need and re-use test cases": "That will allow to run it as many times as you need and re-use test cases",
