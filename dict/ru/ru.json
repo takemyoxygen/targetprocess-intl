@@ -2945,5 +2945,6 @@
     "Include the following test plans to the {entityNameTerm} test plan": "Include the following test plans to the {entityNameTerm} test plan",
     "Include test cases listed below to the {userStoryTerm} test plan": "Include test cases listed below to the {userStoryTerm} test plan",
     "Now it's possible to organize test cases linked to a {userStoryTerm} to a related test plan.": "Now it's possible to organize test cases linked to a {userStoryTerm} to a related test plan.",
-    "That will allow to run it as many times as you need and re-use test cases": "That will allow to run it as many times as you need and re-use test cases"
+    "That will allow to run it as many times as you need and re-use test cases": "That will allow to run it as many times as you need and re-use test cases",
+    "User Guide": "User Guide"
 }
