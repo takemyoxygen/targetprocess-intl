@@ -2907,7 +2907,7 @@
     "Bugs Count": "Bugs Count",
     "Open Test Plan Runs": "Open Test Plan Runs",
     "Test Case Count": "Test Case Count",
-    "Open: {openBugCount, number, integer}/Total: {totalBugCount, number, integer}": "Open: {openBugCount, number, integer}/Total: {totalBugCount, number, integer}",
+    "Open: {openBugCount, number, integer}/Total: {totalBugCount, number, integer}": "Открыто: {openCount} / Всего: {totalCount}",
     "Pass": "Пройден",
     "Fail": "Не пройден",
     "Step": "Шаг",
