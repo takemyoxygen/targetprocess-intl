@@ -3192,5 +3192,5 @@
     "Please select a type convert to.": "Please select a type convert to.",
     "Please, select some other user story as a parent.": "Please, select some other user story as a parent.",
     "{entityType} '{entityName}' cannot be converted.": "{entityType} '{entityName}' cannot be converted.",
-    "Cannot send feedback.": "Cannot send feedback."
+    "Cannot send feedback.": "Не удалось отправить отзыв"
 }
