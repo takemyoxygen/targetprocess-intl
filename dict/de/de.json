@@ -3188,5 +3188,9 @@
     "{days, plural, =0 {} one {{days} day} other {{days} days}} {hours, plural, =0 {} one {{hours} hour} other {{hours} hours}} {minutes, plural, =0 {} one {{minutes} minute} other {{minutes} minutes}}": "{days, plural, =0 {} one {{days} day} other {{days} days}} {hours, plural, =0 {} one {{hours} hour} other {{hours} hours}} {minutes, plural, =0 {} one {{minutes} minute} other {{minutes} minutes}}",
     "{days, plural, =0 {} other {{days}d}} {hours, plural, =0 {} other {{hours}h}} {minutes, plural, =0 {} other {{minutes}m}}": "{days, plural, =0 {} other {{days}d}} {hours, plural, =0 {} other {{hours}h}} {minutes, plural, =0 {} other {{minutes}m}}",
     "Tags that start with 'A' or 'B'": "Tags that start with 'A' or 'B'",
-    "Tags that contain 'rest' or 'soap'": "Tags that contain 'rest' or 'soap'"
+    "Tags that contain 'rest' or 'soap'": "Tags that contain 'rest' or 'soap'",
+    "Please select a type convert to.": "Please select a type convert to.",
+    "Please, select some other user story as a parent.": "Please, select some other user story as a parent.",
+    "{entityType} '{entityName}' cannot be converted.": "{entityType} '{entityName}' cannot be converted.",
+    "Cannot send feedback.": "Cannot send feedback."
 }
