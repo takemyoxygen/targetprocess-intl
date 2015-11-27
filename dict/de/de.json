@@ -3186,5 +3186,7 @@
     "Tp Event ID": "Tp Event ID",
     "Action Type": "Action Type",
     "{days, plural, =0 {} one {{days} day} other {{days} days}} {hours, plural, =0 {} one {{hours} hour} other {{hours} hours}} {minutes, plural, =0 {} one {{minutes} minute} other {{minutes} minutes}}": "{days, plural, =0 {} one {{days} day} other {{days} days}} {hours, plural, =0 {} one {{hours} hour} other {{hours} hours}} {minutes, plural, =0 {} one {{minutes} minute} other {{minutes} minutes}}",
-    "{days, plural, =0 {} other {{days}d}} {hours, plural, =0 {} other {{hours}h}} {minutes, plural, =0 {} other {{minutes}m}}": "{days, plural, =0 {} other {{days}d}} {hours, plural, =0 {} other {{hours}h}} {minutes, plural, =0 {} other {{minutes}m}}"
+    "{days, plural, =0 {} other {{days}d}} {hours, plural, =0 {} other {{hours}h}} {minutes, plural, =0 {} other {{minutes}m}}": "{days, plural, =0 {} other {{days}d}} {hours, plural, =0 {} other {{hours}h}} {minutes, plural, =0 {} other {{minutes}m}}",
+    "Tags that start with 'A' or 'B'": "Tags that start with 'A' or 'B'",
+    "Tags that contain 'rest' or 'soap'": "Tags that contain 'rest' or 'soap'"
 }
