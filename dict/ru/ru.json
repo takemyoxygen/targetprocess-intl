@@ -3192,5 +3192,9 @@
     "Please select a type convert to.": "Please select a type convert to.",
     "Please, select some other user story as a parent.": "Please, select some other user story as a parent.",
     "{entityType} '{entityName}' cannot be converted.": "{entityType} '{entityName}' cannot be converted.",
-    "Cannot send feedback.": "Не удалось отправить отзыв"
+    "Cannot send feedback.": "Не удалось отправить отзыв",
+    "{localeName} ({completeness} translated)": "{localeName} ({completeness} translated)",
+    "User doesn't belong to any team": "User doesn't belong to any team",
+    "Are you sure you want to remove team '{teamName}' from this project? All the current assignments for '{teamName}' team in the project will be removed and this action cannot be reverted.": "Are you sure you want to remove team '{teamName}' from this project? All the current assignments for '{teamName}' team in the project will be removed and this action cannot be reverted.",
+    "Are you sure you want to remove project '{projectName}' from this team? All the current assignments for this team in the '{projectName}' project will be removed and this action cannot be reverted.": "Are you sure you want to remove project '{projectName}' from this team? All the current assignments for this team in the '{projectName}' project will be removed and this action cannot be reverted."
 }
