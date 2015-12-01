@@ -3206,5 +3206,5 @@
     "Please choose a {itemType, select, list {list} customreport {report} other {{itemType}} }…": "Please choose a {itemType, select, list {list} customreport {report} other {{itemType}} }…",
     "{itemType, select, list {Use list} customreport {Use report} other {Use {itemType}} }": "{itemType, select, list {Use list} customreport {Use report} other {Use {itemType}} }",
     "Do you really want to remove this {itemType, select, view {View} group {Group} customreport {Report} dashboard {Dashboard} other {{itemType}} }?": "Вы действительно хотите удалить {itemType, select, view {доску} group {группу} customreport {отчёт} dashboard {дашборд} other {{itemType}} }?",
-    "Remove {itemType, select, view {View} group {Group} customreport {Report} dashboard {Dashboard} other {{itemType}} }": "Удалить {itemType, select, view {Доску} group {Группу} customreport {Отчёт} dashboard {Дашборд} other {{itemType}} }"
+    "Remove {itemType, select, view {View} group {Group} customreport {Report} dashboard {Dashboard} other {{itemType}} }": "Удалить {itemType, select, view {доску} group {группу} customreport {отчёт} dashboard {дашборд} other {{itemType}} }"
 }
