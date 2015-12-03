@@ -2524,7 +2524,7 @@
     "active admins": "активные администраторы",
     "added this yea": "добавлены в этом году",
     "belongs to the current {releaseTerm}": "в текущем {releaseTerm}",
-    "belongs to a future {releaseTerm}": "в будущем {releaseTerm",
+    "belongs to a future {releaseTerm}": "в будущем {releaseTerm}",
     "only active projects": "только активные проекты",
     "problematic projects": "проблемные проекты",
     "{userStoryTerm} contains 'zoom' in name": "{userStoryTerm} содержит «zoom» в названии",
