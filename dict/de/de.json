@@ -3209,5 +3209,8 @@
     "Remove {itemType, select, view {View} group {Group} customreport {Report} dashboard {Dashboard} other {{itemType}} }": "Remove {itemType, select, view {View} group {Group} customreport {Report} dashboard {Dashboard} other {{itemType}} }",
     "Clone {itemType, select, view {View} group {Group} customreport {Report} dashboard {Dashboard} other {{itemType}} }": "Clone {itemType, select, view {View} group {Group} customreport {Report} dashboard {Dashboard} other {{itemType}} }",
     "People will be notified that you've shared a {itemType, select, view {View} group {Group} customreport {Report} dashboard {Dashboard} other {{itemType}} } with them": "People will be notified that you've shared a {itemType, select, view {View} group {Group} customreport {Report} dashboard {Dashboard} other {{itemType}} } with them",
-    "You can not edit Access because you are not admin or owner of this {itemType, select, view {View} group {Group} customreport {Report} dashboard {Dashboard} other {{itemType}} }": "You can not edit Access because you are not admin or owner of this {itemType, select, view {View} group {Group} customreport {Report} dashboard {Dashboard} other {{itemType}} }"
+    "You can not edit Access because you are not admin or owner of this {itemType, select, view {View} group {Group} customreport {Report} dashboard {Dashboard} other {{itemType}} }": "You can not edit Access because you are not admin or owner of this {itemType, select, view {View} group {Group} customreport {Report} dashboard {Dashboard} other {{itemType}} }",
+    "0 minutes": "0 minutes",
+    "0min": "0min",
+    "{days, plural, =0 {} other {{days}d}} {hours, plural, =0 {} other {{hours}h}} {minutes, plural, =0 {} other {{minutes}min}}": "{days, plural, =0 {} other {{days}d}} {hours, plural, =0 {} other {{hours}h}} {minutes, plural, =0 {} other {{minutes}min}}"
 }

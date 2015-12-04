@@ -3,7 +3,7 @@
     "code": "de",
     "name": "German",
     "stats": {
-      "totalTokensCount": 3211,
+      "totalTokensCount": 3214,
       "translatedTokensCount": 1832,
       "reviewedTokensCount": 1830,
       "translatedWordsCount": 10692
@@ -13,7 +13,7 @@
     "code": "ru",
     "name": "Russian",
     "stats": {
-      "totalTokensCount": 3211,
+      "totalTokensCount": 3214,
       "translatedTokensCount": 2727,
       "reviewedTokensCount": 2727,
       "translatedWordsCount": 14968
