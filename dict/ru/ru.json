@@ -3212,5 +3212,7 @@
     "You can not edit Access because you are not admin or owner of this {itemType, select, view {View} group {Group} customreport {Report} dashboard {Dashboard} other {{itemType}} }": "Вы не можете изменить доступ — вы не администратор и не владелец {itemType, select, view {доски} group {группы} customreport {отчёта} dashboard {дашборда} other {{itemType}} }",
     "0 minutes": "0 minutes",
     "0min": "0min",
-    "{days, plural, =0 {} other {{days}d}} {hours, plural, =0 {} other {{hours}h}} {minutes, plural, =0 {} other {{minutes}min}}": "{days, plural, =0 {} other {{days}d}} {hours, plural, =0 {} other {{hours}h}} {minutes, plural, =0 {} other {{minutes}min}}"
+    "{days, plural, =0 {} other {{days}d}} {hours, plural, =0 {} other {{hours}h}} {minutes, plural, =0 {} other {{minutes}min}}": "{days, plural, =0 {} other {{days}d}} {hours, plural, =0 {} other {{hours}h}} {minutes, plural, =0 {} other {{minutes}min}}",
+    "Required field": "Обязательное поле",
+    "No items.": "Нет элементов."
 }
