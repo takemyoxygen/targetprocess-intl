@@ -3214,5 +3214,16 @@
     "0min": "0 мин",
     "{days, plural, =0 {} other {{days}d}} {hours, plural, =0 {} other {{hours}h}} {minutes, plural, =0 {} other {{minutes}min}}": "{days, plural, =0 {} other {{days} дней}} {hours, plural, =0 {} other {{hours} часов}} {minutes, plural, =0 {} other {{minutes} минут}}",
     "Required field": "Обязательное поле",
-    "No items.": "Нет элементов."
+    "No items.": "Нет элементов.",
+    "{projectName} has been assigned to {teamName}": "{projectName} has been assigned to {teamName}",
+    "{projectName} is assigning to {teamName} with {workflowName} workflow": "{projectName} is assigning to {teamName} with {workflowName} workflow",
+    "All projects from {teamName} will use {workflowName}": "All projects from {teamName} will use {workflowName}",
+    "Add all": "Add all",
+    "Assigned Projects": "Assigned Projects",
+    "No such projects found": "No such projects found",
+    "Other projects from {processName} process": "Other projects from {processName} process",
+    "{assigned} of {available} projects": "{assigned} of {available} projects",
+    "Select a team from the list below and specify on which projects it will use this workflow.": "Select a team from the list below and specify on which projects it will use this workflow.",
+    "No such teams found": "No such teams found",
+    "List of Projects from {processName} process that are not assigned to the selected Team. Choosing the Project means that it will be assigned to the Team with this team workflow": "List of Projects from {processName} process that are not assigned to the selected Team. Choosing the Project means that it will be assigned to the Team with this team workflow"
 }
