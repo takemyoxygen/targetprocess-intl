@@ -998,7 +998,7 @@
     "Median:": "Медиана:",
     "Typical lead or cycle time. The \"middle\" value in the list of all values.": "Типичное общее время или время выполнения задачи. Среднее значение среди всех значений.",
     "There are more items to show.\\n\\nOne can only see up to 1000 items at a time. You might want to narrow down your filter settings.": "Слишком много элементов для отображения.\\n\\nМожет быть показано до 1000 элементов за один раз. Вы можете сократить диапазон данных, изменив настройки фильтра. ",
-    "Process control chart shows distribution of cycle time of all completed entities ({userStories}, {features}, {bugs}, tasks, requests) for a given time frame.": "Отчёт «Контроль процесса» показывает распределение времени выполнения всех сущностей ({userStories}, {features}, {bugs}, {tasks}, {requests}), завершённых в определённый период времени.",
+    "Process control chart shows distribution of cycle time of all completed entities ({userStories}, {features}, {bugs}, tasks, requests) for a given time frame.": "Отчёт 'Контроль процесса' показывает распределение времени выполнения всех сущностей ({userStories}, {features}, {bugs}, {tasks}, {requests}), завершённых в определённый период времени.",
     "Cycle or Lead time in days": "Время выполнения или общее время в днях",
     "Date when entity was completed": "Дата, когда работа над сущностью была завершена.",
     "Only with relations": "Только со связями",
