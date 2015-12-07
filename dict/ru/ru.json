@@ -1411,7 +1411,7 @@
     "Improve (your ideas)": "Можно улучшить (ваши идеи)",
     "this feature": "эту возможность",
     "Feedback sent": "Отзыв отправлен",
-    "What do you think about {thisFeature}?": "Что вы думаете о фиче «{thisFeature}»? ",
+    "What do you think about {thisFeature}?": "Что вы думаете о фиче {thisFeature}? ",
     "Send feedback": "Отправить отзыв",
     "Give feedback about {featureName}": "Отправить отзыв о {featureName}",
     "{affectedEntitiesCount, plural, =1 {It} other {They}} will be moved to '{targetStateName}' state.": "{affectedEntitiesCount, plural, =1 {Сущность будет перенесена} other {Сущности будут перенесены}} в статус «{targetStateName}».",
