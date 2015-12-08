@@ -3225,5 +3225,6 @@
     "{assigned} of {available} projects": "{assigned} of {available} projects",
     "Select a team from the list below and specify on which projects it will use this workflow.": "Select a team from the list below and specify on which projects it will use this workflow.",
     "No such teams found": "No such teams found",
-    "List of Projects from {processName} process that are not assigned to the selected Team. Choosing the Project means that it will be assigned to the Team with this team workflow": "List of Projects from {processName} process that are not assigned to the selected Team. Choosing the Project means that it will be assigned to the Team with this team workflow"
+    "List of Projects from {processName} process that are not assigned to the selected Team. Choosing the Project means that it will be assigned to the Team with this team workflow": "List of Projects from {processName} process that are not assigned to the selected Team. Choosing the Project means that it will be assigned to the Team with this team workflow",
+    "Some changes in the DSL setup will be lost (e.g. labels, additional axes setup). Do you really wish to continue?": "Some changes in the DSL setup will be lost (e.g. labels, additional axes setup). Do you really wish to continue?"
 }
