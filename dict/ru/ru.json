@@ -2383,7 +2383,7 @@
     "There are no people in this {name}": "В этом проекте/команде нет людей",
     "Uploading your images…": "Загружаем ваши изображения...",
     "Loading…": "Идёт загрузка...",
-    "Read more…": "Читать далее",
+    "Read more…": "Читать дальше",
     "Started — Finished": "Начато — Закончено",
     "Possible transitions are: {currentStateName} → {nextStateNames}.": "Возможные перемещения: {currentStateName} → {nextStateNames}.",
     "Use these rules to change the default business logic and to automate some actions in the system. Note that the rules are global, they are not limited to a specific project or process. If there is a rule enabled that you feel wasn't applied, check the system log. Don't worry if the rule you need isn't here just yet; we're already working on a language for creating your own custom rules.": "Измените стандартную бизнес-логику или автоматизируйте некоторые действия. Будьте внимательны — правила используются во всех проектах и процессах. Если вам кажется, что правило должно было сработать, но не сработало, — проверьте системный лог. Не переживайте, если нужного вам правила нет в этом списке — мы уже работаем над языком, на котором вы сможете создавать собственные правила.",
