@@ -3246,5 +3246,10 @@
     "Only one team can be assigned to each work item.": "Only one team can be assigned to each work item.",
     "There are some differences how teams work": "There are some differences how teams work",
     "Several teams work on one item": "Several teams work on one item",
-    "One team works on one item": "One team works on one item"
+    "One team works on one item": "One team works on one item",
+    "Project start date": "Project start date",
+    "Project end date": "Project end date",
+    "save": "save",
+    "cancel": "cancel",
+    "{localeName} ({completeness}% translated)": "{localeName} ({completeness}% translated)"
 }
