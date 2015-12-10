@@ -1,8 +1,6 @@
 {
     "Operation is not supported": "Diese Operation ist nicht unterstützt",
     "There are several methods named '{method}'": "Es gibt mehrere Methoden mit dem Namen '{method}'",
-    "Expression expected": "Ausdruck erwartet",
-    "Character literal must contain exactly one character": "'Character Literal' muss genau ein Zeichen enthalten",
     "No 'it' is in scope": "Es gibt kein 'it' im aktuellen Rahmen",
     "The 'iif' function requires three arguments": "Die Funktion 'IIF' erwartet drei Argumente",
     "The first expression must be of type 'Boolean'": "Der erste Ausdruck muss vom booleschen Typ sein",

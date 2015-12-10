@@ -1,8 +1,6 @@
 {
     "Operation is not supported": "Действие не поддерживается",
     "There are several methods named '{method}'": "Несколько методов имеют название «{method}»",
-    "Expression expected": "Expression expected",
-    "Character literal must contain exactly one character": "Character literal must contain exactly one character",
     "No 'it' is in scope": "No 'it' is in scope",
     "The 'iif' function requires three arguments": "The 'iif' function requires three arguments",
     "The first expression must be of type 'Boolean'": "The first expression must be of type 'Boolean'",
