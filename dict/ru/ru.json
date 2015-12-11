@@ -2822,7 +2822,7 @@
     "People will be notified that you've shared a {itemType, select, view {View} group {Group} customreport {Report} dashboard {Dashboard} other {{itemType}} } with them": "Коллеги получат уведомление, что вы дали им доступ к {itemType, select, view {доске} group {группе} customreport {отчёту} dashboard {дашборду} other {{itemType}} }",
     "You can not edit Access because you are not admin or owner of this {itemType, select, view {View} group {Group} customreport {Report} dashboard {Dashboard} other {{itemType}} }": "Вы не можете изменить доступ — вы не администратор и не владелец {itemType, select, view {доски} group {группы} customreport {отчёта} dashboard {дашборда} other {{itemType}} }",
     "0 minutes": "0 минут",
-    "0min": "0 мин",
+    "0min": "0мин",
     "{days, plural, =0 {} other {{days}d}} {hours, plural, =0 {} other {{hours}h}} {minutes, plural, =0 {} other {{minutes}min}}": "{days, plural, =0 {} one {{days}д} few {{days}д} many {{days}д} other {{days}д}} {hours, plural, =0 {} one {{hours}ч} few {{hours}ч} many {{hours}ч} other {{hours}ч}} {minutes, plural, =0 {} one {{minutes}мин} few {{minutes}мин} many {{minutes}мин} other {{minutes}мин}}\n                ",
     "Required field": "Обязательное поле",
     "No items.": "Нет элементов.",
@@ -2865,6 +2865,6 @@
     "{localeName} ({completeness}% translated)": "{localeName} (переведено {completeness}%)",
     "System User": "Системный пользователь",
     "System Users": "Системные пользователи",
-    "{days, plural, =0 {} one {{days} day} other {{days} days} } {hours, plural, =0 {} one {{hours} hour} other {{hours} hours} } {minutes, plural, =0 {} one {{minutes} minute} other {{minutes} minutes} }": "{days, plural, =0 {} one {{days} день} few {{days} дня} many {{days} дней} other {{days} дня}} {hours, plural, =0 {} one {{hours} час} few {{hours} часа} many {{hours} часов} other {{hours} часа}} {minutes, plural, =0 {} one {{minutes} минута} few {{minutes} минут} many {{minutes} минут} other {{minutes} минуты}}",
+    "{days, plural, =0 {} one {{days} day} other {{days} days} } {hours, plural, =0 {} one {{hours} hour} other {{hours} hours} } {minutes, plural, =0 {} one {{minutes} minute} other {{minutes} minutes} }": "{days, plural, =0 {} one {{days} день} few {{days} дня} many {{days} дней} other {{days} дня}} {hours, plural, =0 {} one {{hours} час} few {{hours} часа} many {{hours} часов} other {{hours} часа}} {minutes, plural, =0 {} one {{minutes} минута} few {{minutes} минуты} many {{minutes} минут} other {{minutes} минуты}}",
     "{days, plural, =0 {} other {{days}d} } {hours, plural, =0 {} other {{hours}h} } {minutes, plural, =0 {} other {{minutes}min} }": "{days, plural, =0 {} other {{days}д} } {hours, plural, =0 {} other {{hours}ч} } {minutes, plural, =0 {} other {{minutes}мин} }"
 }
