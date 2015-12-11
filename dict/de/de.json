@@ -2864,5 +2864,7 @@
     "cancel": "cancel",
     "{localeName} ({completeness}% translated)": "{localeName} ({completeness}% translated)",
     "System User": "System User",
-    "System Users": "System Users"
+    "System Users": "System Users",
+    "{days, plural, =0 {} one {{days} day} other {{days} days} } {hours, plural, =0 {} one {{hours} hour} other {{hours} hours} } {minutes, plural, =0 {} one {{minutes} minute} other {{minutes} minutes} }": "{days, plural, =0 {} one {{days} day} other {{days} days} } {hours, plural, =0 {} one {{hours} hour} other {{hours} hours} } {minutes, plural, =0 {} one {{minutes} minute} other {{minutes} minutes} }",
+    "{days, plural, =0 {} other {{days}d} } {hours, plural, =0 {} other {{hours}h} } {minutes, plural, =0 {} other {{minutes}min} }": "{days, plural, =0 {} other {{days}d} } {hours, plural, =0 {} other {{hours}h} } {minutes, plural, =0 {} other {{minutes}min} }"
 }
