@@ -1009,7 +1009,7 @@
     "The process can't be deleted as used by {projectsCount} {projectsCount, plural, =1 {project} other {projects}}.": "Процесс не может быть удалён, так как его используют {projectsCount} {projectsCount, plural, =1 {проект} other {проекты}}.",
     "Default process can't be deleted": "Процесс, используемый по умолчанию, не может быть удалён",
     "Do you really want to delete this Process?": "Вы действительно хотите удалить этот процесс?",
-    "Changes affect {projectsCount} {projectsCount, plural, =1 {project} other {projects}}": "Повлияет на {projectsCount} {projectsCount, plural, =1 {проект} other {проекты}}",
+    "Changes affect {projectsCount} {projectsCount, plural, =1 {project} other {projects}}": "Повлияет на {projectsCount} {projectsCount, plural, =1 {проект} few {проекта} many {проектов} other {проекта}}",
     "The process is not in use": "Процесс не используется",
     "Create process": "Создать процесс",
     "Select Role": "Выбрать роль",
