@@ -2198,7 +2198,7 @@
     "belongs to the 2 future {iterationsTerm}": "в двух будущих {iterationsTerm}",
     "without tasks": "без задач",
     "belongs to 'Quick Add' {featureTerm}": "принадлежит {featureTerm} «быстрое добавление»",
-    "belongs to the current {iterationTerm}": "входит в текущую (-ий) {iterationTerm}",
+    "belongs to the current {iterationTerm}": "входит в текущую {iterationTerm}",
     "assigned to 'Delta' team": "назначены на команду «Delta»",
     "10 days from the past": "10 дней в прошлое",
     "10 days from the future": "10 дней в будущее",
