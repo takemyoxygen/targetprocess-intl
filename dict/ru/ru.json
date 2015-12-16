@@ -2197,7 +2197,7 @@
     "with 'Confused' severity": "с серьёзностью «Confused»",
     "belongs to the 2 future {iterationsTerm}": "в двух будущих {iterationsTerm}",
     "without tasks": "без задач",
-    "belongs to 'Quick Add' {featureTerm}": "принадлежит «быстрому добавлению» в {featureTerm}",
+    "belongs to 'Quick Add' {featureTerm}": "принадлежит {featureTerm} «быстрое добавление»",
     "belongs to the current {iterationTerm}": "входит в текущую (-ий) {iterationTerm}",
     "assigned to 'Delta' team": "назначены на команду «Delta»",
     "10 days from the past": "10 дней в прошлое",
