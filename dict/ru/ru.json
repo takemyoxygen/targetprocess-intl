@@ -1050,7 +1050,7 @@
     "People assigned as '{roleName}' will be unassigned from {assignmentsCountMarkup} {assignmentsCount, plural, =1 {{singleEntityTerm}} other {{multipleEntitiesTerm}}}.": "Люди, назначенные как {roleName}, будут убраны из {assignmentsCountMarkup} {assignmentsCount, plural, =1 {{singleEntityTerm}} other {{multipleEntitiesTerm}}}.",
     "The order of the states mapped to the initial and final states of Team Workflows can't be changed.": "Порядок статусов, соответствующих начальному и конечному статусу в схемах работы команд, не может быть изменён.",
     "The order of the initial and final states can't be changed.": "Порядок начального и конечного статусов не может быть изменен.",
-    "No responsible role": "Нет ответственной роли.",
+    "No responsible role": "Нет ответственной роли",
     "Change state settings": "Изменить настройки статуса.",
     "Planned": "Запланировано",
     "Workflow Setup": "Настройка схемы работы",
