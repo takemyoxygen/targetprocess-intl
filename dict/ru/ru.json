@@ -165,7 +165,7 @@
     "Cancel": "Отменить",
     "Hide menu": "Спрятать меню",
     "Show menu": "Показать меню",
-    "Favorites": "Избранные",
+    "Favorites": "Избранное",
     "Other": "Другое",
     "Make this View visible to all or selected teams": "Сделать эту доску видимой для всех или выбранных команд",
     "Make this Group visible to all or selected teams": "Сделать эту группу видимой для всех или выбранных команд",
@@ -2866,5 +2866,7 @@
     "System User": "Системный пользователь",
     "System Users": "Системные пользователи",
     "{days, plural, =0 {} one {{days} day} other {{days} days} } {hours, plural, =0 {} one {{hours} hour} other {{hours} hours} } {minutes, plural, =0 {} one {{minutes} minute} other {{minutes} minutes} }": "{days, plural, =0 {} one {{days} день} few {{days} дня} many {{days} дней} other {{days} дня}} {hours, plural, =0 {} one {{hours} час} few {{hours} часа} many {{hours} часов} other {{hours} часа}} {minutes, plural, =0 {} one {{minutes} минута} few {{minutes} минуты} many {{minutes} минут} other {{minutes} минуты}}",
-    "{days, plural, =0 {} other {{days}d} } {hours, plural, =0 {} other {{hours}h} } {minutes, plural, =0 {} other {{minutes}min} }": "{days, plural, =0 {} other {{days}д} } {hours, plural, =0 {} other {{hours}ч} } {minutes, plural, =0 {} other {{minutes}мин} }"
+    "{days, plural, =0 {} other {{days}d} } {hours, plural, =0 {} other {{hours}h} } {minutes, plural, =0 {} other {{minutes}min} }": "{days, plural, =0 {} other {{days}д} } {hours, plural, =0 {} other {{hours}ч} } {minutes, plural, =0 {} other {{minutes}мин} }",
+    "Something weird happened. Please {contactSupportLink} to identify the issue and fix it.": "Something weird happened. Please {contactSupportLink} to identify the issue and fix it.",
+    "Limits for {axisName} lane": "Limits for {axisName} lane"
 }
