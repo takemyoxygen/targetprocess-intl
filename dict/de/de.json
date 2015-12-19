@@ -2868,5 +2868,7 @@
     "{days, plural, =0 {} one {{days} day} other {{days} days} } {hours, plural, =0 {} one {{hours} hour} other {{hours} hours} } {minutes, plural, =0 {} one {{minutes} minute} other {{minutes} minutes} }": "{days, plural, =0 {} one {{days} day} other {{days} days} } {hours, plural, =0 {} one {{hours} hour} other {{hours} hours} } {minutes, plural, =0 {} one {{minutes} minute} other {{minutes} minutes} }",
     "{days, plural, =0 {} other {{days}d} } {hours, plural, =0 {} other {{hours}h} } {minutes, plural, =0 {} other {{minutes}min} }": "{days, plural, =0 {} other {{days}d} } {hours, plural, =0 {} other {{hours}h} } {minutes, plural, =0 {} other {{minutes}min} }",
     "Something weird happened. Please {contactSupportLink} to identify the issue and fix it.": "Something weird happened. Please {contactSupportLink} to identify the issue and fix it.",
-    "Limits for {axisName} lane": "Limits for {axisName} lane"
+    "Limits for {axisName} lane": "Limits for {axisName} lane",
+    "This program has no projects": "This program has no projects",
+    "Are you sure you want to remove project '{projectName}' from this release?": "Are you sure you want to remove project '{projectName}' from this release?"
 }
