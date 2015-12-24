@@ -1664,7 +1664,7 @@
     "Either the cards cannot be prioritized together, or ranking is not applicable to them.": "Либо карточки не могут быть приоритизированы одновременно, либо ранжирование неприменимо к ним.",
     "Link will be opened in the same window": "Ссылка будет открыта в том же окне.",
     "Team State is not in sync with Entity State.": "Командный статус расходится со статусом сущности.",
-    "No Team": "Команда не выбрана",
+    "No Team": "Без команды",
     "No Responsible Team": "Ответственная команда не выбрана",
     "No Epic": "Эпик не выбран",
     "No {entityKind}": "{entityKind} не выбрано",
