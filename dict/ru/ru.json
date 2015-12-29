@@ -2870,5 +2870,22 @@
     "Something weird happened. Please {contactSupportLink} to identify the issue and fix it.": "Что-то пошло не так. Пожалуйста, {contactSupportLink}, чтобы опознать проблему и решить её.",
     "Limits for {axisName} lane": "Лимиты для оси {axisName}",
     "This program has no projects": "В этой программе нет проектов",
-    "Are you sure you want to remove project '{projectName}' from this release?": "Вы уверены, что хотите убрать проект «{projectName}» из этого релиза?"
+    "Are you sure you want to remove project '{projectName}' from this release?": "Вы уверены, что хотите убрать проект «{projectName}» из этого релиза?",
+    "{entityKind} already has linked test plan": "{entityKind} already has linked test plan",
+    "You don't have access to the initial Test Case, so you cannot view the attachments. Please contact your administrator.": "You don't have access to the initial Test Case, so you cannot view the attachments. Please contact your administrator.",
+    "All Test Cases in the Test Plan have been executed": "All Test Cases in the Test Plan have been executed",
+    "Reordering": "Reordering",
+    "Include the following test plans to the {entityNameTerm} test plan": "Include the following test plans to the {entityNameTerm} test plan",
+    "Start run": "Start run",
+    "Open Related {testPlanDetailsHeaderName}": "Open Related {testPlanDetailsHeaderName}",
+    "Bugs Count": "Bugs Count",
+    "Test Case Count": "Test Case Count",
+    "Complete Run": "Complete Run",
+    "New Run": "New Run",
+    "Change Run": "Change Run",
+    "Please, enter an url": "Please, enter an url",
+    "Please, enter an url description": "Please, enter an url description",
+    "Cmd": "Cmd",
+    "Backspace": "Backspace",
+    "Fn": "Fn"
 }
