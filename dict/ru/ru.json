@@ -2887,5 +2887,15 @@
     "Please, enter an url description": "Пожалуйста, введите описание URL",
     "Cmd": "Cmd",
     "Backspace": "Backspace",
-    "Fn": "Fn"
+    "Fn": "Fn",
+    "Team workflows:": "Team workflows:",
+    "How to use team workflow?": "How to use team workflow?",
+    "In this case entities from the Done state will automatically be moved to the Open state of the Development team.": "In this case entities from the Done state will automatically be moved to the Open state of the Development team.",
+    "How to map a team workflow to your process": "How to map a team workflow to your process",
+    "{UsedBy}{teamsCount, plural, =1 {{teamName}} other {{teamsCount} teams}}": "{UsedBy}{teamsCount, plural, =1 {{teamName}} other {{teamsCount} teams}}",
+    "{UsedIn}{projectsCount, plural, =1 {{projectName}} other {{projectsCount} projects}}": "{UsedIn}{projectsCount, plural, =1 {{projectName}} other {{projectsCount} projects}}",
+    "Used by {teamsCount, plural, =1 {{teamName}} other {{teamsCount} teams}} in {projectsCount, plural, =1 {{projectName}} other {{projectsCount} projects}}": "Used by {teamsCount, plural, =1 {{teamName}} other {{teamsCount} teams}} in {projectsCount, plural, =1 {{projectName}} other {{projectsCount} projects}}",
+    "Used by {teamsLabel} in {projectsLabel}": "Used by {teamsLabel} in {projectsLabel}",
+    "Projects assigned to {teamName} team": "Projects assigned to {teamName} team",
+    "Assign team": "Assign team"
 }
