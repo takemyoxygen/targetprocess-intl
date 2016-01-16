@@ -2897,5 +2897,6 @@
     "Used by {teamsCount, plural, =1 {{teamName}} other {{teamsCount} teams}} in {projectsCount, plural, =1 {{projectName}} other {{projectsCount} projects}}": "Used by {teamsCount, plural, =1 {{teamName}} other {{teamsCount} teams}} in {projectsCount, plural, =1 {{projectName}} other {{projectsCount} projects}}",
     "Used by {teamsLabel} in {projectsLabel}": "Used by {teamsLabel} in {projectsLabel}",
     "Projects assigned to {teamName} team": "Projects assigned to {teamName} team",
-    "Assign team": "Assign team"
+    "Assign team": "Assign team",
+    "Total Effort should be equal to EffortCompleted + EffortToDo when several effort fields are modified. Actual values: Effort={effort}, EffortCompleted={effortCompleted}, EffortToDo={effortToDo}. Entity: {entity}.": "Total Effort should be equal to EffortCompleted + EffortToDo when several effort fields are modified. Actual values: Effort={effort}, EffortCompleted={effortCompleted}, EffortToDo={effortToDo}. Entity: {entity}."
 }
