@@ -2898,5 +2898,11 @@
     "Used by {teamsLabel} in {projectsLabel}": "Used by {teamsLabel} in {projectsLabel}",
     "Projects assigned to {teamName} team": "Projects assigned to {teamName} team",
     "Assign team": "Assign team",
-    "Total Effort should be equal to EffortCompleted + EffortToDo when several effort fields are modified. Actual values: Effort={effort}, EffortCompleted={effortCompleted}, EffortToDo={effortToDo}. Entity: {entity}.": "Total Effort should be equal to EffortCompleted + EffortToDo when several effort fields are modified. Actual values: Effort={effort}, EffortCompleted={effortCompleted}, EffortToDo={effortToDo}. Entity: {entity}."
+    "Total Effort should be equal to EffortCompleted + EffortToDo when several effort fields are modified. Actual values: Effort={effort}, EffortCompleted={effortCompleted}, EffortToDo={effortToDo}. Entity: {entity}.": "Total Effort should be equal to EffortCompleted + EffortToDo when several effort fields are modified. Actual values: Effort={effort}, EffortCompleted={effortCompleted}, EffortToDo={effortToDo}. Entity: {entity}.",
+    "Parameter relationTypes contains unknown {unknownRelationTypesCount, plural, one {value} other {values}} {unknownRelationTypes}. Allowed values: {validRelationTypes}.": "Parameter relationTypes contains unknown {unknownRelationTypesCount, plural, one {value} other {values}} {unknownRelationTypes}. Allowed values: {validRelationTypes}.",
+    "Parameter relationTypes should be specified, e.g. \"relationTypes\": [\"Link\"].": "Parameter relationTypes should be specified, e.g. \"relationTypes\": [\"Link\"].",
+    "Parameter entityTypes contains unknown {unknownEntityTypesCount, plural, one {value} other {values}} {unknownEntityTypes}. Allowed values: {validEntityTypes}.": "Parameter entityTypes contains unknown {unknownEntityTypesCount, plural, one {value} other {values}} {unknownEntityTypes}. Allowed values: {validEntityTypes}.",
+    "Parameter entityTypes should be specified, e.g. \"entityTypes\": [\"Bug\", \"UserStory\"].": "Parameter entityTypes should be specified, e.g. \"entityTypes\": [\"Bug\", \"UserStory\"].",
+    "Parameter normalization.source should be one of {sources}.": "Parameter normalization.source should be one of {sources}.",
+    "Custom Metric Settings could not be parsed. {errorMessage}": "Custom Metric Settings could not be parsed. {errorMessage}"
 }
