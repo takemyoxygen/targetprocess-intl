@@ -2904,5 +2904,9 @@
     "Parameter entityTypes contains unknown {unknownEntityTypesCount, plural, one {value} other {values}} {unknownEntityTypes}. Allowed values: {validEntityTypes}.": "Parameter entityTypes contains unknown {unknownEntityTypesCount, plural, one {value} other {values}} {unknownEntityTypes}. Allowed values: {validEntityTypes}.",
     "Parameter entityTypes should be specified, e.g. \"entityTypes\": [\"Bug\", \"UserStory\"].": "Parameter entityTypes should be specified, e.g. \"entityTypes\": [\"Bug\", \"UserStory\"].",
     "Parameter normalization.source should be one of {sources}.": "Parameter normalization.source should be one of {sources}.",
-    "Custom Metric Settings could not be parsed. {errorMessage}": "Custom Metric Settings could not be parsed. {errorMessage}"
+    "Custom Metric Settings could not be parsed. {errorMessage}": "Custom Metric Settings could not be parsed. {errorMessage}",
+    "Hmm… No cards on View…": "Hmm… No cards on View…",
+    "Find out why this happens?": "Find out why this happens?",
+    "Hmm… No lanes on View…": "Hmm… No lanes on View…",
+    "Hide Forever": "Hide Forever"
 }
