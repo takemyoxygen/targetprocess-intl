@@ -2908,5 +2908,9 @@
     "Hmm… No cards on View…": "Хм..На доске нет карточек",
     "Find out why this happens?": "Find out why this happens?",
     "Hmm… No lanes on View…": "Хм..На доске нет осей",
-    "Hide Forever": "Hide Forever"
+    "Hide Forever": "Hide Forever",
+    "{message}": "{message}",
+    "Attention": "Внимание",
+    "The lanes have been updated, please, {refresh}.": "Оси были обновлены, пожалуйста, {refresh}.",
+    "refresh the View": "обновите доску"
 }

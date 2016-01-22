@@ -2908,5 +2908,9 @@
     "Hmm… No cards on View…": "Hmm… No cards on View…",
     "Find out why this happens?": "Find out why this happens?",
     "Hmm… No lanes on View…": "Hmm… No lanes on View…",
-    "Hide Forever": "Hide Forever"
+    "Hide Forever": "Hide Forever",
+    "{message}": "{message}",
+    "Attention": "Attention",
+    "The lanes have been updated, please, {refresh}.": "The lanes have been updated, please, {refresh}.",
+    "refresh the View": "refresh the View"
 }
