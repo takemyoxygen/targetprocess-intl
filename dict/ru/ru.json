@@ -2912,5 +2912,7 @@
     "{message}": "{message}",
     "Attention": "Внимание",
     "The lanes have been updated, please, {refresh}.": "Оси были обновлены, пожалуйста, {refresh}.",
-    "refresh the View": "обновите доску"
+    "refresh the View": "обновите доску",
+    "Set up Custom Fields": "Set up Custom Fields",
+    "Open Custom Fields Setup in a separate browser tab": "Open Custom Fields Setup in a separate browser tab"
 }

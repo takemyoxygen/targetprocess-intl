@@ -2912,5 +2912,7 @@
     "{message}": "{message}",
     "Attention": "Attention",
     "The lanes have been updated, please, {refresh}.": "The lanes have been updated, please, {refresh}.",
-    "refresh the View": "refresh the View"
+    "refresh the View": "refresh the View",
+    "Set up Custom Fields": "Set up Custom Fields",
+    "Open Custom Fields Setup in a separate browser tab": "Open Custom Fields Setup in a separate browser tab"
 }
