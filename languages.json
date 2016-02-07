@@ -24,9 +24,9 @@
     "name": "Portuguese (Brazil)",
     "stats": {
       "totalTokensCount": 2917,
-      "translatedTokensCount": 0,
+      "translatedTokensCount": 1,
       "reviewedTokensCount": 0,
-      "translatedWordsCount": 0
+      "translatedWordsCount": 7
     }
   },
   {
