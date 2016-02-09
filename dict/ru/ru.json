@@ -1648,7 +1648,7 @@
     "Global search": "Глобальный поиск",
     "Close": "Закрыть",
     "Assign To Me": "Назначить на меня",
-    "Unassign": "Убрать",
+    "Unassign": "Убрать назначение",
     "Add assignment": "Добавить назначение",
     "This {entityTerm} can't be assigned to a person. Its process '{processName}' doesn't have any Role for {entityTerm} workflow.": "{entityTerm} нельзя назначить на человека — в {processName} не определена ни одна роль для процесса работы над {entityTerm}.",
     "Contact your administrator to add a responsible role to at least one state in the workflow.": "Свяжитесь с вашим администратором, чтобы добавить ответственную роль в хотя бы один статус в процессе работы.",
