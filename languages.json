@@ -14,9 +14,9 @@
     "name": "German",
     "stats": {
       "totalTokensCount": 2918,
-      "translatedTokensCount": 1827,
-      "reviewedTokensCount": 1639,
-      "translatedWordsCount": 8772
+      "translatedTokensCount": 2130,
+      "reviewedTokensCount": 2059,
+      "translatedWordsCount": 9900
     }
   },
   {
@@ -24,9 +24,9 @@
     "name": "Portuguese (Brazil)",
     "stats": {
       "totalTokensCount": 2918,
-      "translatedTokensCount": 2856,
+      "translatedTokensCount": 2903,
       "reviewedTokensCount": 0,
-      "translatedWordsCount": 15087
+      "translatedWordsCount": 15258
     }
   },
   {
