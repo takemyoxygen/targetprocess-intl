@@ -1894,7 +1894,7 @@
     "ToDo and completed work by Features": "Будущая и завершённая работа по фичам",
     "To Do": "Сделать",
     "Order": "Порядок",
-    "Rank": "Порядковый номер",
+    "Rank": "Ранг",
     "Default Role": "Роль по умолчанию",
     "The Milestone has been updated": "Веха была обновлена",
     "The Milestone has been added": "Веха была добавлена",
@@ -2916,5 +2916,6 @@
     "Set up Custom Fields": "Настроить дополнительные поля",
     "Open Custom Fields Setup in a separate browser tab": "Открыть настройку дополнительных поле в новой вкладке браузера",
     "more...": "больше...",
-    "Access Tokens": "Access Tokens"
+    "Access Tokens": "Access Tokens",
+    "+ {hiddenMatches} {hiddenMatches, plural, one {more match} other {more matches}}": "+ {hiddenMatches} {hiddenMatches, plural, one {more match} other {more matches}}"
 }
