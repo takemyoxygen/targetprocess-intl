@@ -517,7 +517,7 @@
     "Only the first {count} cards are shown": "Solo se muestran las primeras {count} tarjetas",
     "You have no assigned work. Get some rest!": "No tiene ningún trabajo asignado. ¡Descanse un poco!",
     "Follow": "Seguir",
-    "There is nothing to show. {follow} an entity to see changes!": "No hay nada que mostrar. ¡{follow} una entidad para ver los cambios!",
+    "There is nothing to show. {follow} an entity to see changes!": "No hay nada que mostrar. {follow} una entidad para ver los cambios!",
     "Show comments": "Mostrar comentarios",
     "Comments from entities you follow, set as an owner or assigned to": "Comentarios de las entidades que sigue, en las que aparece como propietario o que tiene asignadas",
     "Related to me": "Relacionado conmigo",

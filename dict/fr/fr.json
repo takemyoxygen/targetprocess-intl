@@ -7,7 +7,7 @@
     "Could not convert {from} to {to}.": "Impossible de convertir {from} en {to}.",
     "{entityKind} with id {entityId} could not be found.": "{entityKind} avec l'ID {entityId} n'a pu être trouvé.",
     "{entityKind} '{entityName}' could not be found.": "{entityKind} '{entityName}' n'a pu être trouvé.",
-    "There's no '{stateName}' state defined for {entityKind} workflow in {teamsText} {teamsCount, plural, =1 {team} other {teams}}.": "Aucun état '{stateName}' n'est défini pour le flux de travail de {entityKind} dans {teamsCount, plural, =1 {team} other {teams}} {teamsText}.",
+    "There's no '{stateName}' state defined for {entityKind} workflow in {teamsText} {teamsCount, plural, =1 {team} other {teams}}.": "Aucun état '{stateName}' n'est défini pour le flux de travail de {entityKind} de {teamsText} {teamsCount, plural, =1 {équipe} other {équipes}}.",
     "There's no '{stateName}' state defined for the {entityTerm}.": "Il n'existe pas d'état '{stateName}' défini pour le {entityTerm}.",
     "Cannot find project column in CSV file.": "Impossible de trouver la colonne du projet dans le fichier CSV.",
     "You can't change state from '{currentStateName}' to '{requestedStateName}'.": "Vous ne pouvez pas changer l'état de '{currentStateName}' à '{requestedStateName}'.",
