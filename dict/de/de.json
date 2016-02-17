@@ -2917,5 +2917,6 @@
     "Open Custom Fields Setup in a separate browser tab": "Open Custom Fields Setup in a separate browser tab",
     "more...": "more...",
     "Access Tokens": "Access Tokens",
-    "+ {hiddenMatches} {hiddenMatches, plural, one {more match} other {more matches}}": "+ {hiddenMatches} {hiddenMatches, plural, one {more match} other {more matches}}"
+    "+ {hiddenMatches} {hiddenMatches, plural, one {more match} other {more matches}}": "+ {hiddenMatches} {hiddenMatches, plural, one {more match} other {more matches}}",
+    "Assignee name": "Assignee name"
 }

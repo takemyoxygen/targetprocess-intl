@@ -2917,5 +2917,6 @@
     "Open Custom Fields Setup in a separate browser tab": "Abrir la configuración de campos personalizados en una pestaña separada",
     "more...": "más...",
     "Access Tokens": "Tokens de acceso",
-    "+ {hiddenMatches} {hiddenMatches, plural, one {more match} other {more matches}}": "+ {hiddenMatches} {hiddenMatches, plural, one {más coincidencia} other {más coincidencias}}"
+    "+ {hiddenMatches} {hiddenMatches, plural, one {more match} other {more matches}}": "+ {hiddenMatches} {hiddenMatches, plural, one {más coincidencia} other {más coincidencias}}",
+    "Assignee name": "Assignee name"
 }

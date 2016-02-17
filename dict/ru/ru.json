@@ -2413,7 +2413,7 @@
     "impediment": "проблема",
     "final state": "конечный статус",
     "Progress Flow": "Прогресс",
-    "Related Entities": "Cущности",
+    "Related Entities": "Относящиеся сущности",
     "Histograms": "Гистограммы",
     "entity (added)": "сущность (добавлена)",
     "entity (closed)": "сущность (закрыта)",
@@ -2917,5 +2917,6 @@
     "Open Custom Fields Setup in a separate browser tab": "Открыть настройку дополнительных поле в новой вкладке браузера",
     "more...": "больше...",
     "Access Tokens": "Токены доступа",
-    "+ {hiddenMatches} {hiddenMatches, plural, one {more match} other {more matches}}": "+ {hiddenMatches} {hiddenMatches, plural, one {ещё результат} other {ещё результаты}}"
+    "+ {hiddenMatches} {hiddenMatches, plural, one {more match} other {more matches}}": "+ {hiddenMatches} {hiddenMatches, plural, one {ещё результат} other {ещё результаты}}",
+    "Assignee name": "Assignee name"
 }
