@@ -2867,7 +2867,7 @@
     "System Users": "Системные пользователи",
     "{days, plural, =0 {} one {{days} day} other {{days} days} } {hours, plural, =0 {} one {{hours} hour} other {{hours} hours} } {minutes, plural, =0 {} one {{minutes} minute} other {{minutes} minutes} }": "{days, plural, =0 {} one {{days} день} few {{days} дня} many {{days} дней} other {{days} дня}} {hours, plural, =0 {} one {{hours} час} few {{hours} часа} many {{hours} часов} other {{hours} часа}} {minutes, plural, =0 {} one {{minutes} минута} few {{minutes} минуты} many {{minutes} минут} other {{minutes} минуты}}",
     "{days, plural, =0 {} other {{days}d} } {hours, plural, =0 {} other {{hours}h} } {minutes, plural, =0 {} other {{minutes}min} }": "{days, plural, =0 {} other {{days}д} } {hours, plural, =0 {} other {{hours}ч} } {minutes, plural, =0 {} other {{minutes}мин} }",
-    "Something weird happened. Please {contactSupportLink} to identify the issue and fix it.": "Что-то пошло не так. Пожалуйста, {contactSupportLink}, чтобы опознать проблему и решить её.",
+    "Something weird happened. Please {contactSupportLink} to identify the issue and fix it.": "Пожалуйста, {contactSupportLink}, чтобы опознать проблему и решить её.",
     "Limits for {axisName} lane": "Лимиты для оси {axisName}",
     "This program has no projects": "В этой программе нет проектов",
     "Are you sure you want to remove project '{projectName}' from this release?": "Вы уверены, что хотите убрать проект «{projectName}» из этого релиза?",
@@ -2918,5 +2918,8 @@
     "more...": "больше...",
     "Access Tokens": "Токены доступа",
     "+ {hiddenMatches} {hiddenMatches, plural, one {more match} other {more matches}}": "+ {hiddenMatches} {hiddenMatches, plural, one {ещё результат} other {ещё результаты}}",
-    "Assignee name": "Assignee name"
+    "Assignee name": "Assignee name",
+    "Forecasted End": "Forecasted End",
+    "Calculated as Project Start Date + Project Planned Duration (i.e. Planned End Date - Planned Start Date)": "Calculated as Project Start Date + Project Planned Duration (i.e. Planned End Date - Planned Start Date)",
+    "Calculated based on the progress of user stories in the project, project start date and the current date. Shown only when more than 10% of work has been completed)": "Calculated based on the progress of user stories in the project, project start date and the current date. Shown only when more than 10% of work has been completed)"
 }

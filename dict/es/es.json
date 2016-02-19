@@ -2918,5 +2918,8 @@
     "more...": "más...",
     "Access Tokens": "Tokens de acceso",
     "+ {hiddenMatches} {hiddenMatches, plural, one {more match} other {more matches}}": "+ {hiddenMatches} {hiddenMatches, plural, one {más coincidencia} other {más coincidencias}}",
-    "Assignee name": "Assignee name"
+    "Assignee name": "Assignee name",
+    "Forecasted End": "Forecasted End",
+    "Calculated as Project Start Date + Project Planned Duration (i.e. Planned End Date - Planned Start Date)": "Calculated as Project Start Date + Project Planned Duration (i.e. Planned End Date - Planned Start Date)",
+    "Calculated based on the progress of user stories in the project, project start date and the current date. Shown only when more than 10% of work has been completed)": "Calculated based on the progress of user stories in the project, project start date and the current date. Shown only when more than 10% of work has been completed)"
 }
