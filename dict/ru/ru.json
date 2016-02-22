@@ -306,7 +306,7 @@
     "Hours": "Часы",
     "Weekends": "Выходные",
     "Include {bugs}": "Включая {bugs}",
-    "Select {projects} or {teams} with {releases} or {iterations} in top menu": "Выберите {projects} или {teams} с {releases} или {iterations} в контекстном меню",
+    "Select {projects} or {teams} with {releases} or {iterations} in top menu": "Выберите {projects} или {teams}, в которых есть {releases} или {iterations}, в контекстном меню",
     "Set up your board View": "Настройте доску",
     "All columns and rows on this View are empty.": "Все колонки и ряды на этой доски пусты.",
     "Finish": "Завершить",
