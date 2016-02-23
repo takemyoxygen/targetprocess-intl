@@ -899,7 +899,7 @@
     "The entity {entityKind} could not be resolved by name since there are more than one entity with the name '{entityName}'.": "Не удалось выбрать {entityKind} по названию — существует несколько сущностей c названием «{entityName}».",
     "Collections are not supported.": "Коллекции не поддерживаются.",
     "Acid '{acid}' is not found.": "Acid «{acid}» не найден.",
-    "{entityKind} with Id {id} not found or access is forbidden.": "{entityKind} c номером {id} либо не существует, либо у вас не хватает прав.",
+    "{entityKind} with Id {id} not found or access is forbidden.": "{entityKind} c номером {id} либо не существует, либо у вас не хватает Прав.",
     "There are multiple {entityKind} with Id {id}.": "Есть несколько {entityKind} с ID {id}.",
     "There is no '{projectName}' member in {typeName}.": "В {typeName} нет члена «{projectName}».",
     "Can't match function for '{functionName}' of {typeName}.": "Не удалось сопоставить функцию для «{functionName}» из {typeName}.",
