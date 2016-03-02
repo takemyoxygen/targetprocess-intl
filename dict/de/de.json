@@ -2921,5 +2921,7 @@
     "Assignee name": "Name des Zugewiesenen",
     "Forecasted End": "Vorhergesagtes Enddatum",
     "Calculated as Project Start Date + Project Planned Duration (i.e. Planned End Date - Planned Start Date)": "Kalkuliert als Projekt-Startdatum + geplante Projektdauer (d.h. geplantes Enddatum - geplantes Startdatum)",
-    "Calculated based on the progress of user stories in the project, project start date and the current date. Shown only when more than 10% of work has been completed)": "Kalkuliert basierend auf dem Fortschritt der User Stories in diesem Projekt, Projekt-Startdatum und aktuellem Datum. Wird nur gezeigt, wenn mehr als 10% der Arbeit bereits erledigt wurde)"
+    "Calculated based on the progress of user stories in the project, project start date and the current date. Shown only when more than 10% of work has been completed)": "Kalkuliert basierend auf dem Fortschritt der User Stories in diesem Projekt, Projekt-Startdatum und aktuellem Datum. Wird nur gezeigt, wenn mehr als 10% der Arbeit bereits erledigt wurde)",
+    "Oldest first": "Oldest first",
+    "Newest first": "Newest first"
 }
