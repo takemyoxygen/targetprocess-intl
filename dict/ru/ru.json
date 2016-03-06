@@ -2927,5 +2927,8 @@
     "Type (issue, idea or question)": "Тип (проблема, идея или вопрос)",
     "Source (email, phone etc.)": "Source (email, phone etc.)",
     "Source Code": "Исходный код",
-    "Types": "Types"
+    "Types": "Types",
+    "'{workflowName}' workflow name is not allowed for project workflows please use '{expetedName}' instead.": "'{workflowName}' workflow name is not allowed for project workflows please use '{expetedName}' instead.",
+    "Please, select a type to convert to.": "Please, select a type to convert to.",
+    "Entity cannot be converted.": "Entity cannot be converted."
 }
