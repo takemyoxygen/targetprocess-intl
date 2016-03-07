@@ -2924,11 +2924,11 @@
     "Calculated based on the progress of user stories in the project, project start date and the current date. Shown only when more than 10% of work has been completed)": "Kalkuliert basierend auf dem Fortschritt der User Stories in diesem Projekt, Projekt-Startdatum und aktuellem Datum. Wird nur gezeigt, wenn mehr als 10% der Arbeit bereits erledigt wurde)",
     "Oldest first": "Ältestes zuerst",
     "Newest first": "Neuestes zuerst",
-    "Type (issue, idea or question)": "Type (issue, idea or question)",
-    "Source (email, phone etc.)": "Source (email, phone etc.)",
-    "Source Code": "Source Code",
-    "Types": "Types",
-    "'{workflowName}' workflow name is not allowed for project workflows please use '{expetedName}' instead.": "'{workflowName}' workflow name is not allowed for project workflows please use '{expetedName}' instead.",
-    "Please, select a type to convert to.": "Please, select a type to convert to.",
-    "Entity cannot be converted.": "Entity cannot be converted."
+    "Type (issue, idea or question)": "Typ (Problem, Idee oder Frage)",
+    "Source (email, phone etc.)": "Quelle (E-Mail, Telefon etc.)",
+    "Source Code": "Quellcode",
+    "Types": "Typen",
+    "'{workflowName}' workflow name is not allowed for project workflows please use '{expetedName}' instead.": "'{workflowName}' Workflow-Name ist für Projekt-Workflows nicht erlaubt, bitte stattdessen '{expetedName}' nutzen.",
+    "Please, select a type to convert to.": "Bitte einen Typ zum Konvertieren wählen",
+    "Entity cannot be converted.": "Objekt kann nicht konvertiert werden."
 }
