@@ -2932,5 +2932,7 @@
     "Please, select a type to convert to.": "Bitte einen Typ zum Konvertieren wählen",
     "Entity cannot be converted.": "Objekt kann nicht konvertiert werden.",
     "{localeName}": "{localeName}",
-    "Note: System settings are only available in English": "Note: System settings are only available in English"
+    "Note: System settings are only available in English": "Note: System settings are only available in English",
+    "It's not possible to allocate inactive {sourceEntityKind} '{sourceEntityName}' to the {targetEntityKind}. Please, make the {sourceEntityKind} '{sourceEntityName}' active to allow allocations.": "It's not possible to allocate inactive {sourceEntityKind} '{sourceEntityName}' to the {targetEntityKind}. Please, make the {sourceEntityKind} '{sourceEntityName}' active to allow allocations.",
+    "Calculated based on the progress of user stories in the project, project start date and the current date. Shown only when more than 10% of work has been completed.": "Calculated based on the progress of user stories in the project, project start date and the current date. Shown only when more than 10% of work has been completed."
 }
