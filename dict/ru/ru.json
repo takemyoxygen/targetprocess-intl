@@ -5,7 +5,7 @@
     "Access denied.": "Доступ запрещён.",
     "{entityKind} with id {entityId} is already deleted.": "{entityKind} с номером {entityId} уже удален(а).",
     "Could not convert {from} to {to}.": "Не удалось конвертировать {from} в {to}.",
-    "{entityKind} with id {entityId} could not be found.": "{entityKind} с номером {entityId} не найдена.",
+    "{entityKind} with id {entityId} could not be found.": "{entityKind} с номером {entityId} не найден(а).",
     "{entityKind} '{entityName}' could not be found.": "Не удалось найти {entityKind} «{entityName}».",
     "There's no '{stateName}' state defined for {entityKind} workflow in {teamsText} {teamsCount, plural, =1 {team} other {teams}}.": "У {entityKind} не может быть статуса «{stateName}» в {teamsCount, plural, =1 {команде} other {командах}} {teamsText}.",
     "There's no '{stateName}' state defined for the {entityTerm}.": "Статус «{stateName}» не задан для сущности {entityTerm}.",
