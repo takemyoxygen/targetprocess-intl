@@ -2935,5 +2935,13 @@
     "Note: System settings are only available in English": "Note: System settings are only available in English",
     "It's not possible to allocate inactive {sourceEntityKind} '{sourceEntityName}' to the {targetEntityKind}. Please, make the {sourceEntityKind} '{sourceEntityName}' active to allow allocations.": "It's not possible to allocate inactive {sourceEntityKind} '{sourceEntityName}' to the {targetEntityKind}. Please, make the {sourceEntityKind} '{sourceEntityName}' active to allow allocations.",
     "Calculated based on the progress of user stories in the project, project start date and the current date. Shown only when more than 10% of work has been completed.": "Calculated based on the progress of user stories in the project, project start date and the current date. Shown only when more than 10% of work has been completed.",
-    "Current user doesn't have rights to share menu item with some of the selected projects or teams.": "Current user doesn't have rights to share menu item with some of the selected projects or teams."
+    "Current user doesn't have rights to share menu item with some of the selected projects or teams.": "Current user doesn't have rights to share menu item with some of the selected projects or teams.",
+    "{days, plural, =0 {} other {{days}d} }": "{days, plural, =0 {} other {{days}d} }",
+    "{days, plural, =0 {} one {{days} day} other {{days} days} }": "{days, plural, =0 {} one {{days} day} other {{days} days} }",
+    "{years, plural, =0 {} one {{years} year} other {{years} years} }{biggerAndMonths, select, 0 {} other {, } }{months, plural, =0 {} one {{months} month} other {{months} months} }{biggerAndWeeks, select, 0 {} other {, } }{weeks, plural, =0 {} one {{weeks} week} other {{weeks} weeks} } {biggerAndDays, select, 0 {} other {and} } {days, plural, =0 {} one {{days} day} other {{days} days} }": "{years, plural, =0 {} one {{years} year} other {{years} years} }{biggerAndMonths, select, 0 {} other {, } }{months, plural, =0 {} one {{months} month} other {{months} months} }{biggerAndWeeks, select, 0 {} other {, } }{weeks, plural, =0 {} one {{weeks} week} other {{weeks} weeks} } {biggerAndDays, select, 0 {} other {and} } {days, plural, =0 {} one {{days} day} other {{days} days} }",
+    "{years, plural, =0 {} other {{years}yr} } {months, plural, =0 {} other {{months}mo} } {weeks, plural, =0 {} other {{weeks}wk} } {days, plural, =0 {} other {{days}d} }": "{years, plural, =0 {} other {{years}yr} } {months, plural, =0 {} other {{months}mo} } {weeks, plural, =0 {} other {{weeks}wk} } {days, plural, =0 {} other {{days}d} }",
+    "Planned Duration": "Planned Duration",
+    "Forecast Duration": "Forecast Duration",
+    "0 days": "0 days",
+    "0d": "0d"
 }
