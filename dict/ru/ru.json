@@ -2942,7 +2942,7 @@
     "{years, plural, =0 {} other {{years}yr} } {months, plural, =0 {} other {{months}mo} } {weeks, plural, =0 {} other {{weeks}wk} } {days, plural, =0 {} other {{days}d} }": "{years, plural, =0 {} other {{years}г.} } {months, plural, =0 {} other {{months}мес.} } {weeks, plural, =0 {} other {{weeks}нед.} } {days, plural, =0 {} other {{days}дн.} }",
     "Planned Duration": "Планируемая продолжительность",
     "Forecast Duration": "Прогнозируемая продолжительность",
-    "0 days": "0 days",
-    "0d": "0d",
+    "0 days": "0 дней",
+    "0d": "0д.",
     "Entity Type: Id": "Entity Type: Id"
 }
