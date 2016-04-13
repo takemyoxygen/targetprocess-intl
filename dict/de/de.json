@@ -2945,5 +2945,8 @@
     "0 days": "0 days",
     "0d": "0d",
     "Entity Type: Id": "Entity Type: Id",
-    "Unlink": "Unlink"
+    "Unlink": "Unlink",
+    "Anticipated Finish": "Anticipated Finish",
+    "Planned Finish": "Planned Finish",
+    "Forecasted Finish": "Forecasted Finish"
 }
