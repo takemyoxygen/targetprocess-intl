@@ -2953,5 +2953,6 @@
     "See all lanes & cards": "See all lanes & cards",
     "[ Uploading {originName}...]()": "[ Uploading {originName}...]()",
     "screenshot": "screenshot",
-    "Upload failed": "Upload failed"
+    "Upload failed": "Upload failed",
+    "Can't assign users.": "Can't assign users."
 }
