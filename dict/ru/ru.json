@@ -2954,5 +2954,6 @@
     "[ Uploading {originName}...]()": "[ Uploading {originName}...]()",
     "screenshot": "screenshot",
     "Upload failed": "Upload failed",
-    "Can't assign users.": "Can't assign users."
+    "Can't assign users.": "Can't assign users.",
+    "Double-click to add text": "Double-click to add text"
 }
