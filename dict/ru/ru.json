@@ -2955,5 +2955,6 @@
     "screenshot": "screenshot",
     "Upload failed": "Upload failed",
     "Can't assign users.": "Can't assign users.",
-    "Double-click to add text": "Double-click to add text"
+    "Double-click to add text": "Double-click to add text",
+    "We can't reset the password because your user account has been deactivated. Please contact your Targetprocess Administrator.": "We can't reset the password because your user account has been deactivated. Please contact your Targetprocess Administrator."
 }
