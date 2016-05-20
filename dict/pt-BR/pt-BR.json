@@ -2959,5 +2959,10 @@
     "We can't reset the password because your user account has been deactivated. Please contact your Targetprocess Administrator.": "We can't reset the password because your user account has been deactivated. Please contact your Targetprocess Administrator.",
     "The 'ifnone' function requires two arguments.": "The 'ifnone' function requires two arguments.",
     "{operator} operator works only with nullable numbers, bools and strings for #{argumentNumber} argument. Actual type:'{type}'.": "{operator} operator works only with nullable numbers, bools and strings for #{argumentNumber} argument. Actual type:'{type}'.",
-    "String, number or bool expected for {operator} operator in #{argumentNumber} argument instead of '{type}'.": "String, number or bool expected for {operator} operator in #{argumentNumber} argument instead of '{type}'."
+    "String, number or bool expected for {operator} operator in #{argumentNumber} argument instead of '{type}'.": "String, number or bool expected for {operator} operator in #{argumentNumber} argument instead of '{type}'.",
+    "Assignable Efforts For Project": "Assignable Efforts For Project",
+    "Assignable Effort For Project": "Assignable Effort For Project",
+    "Assignable Effort For Projects": "Assignable Effort For Projects",
+    "Has Children": "Has Children",
+    "Parent Assignable": "Parent Assignable"
 }
