@@ -2964,5 +2964,6 @@
     "Assignable Effort For Project": "Assignable Effort For Project",
     "Assignable Effort For Projects": "Assignable Effort For Projects",
     "Has Children": "Has Children",
-    "Parent Assignable": "Parent Assignable"
+    "Parent Assignable": "Parent Assignable",
+    "Parameter normalization.source should be '{projectSource}' when metric is enabled for {projectType} entity type.": "Parameter normalization.source should be '{projectSource}' when metric is enabled for {projectType} entity type."
 }
