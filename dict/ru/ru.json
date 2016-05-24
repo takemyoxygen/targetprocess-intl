@@ -2981,9 +2981,9 @@
     "Original entity id is not specified": "Original entity id is not specified",
     "ModelType should be Maybe": "ModelType should be Maybe",
     "Uuid": "Uuid",
-    "Save both entities": "Save both entities",
-    "Split {entityTerm}": "Split {entityTerm}",
-    "Original": "Original",
-    "New": "New",
-    "The {entityTerm} {originalEntityLink} was split into {createdEntityLink}.": "The {entityTerm} {originalEntityLink} was split into {createdEntityLink}."
+    "Save both entities": "Сохранить обе сущности",
+    "Split {entityTerm}": "Разбить {entityTerm}",
+    "Original": "Исходная",
+    "New": "Новая",
+    "The {entityTerm} {originalEntityLink} was split into {createdEntityLink}.": "На основе {entityTerm} {originalEntityLink} была создана {createdEntityLink}."
 }
