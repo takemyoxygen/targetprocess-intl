@@ -2985,5 +2985,11 @@
     "Split {entityTerm}": "Разбить {entityTerm}",
     "Original": "Исходная",
     "New": "Новая",
-    "The {entityTerm} {originalEntityLink} was split into {createdEntityLink}.": "На основе {entityTerm} {originalEntityLink} была создана {createdEntityLink}."
+    "The {entityTerm} {originalEntityLink} was split into {createdEntityLink}.": "На основе {entityTerm} {originalEntityLink} была создана {createdEntityLink}.",
+    "Changing role is not allowed by current Process settings.": "Changing role is not allowed by current Process settings.",
+    "It is not possible to move {targetEntityKind} in {axisEntityKind} axis to {coordinate}.": "It is not possible to move {targetEntityKind} in {axisEntityKind} axis to {coordinate}.",
+    "No Role": "No Role",
+    "Worked On": "Worked On",
+    "Worked on": "Worked on",
+    "Spent: {spent} / remain: {remain}": "Spent: {spent} / remain: {remain}"
 }
