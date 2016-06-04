@@ -2991,5 +2991,6 @@
     "No Role": "No Role",
     "Worked On": "Worked On",
     "Worked on": "Worked on",
-    "Spent: {spent} / remain: {remain}": "Spent: {spent} / remain: {remain}"
+    "Spent: {spent} / remain: {remain}": "Spent: {spent} / remain: {remain}",
+    "{entityKind} with id {entityId} is deleted.": "{entityKind} with id {entityId} is deleted."
 }
