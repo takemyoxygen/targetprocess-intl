@@ -2993,5 +2993,7 @@
     "Worked on": "Worked on",
     "Spent: {spent} / remain: {remain}": "Spent: {spent} / remain: {remain}",
     "{entityKind} with id {entityId} is deleted.": "{entityKind} with id {entityId} is deleted.",
-    "All Teams": "All Teams"
+    "All Teams": "All Teams",
+    "Edit {cardsCount} selected cards": "Edit {cardsCount} selected cards",
+    "Skip": "Skip"
 }

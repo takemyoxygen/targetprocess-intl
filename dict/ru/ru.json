@@ -2993,5 +2993,7 @@
     "Worked on": "Работал над",
     "Spent: {spent} / remain: {remain}": "Затрачено: {spent} / осталось: {remain}",
     "{entityKind} with id {entityId} is deleted.": "{entityKind} с ID {entityId} удалена.",
-    "All Teams": "Все команды"
+    "All Teams": "Все команды",
+    "Edit {cardsCount} selected cards": "Edit {cardsCount} selected cards",
+    "Skip": "Skip"
 }
