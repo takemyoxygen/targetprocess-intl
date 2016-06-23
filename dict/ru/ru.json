@@ -2995,5 +2995,9 @@
     "{entityKind} with id {entityId} is deleted.": "{entityKind} с ID {entityId} удалена.",
     "All Teams": "Все команды",
     "Edit {cardsCount} selected cards": "Edit {cardsCount} selected cards",
-    "Skip": "Skip"
+    "Skip": "Пропустить",
+    "Sorry, there is nothing to show here.": "Sorry, there is nothing to show here.",
+    "You have no rights to add new items in the current Project/Team context. You can change the context in <span class=\"i-role-select-context-link\">the settings</span>.": "You have no rights to add new items in the current Project/Team context. You can change the context in <span class=\"i-role-select-context-link\">the settings</span>.",
+    "All {entityTypesCount} items": "All {entityTypesCount} items",
+    "No teams have been selected from the project and team selector.": "No teams have been selected from the project and team selector."
 }
