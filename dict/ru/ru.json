@@ -2999,5 +2999,8 @@
     "Sorry, there is nothing to show here.": "Sorry, there is nothing to show here.",
     "You have no rights to add new items in the current Project/Team context. You can change the context in <span class=\"i-role-select-context-link\">the settings</span>.": "You have no rights to add new items in the current Project/Team context. You can change the context in <span class=\"i-role-select-context-link\">the settings</span>.",
     "All {entityTypesCount} items": "All {entityTypesCount} items",
-    "No teams have been selected from the project and team selector.": "No teams have been selected from the project and team selector."
+    "No teams have been selected from the project and team selector.": "No teams have been selected from the project and team selector.",
+    "Edit {cardsCount} selected items": "Edit {cardsCount} selected items",
+    "{cardsCount} {cardsCount, plural, one {item was} other {items were}} deleted": "{cardsCount} {cardsCount, plural, one {item was} other {items were}} deleted",
+    "Are you sure you want to delete {cardsCount} {cardsCount, plural, one {item} other {items}}?": "Are you sure you want to delete {cardsCount} {cardsCount, plural, one {item} other {items}}?"
 }
