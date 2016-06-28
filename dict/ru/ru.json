@@ -2338,7 +2338,7 @@
     "Posted data can't be bound to Plannable Properties parameters.": "Присланные данные не могут быть привязаны к параметрам Plannable Properties.",
     "Posted data can't be bound to Burn Down filter.": "Присланные данные не могут быть привязаны к бёрндаун-фильтру.",
     "Posted data can't be bound to User story history.": "Присланные данные не могут быть привязаны к истории юзер-стори.",
-    "You were redirected to the error page but no error was caught.": "Вы были перенаправлены на страницу ошибка, хотя никакой ошибки не произошло.",
+    "You were redirected to the error page but no error was caught.": "Вы были перенаправлены на страницу ошибки, хотя никакой ошибки не произошло.",
     "Back to previous page": "Вернуться на предыдущую страницу",
     "{entityTerm} with Id {entityId} not found or access is forbidden.": "Сущность c ID {entityId} не существует или доступ запрещён.",
     "Context error.": "Ошибка контекста.",
@@ -3002,5 +3002,9 @@
     "No teams have been selected from the project and team selector.": "No teams have been selected from the project and team selector.",
     "Edit {cardsCount} selected items": "Edit {cardsCount} selected items",
     "{cardsCount} {cardsCount, plural, one {item was} other {items were}} deleted": "{cardsCount} {cardsCount, plural, one {item was} other {items were}} deleted",
-    "Are you sure you want to delete {cardsCount} {cardsCount, plural, one {item} other {items}}?": "Are you sure you want to delete {cardsCount} {cardsCount, plural, one {item} other {items}}?"
+    "Are you sure you want to delete {cardsCount} {cardsCount, plural, one {item} other {items}}?": "Are you sure you want to delete {cardsCount} {cardsCount, plural, one {item} other {items}}?",
+    "Can't delete resource without 'Id' set in command target": "Can't delete resource without 'Id' set in command target",
+    "Injected target doesn't match command target.": "Injected target doesn't match command target.",
+    "Can't update resource without 'Id' or 'Uuid' set in command target.": "Can't update resource without 'Id' or 'Uuid' set in command target.",
+    "Can't update resource - command target and command resource have different types.": "Can't update resource - command target and command resource have different types."
 }
