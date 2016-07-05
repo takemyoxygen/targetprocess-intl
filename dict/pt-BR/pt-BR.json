@@ -3006,5 +3006,7 @@
     "Can't delete resource without 'Id' set in command target": "Can't delete resource without 'Id' set in command target",
     "Injected target doesn't match command target.": "Injected target doesn't match command target.",
     "Can't update resource without 'Id' or 'Uuid' set in command target.": "Can't update resource without 'Id' or 'Uuid' set in command target.",
-    "Can't update resource - command target and command resource have different types.": "Can't update resource - command target and command resource have different types."
+    "Can't update resource - command target and command resource have different types.": "Can't update resource - command target and command resource have different types.",
+    "No Work Item": "No Work Item",
+    "No work item": "No work item"
 }
