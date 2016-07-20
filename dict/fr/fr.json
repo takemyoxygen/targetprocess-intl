@@ -3053,5 +3053,6 @@
     "Could not update {failedCount} {failedCount, plural, one {item} other {items}}.": "Could not update {failedCount} {failedCount, plural, one {item} other {items}}.",
     "Error updating {fieldName} for {count} items.": "Error updating {fieldName} for {count} items.",
     "Use new editor": "Use new editor",
-    "Multiple values": "Multiple values"
+    "Multiple values": "Multiple values",
+    "Use these rules to change the default business logic and to automate some actions in the system. Note that the rules are global, they are not limited to a specific project or process. If there is a rule enabled that you feel wasn't applied, check the system log.": "Use these rules to change the default business logic and to automate some actions in the system. Note that the rules are global, they are not limited to a specific project or process. If there is a rule enabled that you feel wasn't applied, check the system log."
 }
