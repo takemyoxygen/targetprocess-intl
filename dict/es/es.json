@@ -3070,5 +3070,6 @@
     "Could not delete {failedCount} {failedCount, plural, one {item} other {items}}.": "Could not delete {failedCount} {failedCount, plural, one {item} other {items}}.",
     "Could not delete {totalCards} {totalCards, plural, one {item} other {items}}.": "Could not delete {totalCards} {totalCards, plural, one {item} other {items}}.",
     "Entity '{entity}' is not available by its process practice": "Entity '{entity}' is not available by its process practice",
-    "{entityTypeName} #{entityId} has been assigned to {userName} under the role of {roleName}": "{entityTypeName} #{entityId} has been assigned to {userName} under the role of {roleName}"
+    "{entityTypeName} #{entityId} has been assigned to {userName} under the role of {roleName}": "{entityTypeName} #{entityId} has been assigned to {userName} under the role of {roleName}",
+    "{newItemType, select, board {Board} list {List} timeline {Timeline} details {Details View} group {Group} report {Report} dashboard {Dashboard} other {{newItemType}} }": "{newItemType, select, board {Board} list {List} timeline {Timeline} details {Details View} group {Group} report {Report} dashboard {Dashboard} other {{newItemType}} }"
 }
