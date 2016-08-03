@@ -3071,5 +3071,21 @@
     "Could not delete {totalCards} {totalCards, plural, one {item} other {items}}.": "Could not delete {totalCards} {totalCards, plural, one {item} other {items}}.",
     "Entity '{entity}' is not available by its process practice": "Entity '{entity}' is not available by its process practice",
     "{entityTypeName} #{entityId} has been assigned to {userName} under the role of {roleName}": "{entityTypeName} #{entityId} has been assigned to {userName} under the role of {roleName}",
-    "{newItemType, select, board {Board} list {List} timeline {Timeline} details {Details View} group {Group} report {Report} dashboard {Dashboard} other {{newItemType}} }": "{newItemType, select, board {Board} list {List} timeline {Timeline} details {Details View} group {Group} report {Report} dashboard {Dashboard} other {{newItemType}} }"
+    "{newItemType, select, board {Board} list {List} timeline {Timeline} details {Details View} group {Group} report {Report} dashboard {Dashboard} other {{newItemType}} }": "{newItemType, select, board {Board} list {List} timeline {Timeline} details {Details View} group {Group} report {Report} dashboard {Dashboard} other {{newItemType}} }",
+    "General Conversion": "General Conversion",
+    "General Conversions": "General Conversions",
+    "From General ID": "From General ID",
+    "From General Type": "From General Type",
+    "Actual General": "Actual General",
+    "General Conversion ID": "General Conversion ID",
+    "{newItemType, select, board {Board} list {List} timeline {Timeline} oneByOne {One-by-one view} group {Group} report {Report} dashboard {Dashboard} other {{newItemType}} }": "{newItemType, select, board {Board} list {List} timeline {Timeline} oneByOne {One-by-one view} group {Group} report {Report} dashboard {Dashboard} other {{newItemType}} }",
+    "Multiple Values means that items you've selected have some different values. We will show common values if only all items have the same values.": "Multiple Values means that items you've selected have some different values. We will show common values if only all items have the same values.",
+    "New List": "New List",
+    "New Details View": "New Details View",
+    "New Timeline": "New Timeline",
+    "New Board": "New Board",
+    "Set up your one-by-one View": "Set up your one-by-one View",
+    "{personsCount} {showMore, select, true {more} false {}} {personsCount, plural, one {person} other {persons}} not assigned to all items.": "{personsCount} {showMore, select, true {more} false {}} {personsCount, plural, one {person} other {persons}} not assigned to all items.",
+    "There is no roles in common for selected items.": "There is no roles in common for selected items.",
+    "There are some other roles, not in common for all selected items.": "There are some other roles, not in common for all selected items."
 }
