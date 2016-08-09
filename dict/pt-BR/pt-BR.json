@@ -3087,5 +3087,9 @@
     "Set up your one-by-one View": "Set up your one-by-one View",
     "{personsCount} {showMore, select, true {more} false {}} {personsCount, plural, one {person} other {persons}} not assigned to all items.": "{personsCount} {showMore, select, true {more} false {}} {personsCount, plural, one {person} other {persons}} not assigned to all items.",
     "There is no roles in common for selected items.": "There is no roles in common for selected items.",
-    "There are some other roles, not in common for all selected items.": "There are some other roles, not in common for all selected items."
+    "There are some other roles, not in common for all selected items.": "There are some other roles, not in common for all selected items.",
+    "Only admin can change user email if Single sign-on is enabled.": "Only admin can change user email if Single sign-on is enabled.",
+    "Learn more": "Learn more",
+    "New Reports": "New Reports",
+    "Only Project Workflow States are available here. Team States are not supported.": "Only Project Workflow States are available here. Team States are not supported."
 }
