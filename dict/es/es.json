@@ -3091,5 +3091,15 @@
     "Only admin can change user email if Single sign-on is enabled.": "Only admin can change user email if Single sign-on is enabled.",
     "Learn more": "Learn more",
     "New Reports": "New Reports",
-    "Only Project Workflow States are available here. Team States are not supported.": "Only Project Workflow States are available here. Team States are not supported."
+    "Only Project Workflow States are available here. Team States are not supported.": "Only Project Workflow States are available here. Team States are not supported.",
+    "Error occured while publishing metric event.": "Error occured while publishing metric event.",
+    "Distinct Assignments": "Distinct Assignments",
+    "Distinct Assignment": "Distinct Assignment",
+    "New One-by-one View": "New One-by-one View",
+    "{moreTeamsCount} more {moreTeamsCount, plural, =1 {team} other {teams}}, not assigned to all items": "{moreTeamsCount} more {moreTeamsCount, plural, =1 {team} other {teams}}, not assigned to all items",
+    "#{entityTypeAbbreviation}": "#{entityTypeAbbreviation}",
+    "TS": "TS",
+    "LCU": "LCU",
+    "RP": "RP",
+    "RS": "RS"
 }
