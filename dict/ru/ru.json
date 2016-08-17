@@ -3101,5 +3101,8 @@
     "TS": "TS",
     "LCU": "LCU",
     "RP": "RP",
-    "RS": "RS"
+    "RS": "RS",
+    "Find a view...": "Find a view...",
+    "We couldn't find any views with a name like that": "We couldn't find any views with a name like that",
+    "Give users access": "Give users access"
 }
