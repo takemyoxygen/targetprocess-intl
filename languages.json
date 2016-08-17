@@ -1,5 +1,15 @@
 [
   {
+    "code": "en",
+    "name": "English",
+    "stats": {
+      "totalTokensCount": 3106,
+      "translatedTokensCount": 3106,
+      "reviewedTokensCount": 0,
+      "translatedWordsCount": 16630
+    }
+  },
+  {
     "code": "fr",
     "name": "French",
     "stats": {
