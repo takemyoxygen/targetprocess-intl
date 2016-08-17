@@ -3105,8 +3105,8 @@
     "Find a view...": "Найти доску...",
     "We couldn't find any views with a name like that": "Нет досок с таким именем",
     "Give users access": "Give users access",
-    "Please, enter a valid URL": "Please, enter a valid URL",
-    "Please, enter URL name": "Please, enter URL name",
+    "Please, enter a valid URL": "Пожалуйста, введите корректный URL",
+    "Please, enter URL name": "Пожалуйста, введите название для URL",
     "Please, enter the date in the correct format. For example: 01-Jan-2016": "Пожалуйста, введите дату в корректном формате. Например: 01-Jan-2016",
     "Please, enter a date later than 1-Jan-1900": "Пожалуйста, введите дату после 1-Jan-1900",
     "URL": "URL"
