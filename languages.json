@@ -44,9 +44,9 @@
     "name": "Russian",
     "stats": {
       "totalTokensCount": 3106,
-      "translatedTokensCount": 2990,
+      "translatedTokensCount": 3023,
       "reviewedTokensCount": 2985,
-      "translatedWordsCount": 15791
+      "translatedWordsCount": 15915
     }
   },
   {
