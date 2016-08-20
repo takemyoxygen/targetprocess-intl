@@ -3109,5 +3109,6 @@
     "Please, enter URL name": "Please, enter URL name",
     "Please, enter the date in the correct format. For example: 01-Jan-2016": "Please, enter the date in the correct format. For example: 01-Jan-2016",
     "Please, enter a date later than 1-Jan-1900": "Please, enter a date later than 1-Jan-1900",
-    "URL": "URL"
+    "URL": "URL",
+    "There are no values in common for selected items.": "There are no values in common for selected items."
 }
