@@ -3110,5 +3110,6 @@
     "Please, enter the date in the correct format. For example: 01-Jan-2016": "Пожалуйста, введите дату в корректном формате. Например: 01-Jan-2016",
     "Please, enter a date later than 1-Jan-1900": "Пожалуйста, введите дату после 1-Jan-1900",
     "URL": "URL",
-    "There are no values in common for selected items.": "There are no values in common for selected items."
+    "There are no values in common for selected items.": "There are no values in common for selected items.",
+    "{state} state is not common any more for selected items.": "{state} state is not common any more for selected items."
 }
