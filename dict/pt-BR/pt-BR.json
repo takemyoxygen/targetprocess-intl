@@ -3111,5 +3111,21 @@
     "Please, enter a date later than 1-Jan-1900": "Please, enter a date later than 1-Jan-1900",
     "URL": "URL",
     "There are no values in common for selected items.": "There are no values in common for selected items.",
-    "{state} state is not common any more for selected items.": "{state} state is not common any more for selected items."
+    "{state} state is not common any more for selected items.": "{state} state is not common any more for selected items.",
+    "Command target should contain non empty 'ResourceType' property.": "Command target should contain non empty 'ResourceType' property.",
+    "Can't attach requester with ResourceType '{targetResourceType}', 'User' is expected.": "Can't attach requester with ResourceType '{targetResourceType}', 'User' is expected.",
+    "Can't attach user with Id '{targetId}', 'User' doesn't exist.": "Can't attach user with Id '{targetId}', 'User' doesn't exist.",
+    "Can't attach requester to request without Id.": "Can't attach requester to request without Id.",
+    "Can't find Request with id {requestId}": "Can't find Request with id {requestId}",
+    "Can't link {targetResourceType} to TestPlan. Command target resource type should be one of '{supportedTypes}'.": "Can't link {targetResourceType} to TestPlan. Command target resource type should be one of '{supportedTypes}'.",
+    "Can't link TestPlan to TestPlan. Child TestPlan with Id '{childTestPlanId}' doesn't exist.": "Can't link TestPlan to TestPlan. Child TestPlan with Id '{childTestPlanId}' doesn't exist.",
+    "Can't link TestCase to TestPlan. TestCase with Id '{testCaseId}' doesn't exist.": "Can't link TestCase to TestPlan. TestCase with Id '{testCaseId}' doesn't exist.",
+    "Can't link entity to TestPlan without Id.": "Can't link entity to TestPlan without Id.",
+    "Can't find TestPlan with id {testPlanId}": "Can't find TestPlan with id {testPlanId}",
+    "Copy Inbound and Outbound Relations": "Copy Inbound and Outbound Relations",
+    "Move Open and Planned {entityTypePlural}": "Move Open and Planned {entityTypePlural}",
+    "Copy Attachments": "Copy Attachments",
+    "Create a Related Test Plan with the same Linked Tests": "Create a Related Test Plan with the same Linked Tests",
+    "Copy Requesters": "Copy Requesters",
+    "Collections": "Collections"
 }
