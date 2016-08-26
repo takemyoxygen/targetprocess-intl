@@ -366,7 +366,7 @@
     "How quickly Issues and Questions are resolved": "Как быстро решаются проблемы и вопросы",
     "Iteration Effort vs Time Spent": "Работа в итерации и затраченное время",
     "Shows correlation between total Effort in an Iteration and total Time Spent": "Показывает корреляцию между общей работой в итерации и общим затраченным временем",
-    "Iterations velocity trend": "Тред скорости в итерациях",
+    "Iterations velocity trend": "Тренд скорости в итерациях",
     "How Iterations velocity changes over time": "Как со временем изменяется скорость в итерациях",
     "Scrum": "Скрам",
     "New Bugs trend": "Тренд создания багов",
@@ -3127,5 +3127,7 @@
     "Copy Attachments": "Копировать файлы",
     "Create a Related Test Plan with the same Linked Tests": "Создать связанный тест-план c такими же тестами",
     "Copy Requesters": "Копировать реквестеров",
-    "Collections": "Коллекции"
+    "Collections": "Коллекции",
+    "Fail to reload {fields.join()} {fields.length, plural, one {field} other {fields}} value.": "Fail to reload {fields.join()} {fields.length, plural, one {field} other {fields}} value.",
+    "More fields...": "More fields..."
 }

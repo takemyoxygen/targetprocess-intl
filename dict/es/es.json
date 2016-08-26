@@ -3127,5 +3127,7 @@
     "Copy Attachments": "Copy Attachments",
     "Create a Related Test Plan with the same Linked Tests": "Create a Related Test Plan with the same Linked Tests",
     "Copy Requesters": "Copy Requesters",
-    "Collections": "Collections"
+    "Collections": "Collections",
+    "Fail to reload {fields.join()} {fields.length, plural, one {field} other {fields}} value.": "Fail to reload {fields.join()} {fields.length, plural, one {field} other {fields}} value.",
+    "More fields...": "More fields..."
 }
