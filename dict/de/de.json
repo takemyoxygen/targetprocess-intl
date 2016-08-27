@@ -3129,5 +3129,7 @@
     "Copy Requesters": "Copy Requesters",
     "Collections": "Collections",
     "Fail to reload {fields.join()} {fields.length, plural, one {field} other {fields}} value.": "Fail to reload {fields.join()} {fields.length, plural, one {field} other {fields}} value.",
-    "More fields...": "More fields..."
+    "More fields...": "More fields...",
+    "{showMore, select, true {{personsCount} more} false {{personsCount}}} {personsCount, plural, one {person} other {people}}, not assigned to all items": "{showMore, select, true {{personsCount} more} false {{personsCount}}} {personsCount, plural, one {person} other {people}}, not assigned to all items",
+    "There are no roles in common for selected items.": "There are no roles in common for selected items."
 }
