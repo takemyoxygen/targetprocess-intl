@@ -3134,5 +3134,11 @@
     "There are no roles in common for selected items.": "There are no roles in common for selected items.",
     "Unable to build a test metric from setup for validation purposes: {error}": "Unable to build a test metric from setup for validation purposes: {error}",
     "Unable to build any test metric instance from setup for validation purposes": "Unable to build any test metric instance from setup for validation purposes",
-    "This Metric Setup was updated or deleted by another user": "This Metric Setup was updated or deleted by another user"
+    "This Metric Setup was updated or deleted by another user": "This Metric Setup was updated or deleted by another user",
+    "Hidden": "Hidden",
+    "Visible": "Visible",
+    "Empty lanes": "Empty lanes",
+    "Set up view": "Set up view",
+    "View type": "View type",
+    "Zoom level": "Zoom level"
 }
