@@ -3131,5 +3131,8 @@
     "Fail to reload {fields.join()} {fields.length, plural, one {field} other {fields}} value.": "Fail to reload {fields.join()} {fields.length, plural, one {field} other {fields}} value.",
     "More fields...": "More fields...",
     "{showMore, select, true {{personsCount} more} false {{personsCount}}} {personsCount, plural, one {person} other {people}}, not assigned to all items": "{showMore, select, true {{personsCount} more} false {{personsCount}}} {personsCount, plural, one {person} other {people}}, not assigned to all items",
-    "There are no roles in common for selected items.": "There are no roles in common for selected items."
+    "There are no roles in common for selected items.": "There are no roles in common for selected items.",
+    "Unable to build a test metric from setup for validation purposes: {error}": "Unable to build a test metric from setup for validation purposes: {error}",
+    "Unable to build any test metric instance from setup for validation purposes": "Unable to build any test metric instance from setup for validation purposes",
+    "This Metric Setup was updated or deleted by another user": "This Metric Setup was updated or deleted by another user"
 }
