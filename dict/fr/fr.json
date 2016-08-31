@@ -3140,5 +3140,9 @@
     "Empty lanes": "Empty lanes",
     "Set up view": "Set up view",
     "View type": "View type",
-    "Zoom level": "Zoom level"
+    "Zoom level": "Zoom level",
+    "Make a copy of this {itemType, select, view {View} group {Group} customreport {Report} dashboard {Dashboard} other {{itemType}} }": "Make a copy of this {itemType, select, view {View} group {Group} customreport {Report} dashboard {Dashboard} other {{itemType}} }",
+    "Export to CSV": "Export to CSV",
+    "Only this {itemType, select, view {View} group {Group} customreport {Report} dashboard {Dashboard} other {{itemType}} } will be removed. The data will remain safe.": "Only this {itemType, select, view {View} group {Group} customreport {Report} dashboard {Dashboard} other {{itemType}} } will be removed. The data will remain safe.",
+    "Go to View settings": "Go to View settings"
 }
