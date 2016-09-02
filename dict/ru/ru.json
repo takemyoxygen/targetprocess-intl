@@ -3144,5 +3144,6 @@
     "Make a copy of this {itemType, select, view {View} group {Group} customreport {Report} dashboard {Dashboard} other {{itemType}} }": "Сделать копию {itemType, select, view {этой доски} group {этой группы} customreport {этого отчёта} dashboard {этого дашборда} other {{itemType}} }",
     "Export to CSV": "Экспорт в CSV",
     "Only this {itemType, select, view {View} group {Group} customreport {Report} dashboard {Dashboard} other {{itemType}} } will be removed. The data will remain safe.": "Удален будет только {itemType, select, view {доска} group {группа} customreport {отчёт} dashboard {дашборд} other {{itemType}} }. Данные будут сохранены.",
-    "Go to View settings": "Перейти к настройкам доски."
+    "Go to View settings": "Перейти к настройкам доски.",
+    "{moreTeamsCount} {moreTeamsCount, plural, =1 {team} other {teams}}, not assigned to all items": "{moreTeamsCount} {moreTeamsCount, plural, =1 {team} other {teams}}, not assigned to all items"
 }
