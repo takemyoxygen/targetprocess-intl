@@ -3174,5 +3174,8 @@
     "Week": "Week",
     "Month": "Month",
     "Quarter": "Quarter",
-    "Year": "Year"
+    "Year": "Year",
+    "Can't attach requester with ResourceType '{targetResourceType}'. Only '{supportedKinds}' types are valid.": "Can't attach requester with ResourceType '{targetResourceType}'. Only '{supportedKinds}' types are valid.",
+    "Can't attach target with Id '{targetId}', 'GeneralUser' with such Id doesn't exist.": "Can't attach target with Id '{targetId}', 'GeneralUser' with such Id doesn't exist.",
+    "Uuid or Id should be specified for target": "Uuid or Id should be specified for target"
 }
