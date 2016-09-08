@@ -3178,5 +3178,12 @@
     "Can't attach requester with ResourceType '{targetResourceType}'. Only '{supportedKinds}' types are valid.": "Can't attach requester with ResourceType '{targetResourceType}'. Only '{supportedKinds}' types are valid.",
     "Can't attach target with Id '{targetId}', 'GeneralUser' with such Id doesn't exist.": "Can't attach target with Id '{targetId}', 'GeneralUser' with such Id doesn't exist.",
     "Uuid or Id should be specified for target": "Uuid or Id should be specified for target",
-    "Could not reset project.": "Could not reset project."
+    "Could not reset project.": "Could not reset project.",
+    "Last N days": "Last N days",
+    "Edit {cardCount} selected items": "Edit {cardCount} selected items",
+    "Describe the cases when you use a Clipboard": "Describe the cases when you use a Clipboard",
+    "Clipboard will disappear soon!": "Clipboard will disappear soon!",
+    "Try our Batch Actions Panel to": "Try our Batch Actions Panel to",
+    "help us understand": "help us understand",
+    "To keep using Clipboard, {feedbackLink} why you prefer it over Batch Actions.": "To keep using Clipboard, {feedbackLink} why you prefer it over Batch Actions."
 }
