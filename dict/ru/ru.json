@@ -3185,5 +3185,9 @@
     "Clipboard will disappear soon!": "Clipboard will disappear soon!",
     "Try our Batch Actions Panel to": "Try our Batch Actions Panel to",
     "help us understand": "help us understand",
-    "To keep using Clipboard, {feedbackLink} why you prefer it over Batch Actions.": "To keep using Clipboard, {feedbackLink} why you prefer it over Batch Actions."
+    "To keep using Clipboard, {feedbackLink} why you prefer it over Batch Actions.": "To keep using Clipboard, {feedbackLink} why you prefer it over Batch Actions.",
+    "Add custom rule": "Добавить дополнительное правило",
+    "Highlight cards with different colors by your rules": "Подсветить карточки разными цветами по вашим правилам",
+    "Use default visual encoding for all boards and all users": "Использовать цветовую визуализацию по-умолчанию для всех бордов и пользователей",
+    "Add default rule": "Добавить правило, используемое по-умолчанию"
 }
