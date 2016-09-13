@@ -3189,5 +3189,6 @@
     "Add custom rule": "Добавить дополнительное правило",
     "Highlight cards with different colors by your rules": "Подсветить карточки разными цветами по вашим правилам",
     "Use default visual encoding for all boards and all users": "Использовать цветовую визуализацию по-умолчанию для всех бордов и пользователей",
-    "Add default rule": "Добавить правило, используемое по-умолчанию"
+    "Add default rule": "Добавить правило, используемое по-умолчанию",
+    "Please specify the cases when you need Clipboard": "Please specify the cases when you need Clipboard"
 }
