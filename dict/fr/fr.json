@@ -3190,5 +3190,6 @@
     "Highlight cards with different colors by your rules": "Highlight cards with different colors by your rules",
     "Use default visual encoding for all boards and all users": "Use default visual encoding for all boards and all users",
     "Add default rule": "Add default rule",
-    "Please specify the cases when you need Clipboard": "Please specify the cases when you need Clipboard"
+    "Please specify the cases when you need Clipboard": "Please specify the cases when you need Clipboard",
+    "There are no cross-project {entityTerm} in common for selected items": "There are no cross-project {entityTerm} in common for selected items"
 }
