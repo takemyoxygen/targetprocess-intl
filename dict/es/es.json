@@ -3194,5 +3194,18 @@
     "There are no cross-project {entityTerm} in common for selected items": "There are no cross-project {entityTerm} in common for selected items",
     "Entity '{entity}' doesn't allow to set custom fields": "Entity '{entity}' doesn't allow to set custom fields",
     "At least one fail reason should be specified": "At least one fail reason should be specified",
-    "Encoding": "Encoding"
+    "Encoding": "Encoding",
+    "Extended Context": "Extended Context",
+    "Extended Contexts": "Extended Contexts",
+    "Available Projects": "Available Projects",
+    "Available Teams": "Available Teams",
+    "Available Programs": "Available Programs",
+    "Available Processes": "Available Processes",
+    "Is Full": "Is Full",
+    "Is No Team Included": "Is No Team Included",
+    "No Project": "No Project",
+    "N/T": "N/T",
+    "Revert to default": "Revert to default",
+    "Effort, pt or h": "Effort, pt or h",
+    "set new": "set new"
 }
