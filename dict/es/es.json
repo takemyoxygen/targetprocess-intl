@@ -3214,5 +3214,6 @@
     "<Unnamed>": "<Unnamed>",
     "{showMore, select, true {{count} more} false {{count}}} {count, plural, one {relation} other {relations}}, not linked with all items": "{showMore, select, true {{count} more} false {{count}}} {count, plural, one {relation} other {relations}}, not linked with all items",
     "No relations attached": "No relations attached",
-    "Modified Date": "Modified Date"
+    "Modified Date": "Modified Date",
+    "Revert to predefined projects and teams": "Revert to predefined projects and teams"
 }
