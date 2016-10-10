@@ -3215,5 +3215,19 @@
     "{showMore, select, true {{count} more} false {{count}}} {count, plural, one {relation} other {relations}}, not linked with all items": "{showMore, select, true {{count} more} false {{count}}} {count, plural, one {relation} other {relations}}, not linked with all items",
     "No relations attached": "No relations attached",
     "Modified Date": "Modified Date",
-    "Revert to predefined projects and teams": "Revert to predefined projects and teams"
+    "Revert to predefined projects and teams": "Revert to predefined projects and teams",
+    "The <b>projects-teams selector</b> has now become part of views. Once you select the context for a view, it will save for that view only, and won’t affect other views.": "The <b>projects-teams selector</b> has now become part of views. Once you select the context for a view, it will save for that view only, and won’t affect other views.",
+    "In Setup mode, your personal projects-teams selection and filter are turned off.": "In Setup mode, your personal projects-teams selection and filter are turned off.",
+    "You see the view the way other users can see it (if it isn't private).": "You see the view the way other users can see it (if it isn't private).",
+    "You can still see views through any context you want by temporarily changing the currently selected context for that view.": "You can still see views through any context you want by temporarily changing the currently selected context for that view.",
+    "When you modify the set of projects and teams shown on the view, the selector will be highlighted like it is now.": "When you modify the set of projects and teams shown on the view, the selector will be highlighted like it is now.",
+    "N/t": "N/t",
+    "Your personal projects-teams selection and filter are turned off in Setup mode": "Your personal projects-teams selection and filter are turned off in Setup mode",
+    "This View doesn't have set projects and teams to revert": "This View doesn't have set projects and teams to revert",
+    "If View isn't private other users will see data differently. Set projects and teams if you want other users to see consistent data.": "If View isn't private other users will see data differently. Set projects and teams if you want other users to see consistent data.",
+    "Other users will see data differently. View owner should set projects and teams if she wants other users to see consistent data.": "Other users will see data differently. View owner should set projects and teams if she wants other users to see consistent data.",
+    "Set projects and teams": "Set projects and teams",
+    "Select projects and teams you want to see in the View": "Select projects and teams you want to see in the View",
+    "Select the cards": "Select the cards",
+    "Specify a Projects-Teams for this View.": "Specify a Projects-Teams for this View."
 }
