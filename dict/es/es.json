@@ -3213,5 +3213,6 @@
     "There is a conflict with another metric '{metricName}' which updates the same fields for {entityTypeList}": "There is a conflict with another metric '{metricName}' which updates the same fields for {entityTypeList}",
     "<Unnamed>": "<Unnamed>",
     "{showMore, select, true {{count} more} false {{count}}} {count, plural, one {relation} other {relations}}, not linked with all items": "{showMore, select, true {{count} more} false {{count}}} {count, plural, one {relation} other {relations}}, not linked with all items",
-    "No relations attached": "No relations attached"
+    "No relations attached": "No relations attached",
+    "Modified Date": "Modified Date"
 }
