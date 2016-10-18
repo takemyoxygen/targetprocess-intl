@@ -3235,5 +3235,7 @@
     "{succeedCount} {succeedCount, plural, one {comment} other {comments}} added, {failedCount} failed.": "{succeedCount} {succeedCount, plural, one {comment} other {comments}} added, {failedCount} failed.",
     "Could not add {failedCount} {failedCount, plural, one {comment} other {comments}}.": "Could not add {failedCount} {failedCount, plural, one {comment} other {comments}}.",
     "Error adding comment to {totalCards} {totalCards, plural, one {item} other {items}}.": "Error adding comment to {totalCards} {totalCards, plural, one {item} other {items}}.",
-    "Add Comment": "Add Comment"
+    "Add Comment": "Add Comment",
+    "Required comment": "Required comment",
+    "Required comment means that a person should provide a comment to switch entity to this state.": "Required comment means that a person should provide a comment to switch entity to this state."
 }
