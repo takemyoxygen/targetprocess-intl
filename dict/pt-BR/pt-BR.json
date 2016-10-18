@@ -3230,5 +3230,10 @@
     "Select projects and teams you want to see in the View": "Select projects and teams you want to see in the View",
     "Select the cards": "Select the cards",
     "Specify a Projects-Teams for this View.": "Specify a Projects-Teams for this View.",
-    "ALL PROCESSES": "ALL PROCESSES"
+    "ALL PROCESSES": "ALL PROCESSES",
+    "{succeedCount} {succeedCount, plural, one {comment} other {comments}} added.": "{succeedCount} {succeedCount, plural, one {comment} other {comments}} added.",
+    "{succeedCount} {succeedCount, plural, one {comment} other {comments}} added, {failedCount} failed.": "{succeedCount} {succeedCount, plural, one {comment} other {comments}} added, {failedCount} failed.",
+    "Could not add {failedCount} {failedCount, plural, one {comment} other {comments}}.": "Could not add {failedCount} {failedCount, plural, one {comment} other {comments}}.",
+    "Error adding comment to {totalCards} {totalCards, plural, one {item} other {items}}.": "Error adding comment to {totalCards} {totalCards, plural, one {item} other {items}}.",
+    "Add Comment": "Add Comment"
 }
