@@ -3237,5 +3237,12 @@
     "Error adding comment to {totalCards} {totalCards, plural, one {item} other {items}}.": "Error adding comment to {totalCards} {totalCards, plural, one {item} other {items}}.",
     "Add Comment": "Add Comment",
     "Required comment": "Обязательный комментарий",
-    "Required comment means that a person should provide a comment to switch entity to this state.": "Обязательный комментарий означает, что человеку необходимо предоставить комментарий, чтобы перевести сущность в этот статус"
+    "Required comment means that a person should provide a comment to switch entity to this state.": "Обязательный комментарий означает, что человеку необходимо предоставить комментарий, чтобы перевести сущность в этот статус",
+    "Find a view…": "Find a view…",
+    "More fields…": "More fields…",
+    "Applying these settings will affect no entities": "Applying these settings will affect no entities",
+    "all {overallCount, number, integer}": "all {overallCount, number, integer}",
+    "{affectedCount, number, integer} of {overallCount, number, integer}": "{affectedCount, number, integer} of {overallCount, number, integer}",
+    "Applying these settings will affect following entity types:": "Applying these settings will affect following entity types:",
+    "Sets custom field {customFieldNameBlock} using the formula {formulaCodeBlock}": "Sets custom field {customFieldNameBlock} using the formula {formulaCodeBlock}"
 }
