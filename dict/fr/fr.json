@@ -3244,5 +3244,6 @@
     "all {overallCount, number, integer}": "all {overallCount, number, integer}",
     "{affectedCount, number, integer} of {overallCount, number, integer}": "{affectedCount, number, integer} of {overallCount, number, integer}",
     "Applying these settings will affect following entity types:": "Applying these settings will affect following entity types:",
-    "Sets custom field {customFieldNameBlock} using the formula {formulaCodeBlock}": "Sets custom field {customFieldNameBlock} using the formula {formulaCodeBlock}"
+    "Sets custom field {customFieldNameBlock} using the formula {formulaCodeBlock}": "Sets custom field {customFieldNameBlock} using the formula {formulaCodeBlock}",
+    "Notifications": "Notifications"
 }
