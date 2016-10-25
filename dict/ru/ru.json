@@ -3245,5 +3245,8 @@
     "{affectedCount, number, integer} of {overallCount, number, integer}": "{affectedCount, number, integer} of {overallCount, number, integer}",
     "Applying these settings will affect following entity types:": "Applying these settings will affect following entity types:",
     "Sets custom field {customFieldNameBlock} using the formula {formulaCodeBlock}": "Sets custom field {customFieldNameBlock} using the formula {formulaCodeBlock}",
-    "Notifications": "Нотификации"
+    "Notifications": "Нотификации",
+    "Formula with the value of type '{Type}' can't be mapped to custom fields. Supported formula types: {SupportedTypeList}": "Formula with the value of type '{Type}' can't be mapped to custom fields. Supported formula types: {SupportedTypeList}",
+    "There is no custom field of matching typed named '{CustomFieldName}' for {EntityTypeList} in process '{ProcessName}'": "There is no custom field of matching typed named '{CustomFieldName}' for {EntityTypeList} in process '{ProcessName}'",
+    "Tasks:": "Tasks:"
 }
