@@ -3258,5 +3258,13 @@
     "read-only access to all projects and teams": "read-only access to all projects and teams",
     "Contributor": "Contributor",
     "full access to all projects and teams": "full access to all projects and teams",
-    "unlimited access to everything": "unlimited access to everything"
+    "unlimited access to everything": "unlimited access to everything",
+    "CHANGE": "CHANGE",
+    "It is strongly recommended to not change Process for Projects in progress as some data will be lost (especially the Custom Fields data).": "It is strongly recommended to not change Process for Projects in progress as some data will be lost (especially the Custom Fields data).",
+    "Please, type {ConfirmationWord} into the field below if you understand the consequences.": "Please, type {ConfirmationWord} into the field below if you understand the consequences.",
+    "If you are not sure, please, read the document that describes the results:": "If you are not sure, please, read the document that describes the results:",
+    "How to change a Process and a Workflow for my Project safely?": "How to change a Process and a Workflow for my Project safely?",
+    "type {ConfirmationWord} here": "type {ConfirmationWord} here",
+    "Change process to {newProcessValue}": "Change process to {newProcessValue}",
+    "The shared report and its data are fully available to users with access to the report, even if they do not have direct permissions to see some data related to the chart": "The shared report and its data are fully available to users with access to the report, even if they do not have direct permissions to see some data related to the chart"
 }
