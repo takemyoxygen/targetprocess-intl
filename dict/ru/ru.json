@@ -3248,5 +3248,15 @@
     "Notifications": "Нотификации",
     "Formula with the value of type '{Type}' can't be mapped to custom fields. Supported formula types: {SupportedTypeList}": "Formula with the value of type '{Type}' can't be mapped to custom fields. Supported formula types: {SupportedTypeList}",
     "There is no custom field of matching typed named '{CustomFieldName}' for {EntityTypeList} in process '{ProcessName}'": "There is no custom field of matching typed named '{CustomFieldName}' for {EntityTypeList} in process '{ProcessName}'",
-    "Tasks:": "Tasks:"
+    "Tasks:": "Tasks:",
+    "Data layer exception occurred.": "Data layer exception occurred.",
+    "Concurrent data access exception occurred.": "Concurrent data access exception occurred.",
+    "Error occurred while publishing metric event.": "Error occurred while publishing metric event.",
+    "Is Contributor": "Is Contributor",
+    "Error occurred while deleting metric setup.": "Error occurred while deleting metric setup.",
+    "access according Role permissions": "access according Role permissions",
+    "read-only access to all projects and teams": "read-only access to all projects and teams",
+    "Contributor": "Contributor",
+    "full access to all projects and teams": "full access to all projects and teams",
+    "unlimited access to everything": "unlimited access to everything"
 }
