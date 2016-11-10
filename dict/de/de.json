@@ -3266,5 +3266,6 @@
     "How to change a Process and a Workflow for my Project safely?": "How to change a Process and a Workflow for my Project safely?",
     "type {ConfirmationWord} here": "type {ConfirmationWord} here",
     "Change process to {newProcessValue}": "Change process to {newProcessValue}",
-    "The shared report and its data are fully available to users with access to the report, even if they do not have direct permissions to see some data related to the chart": "The shared report and its data are fully available to users with access to the report, even if they do not have direct permissions to see some data related to the chart"
+    "The shared report and its data are fully available to users with access to the report, even if they do not have direct permissions to see some data related to the chart": "The shared report and its data are fully available to users with access to the report, even if they do not have direct permissions to see some data related to the chart",
+    "Authentication token for System User cannot be obtained. A secure password for System User account has not been set yet. Please set the password in Settings -> System Settings -> System User Credentials first.": "Authentication token for System User cannot be obtained. A secure password for System User account has not been set yet. Please set the password in Settings -> System Settings -> System User Credentials first."
 }
