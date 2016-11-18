@@ -3278,5 +3278,6 @@
     "Select which Projects and Teams this view will pull data from.": "Select which Projects and Teams this view will pull data from.",
     "Custom formula error: {ErrorDetails}": "Custom formula error: {ErrorDetails}",
     "Target custom field name should be a non-empty, non-whitespace string": "Target custom field name should be a non-empty, non-whitespace string",
-    "Metric formula should be a non-empty, non-whitespace string": "Metric formula should be a non-empty, non-whitespace string"
+    "Metric formula should be a non-empty, non-whitespace string": "Metric formula should be a non-empty, non-whitespace string",
+    "Votes": "Votes"
 }
