@@ -3279,5 +3279,11 @@
     "Custom formula error: {ErrorDetails}": "Custom formula error: {ErrorDetails}",
     "Target custom field name should be a non-empty, non-whitespace string": "Target custom field name should be a non-empty, non-whitespace string",
     "Metric formula should be a non-empty, non-whitespace string": "Metric formula should be a non-empty, non-whitespace string",
-    "Votes": "Votes"
+    "Votes": "Votes",
+    "Modifying metric settings WILL NOT affect existing entities": "Modifying metric settings WILL NOT affect existing entities",
+    "Scheduling, {completedComputationCount,number} completed": "Scheduling, {completedComputationCount,number} completed",
+    "{completedComputationCount,number} of {totalComputationCount,number} completed": "{completedComputationCount,number} of {totalComputationCount,number} completed",
+    "There are also some other system metrics in progress": "There are also some other system metrics in progress",
+    "Hide details": "Hide details",
+    "Click to show details": "Click to show details"
 }
