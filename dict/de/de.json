@@ -3285,5 +3285,8 @@
     "{completedComputationCount,number} of {totalComputationCount,number} completed": "{completedComputationCount,number} of {totalComputationCount,number} completed",
     "There are also some other system metrics in progress": "There are also some other system metrics in progress",
     "Hide details": "Hide details",
-    "Click to show details": "Click to show details"
+    "Click to show details": "Click to show details",
+    "All fields": "All fields",
+    "Popular": "Popular",
+    "Tabular Reports": "Tabular Reports"
 }
