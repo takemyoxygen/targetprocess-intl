@@ -3315,5 +3315,17 @@
     "Assign to Teams": "Assign to Teams",
     "No such Team found": "No such Team found",
     "No available Teams": "No available Teams",
-    "New Team": "New Team"
+    "New Team": "New Team",
+    "Buckets count should be greater than zero": "Buckets count should be greater than zero",
+    "Make a copy of this {itemType, select, view {view} group {group} customreport {report} dashboard {dashboard} other {{itemType}} }": "Make a copy of this {itemType, select, view {view} group {group} customreport {report} dashboard {dashboard} other {{itemType}} }",
+    "Clone {itemType, select, view {view} group {group} customreport {report} dashboard {dashboard} other {{itemType}} }": "Clone {itemType, select, view {view} group {group} customreport {report} dashboard {dashboard} other {{itemType}} }",
+    "Print all visible cards from this view": "Print all visible cards from this view",
+    "Export all the cards from this view to a .CSV file": "Export all the cards from this view to a .CSV file",
+    "Only this {itemType, select, view {view} group {group} customreport {report} dashboard {dashboard} other {{itemType}} } will be removed. The data will remain safe.": "Only this {itemType, select, view {view} group {group} customreport {report} dashboard {dashboard} other {{itemType}} } will be removed. The data will remain safe.",
+    "Do you really want to remove this {itemType, select, view {view} group {group} customreport {report} dashboard {dashboard} other {{itemType}} }?": "Do you really want to remove this {itemType, select, view {view} group {group} customreport {report} dashboard {dashboard} other {{itemType}} }?",
+    "Remove {itemType, select, view {view} group {group} customreport {report} dashboard {dashboard} other {{itemType}} }": "Remove {itemType, select, view {view} group {group} customreport {report} dashboard {dashboard} other {{itemType}} }",
+    "This view will appear in the Templates tab as a new template.": "This view will appear in the Templates tab as a new template.",
+    "Save as template": "Save as template",
+    "Go to view settings": "Go to view settings",
+    "Configure Workflow for selected projects": "Configure Workflow for selected projects"
 }
