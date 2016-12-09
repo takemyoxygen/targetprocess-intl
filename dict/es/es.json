@@ -3327,5 +3327,9 @@
     "This view will appear in the Templates tab as a new template.": "This view will appear in the Templates tab as a new template.",
     "Save as template": "Save as template",
     "Go to view settings": "Go to view settings",
-    "Configure Workflow for selected projects": "Configure Workflow for selected projects"
+    "Configure Workflow for selected projects": "Configure Workflow for selected projects",
+    "There's no one with this name.": "There's no one with this name.",
+    "access according to Role permissions": "access according to Role permissions",
+    "additional access to view data in all Projects and Teams": "additional access to view data in all Projects and Teams",
+    "access to view and edit data in all Projects and Teams": "access to view and edit data in all Projects and Teams"
 }
