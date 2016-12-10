@@ -3350,5 +3350,7 @@
     "{days, select, 1 {Day} 2 {Days} 3 {Days} 4 {Days} other {Days}}": "{days, select, 1 {Day} 2 {Days} 3 {Days} 4 {Days} other {Days}}",
     "Mark all Read": "Отметить все, как прочитанное",
     "Last Modified": "Измененные элементы",
-    "Browsed": "Browsed"
+    "Browsed": "Browsed",
+    "Custom field '{CustomFieldName}' is defined as calculated for {EntityTypeList} in process '{ProcessName}'. Only regular custom fields are supported as formula targets.": "Custom field '{CustomFieldName}' is defined as calculated for {EntityTypeList} in process '{ProcessName}'. Only regular custom fields are supported as formula targets.",
+    "Last State Change": "Last State Change"
 }
