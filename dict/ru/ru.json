@@ -3352,5 +3352,9 @@
     "Last Modified": "Измененные элементы",
     "Browsed": "Просмотренные",
     "Custom field '{CustomFieldName}' is defined as calculated for {EntityTypeList} in process '{ProcessName}'. Only regular custom fields are supported as formula targets.": "Custom field '{CustomFieldName}' is defined as calculated for {EntityTypeList} in process '{ProcessName}'. Only regular custom fields are supported as formula targets.",
-    "Last State Change": "Last State Change"
+    "Last State Change": "Last State Change",
+    "Go to report settings": "Go to report settings",
+    "Set up report": "Set up report",
+    "Go to dashboard settings": "Go to dashboard settings",
+    "Set up dashboard": "Set up dashboard"
 }
