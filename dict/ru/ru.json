@@ -3346,7 +3346,7 @@
     "Last Week": "Последняя неделя",
     "Last Month": "Last Month",
     "Earlier": "Earlier",
-    "{hours, plural, one {Hr} other {Hrs}}": "{hours, plural, one {час} other {часы}} ",
+    "{hours, plural, one {Hr} other {Hrs}}": "{hours, plural, one {час} other {часа}} ",
     "{days, select, 1 {Day} 2 {Days} 3 {Days} 4 {Days} other {Days}}": "{days, select, 1 {День} 2 {Дня} 3 {Дня} 4 {Дня} other {Дней}}",
     "Mark all Read": "Отметить все, как прочитанное",
     "Last Modified": "Измененные элементы",
