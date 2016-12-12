@@ -3356,5 +3356,9 @@
     "Go to report settings": "Go to report settings",
     "Set up report": "Set up report",
     "Go to dashboard settings": "Go to dashboard settings",
-    "Set up dashboard": "Set up dashboard"
+    "Set up dashboard": "Set up dashboard",
+    "You have no access rights for the entity": "У вас нет прав на эту сущность",
+    "You have not yet browsed any entities": "Нет просмотренных вами сообщений",
+    "Min": "Мин",
+    "Mark as read": "Отметить, как прочитанное"
 }
