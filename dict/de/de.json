@@ -270,7 +270,7 @@
     "Set up your list View": "Listenansicht konfigurieren",
     "Prioritization on": "Priorisierung an",
     "Prioritization off": "Priorisierung aus",
-    "Hold {shiftButton} to prioritize": "{shiftButton} halten, um zu priorisieren",
+    "Hold {shiftButton} to prioritize": "Halte {shiftButton} zum priorisieren",
     "The current View settings do not allow prioritization": "Die aktuelle Konfiguration dieser Ansicht erlaubt keine Priorisierung",
     "click to edit": "Klicken, um zu bearbeiten",
     "Do you really want to convert {fromTerm} to {toTerm}?": "Soll wirklich von {fromTerm} zu {toTerm} konvertiert werden?",
