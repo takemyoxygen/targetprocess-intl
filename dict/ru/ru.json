@@ -3360,5 +3360,13 @@
     "You have no access rights for the entity": "У вас нет прав на эту сущность",
     "You have not yet browsed any entities": "Нет просмотренных вами сообщений",
     "Min": "Мин",
-    "Mark as read": "Отметить, как прочитанное"
+    "Mark as read": "Отметить, как прочитанное",
+    "A comment is required to change state to '{requestedStateName}'.": "A comment is required to change state to '{requestedStateName}'.",
+    "Concurrent data exception occurred in procedure '{procedure}'": "Concurrent data exception occurred in procedure '{procedure}'",
+    "You haven’t yet browsed any entities": "You haven’t yet browsed any entities",
+    "You don’t own any entities": "You don’t own any entities",
+    "The comment will be added to {requiredCommentCount} of {totalEntityCount} entities, where it is required": "The comment will be added to {requiredCommentCount} of {totalEntityCount} entities, where it is required",
+    "entity view": "entity view",
+    "Please, use {link} to change state": "Please, use {link} to change state",
+    "{icon} Required": "{icon} Required"
 }
