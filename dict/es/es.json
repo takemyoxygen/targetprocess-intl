@@ -3368,5 +3368,10 @@
     "The comment will be added to {requiredCommentCount} of {totalEntityCount} entities, where it is required": "The comment will be added to {requiredCommentCount} of {totalEntityCount} entities, where it is required",
     "entity view": "entity view",
     "Please, use {link} to change state": "Please, use {link} to change state",
-    "{icon} Required": "{icon} Required"
+    "{icon} Required": "{icon} Required",
+    "{requests} {requests, plural, =1 {Request} other {Requests}} will be set to the first Request Type in list": "{requests} {requests, plural, =1 {Request} other {Requests}} will be set to the first Request Type in list",
+    "Are you sure you want to delete '{requestName}\\' Request Type?": "Are you sure you want to delete '{requestName}\\' Request Type?",
+    "Request Types allow you to categorize requests created in Service Desk and Targetprocess, e.g. \"Bug report\" or \"IT Request\".": "Request Types allow you to categorize requests created in Service Desk and Targetprocess, e.g. \"Bug report\" or \"IT Request\".",
+    "Request Types are applied for all processes. You can add, rename, and delete Request Types here, but at least one type is required.": "Request Types are applied for all processes. You can add, rename, and delete Request Types here, but at least one type is required.",
+    "Add Type": "Add Type"
 }
