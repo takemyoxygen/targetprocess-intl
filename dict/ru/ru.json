@@ -3373,5 +3373,16 @@
     "Are you sure you want to delete '{requestName}\\' Request Type?": "Are you sure you want to delete '{requestName}\\' Request Type?",
     "Request Types allow you to categorize requests created in Service Desk and Targetprocess, e.g. \"Bug report\" or \"IT Request\".": "Request Types allow you to categorize requests created in Service Desk and Targetprocess, e.g. \"Bug report\" or \"IT Request\".",
     "Request Types are applied for all processes. You can add, rename, and delete Request Types here, but at least one type is required.": "Request Types are applied for all processes. You can add, rename, and delete Request Types here, but at least one type is required.",
-    "Add Type": "Add Type"
+    "Add Type": "Add Type",
+    "This tag is used for {count} {count, plural, one {entity} other {entities}}": "This tag is used for {count} {count, plural, one {entity} other {entities}}",
+    "Choose a name to merge the selected tags under:": "Choose a name to merge the selected tags under:",
+    "You can change this tag name later": "You can change this tag name later",
+    "Are you sure you want to delete {count} {count, plural, one {tag} other {tags}}?": "Are you sure you want to delete {count} {count, plural, one {tag} other {tags}}?",
+    "Previous {tagsPerPage}": "Previous {tagsPerPage}",
+    "Next {tagsPerPage}": "Next {tagsPerPage}",
+    "Rename tag": "Rename tag",
+    "Merge {count} tags": "Merge {count} tags",
+    "Delete {count} {count, plural, one {tag} other {tags}}": "Delete {count} {count, plural, one {tag} other {tags}}",
+    "Search tags": "Search tags",
+    "There are no tags containing '{filter}\\'": "There are no tags containing '{filter}\\'"
 }
