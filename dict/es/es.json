@@ -3416,5 +3416,7 @@
     "Password must be set to start using System user.": "Password must be set to start using System user.",
     "Login or Active Directory Name of System User": "Login or Active Directory Name of System User",
     "Password {hint}": "Password {hint}",
-    "(type the new password if you want to change it)": "(type the new password if you want to change it)"
+    "(type the new password if you want to change it)": "(type the new password if you want to change it)",
+    "The changes you've made in the last {throttleWaitTime} {throttleWaitTime, plural, one {second} other {seconds}} can\\'t be saved because the description was just modified by another user.": "The changes you've made in the last {throttleWaitTime} {throttleWaitTime, plural, one {second} other {seconds}} can\\'t be saved because the description was just modified by another user.",
+    "Please, <a target=\"_blank\" href=\"{url}\">open the modified description in a new tab</a> to edit it.": "Please, <a target=\"_blank\" href=\"{url}\">open the modified description in a new tab</a> to edit it."
 }
