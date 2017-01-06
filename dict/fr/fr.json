@@ -3418,5 +3418,6 @@
     "Password {hint}": "Password {hint}",
     "(type the new password if you want to change it)": "(type the new password if you want to change it)",
     "The changes you've made in the last {throttleWaitTime} {throttleWaitTime, plural, one {second} other {seconds}} can\\'t be saved because the description was just modified by another user.": "The changes you've made in the last {throttleWaitTime} {throttleWaitTime, plural, one {second} other {seconds}} can\\'t be saved because the description was just modified by another user.",
-    "Please, <a target=\"_blank\" href=\"{url}\">open the modified description in a new tab</a> to edit it.": "Please, <a target=\"_blank\" href=\"{url}\">open the modified description in a new tab</a> to edit it."
+    "Please, <a target=\"_blank\" href=\"{url}\">open the modified description in a new tab</a> to edit it.": "Please, <a target=\"_blank\" href=\"{url}\">open the modified description in a new tab</a> to edit it.",
+    "Jump to a view": "Jump to a view"
 }
