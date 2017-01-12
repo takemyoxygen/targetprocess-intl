@@ -3431,5 +3431,6 @@
     "No such User or Role found": "No such User or Role found",
     "No available Users": "No available Users",
     "Log out": "Log out",
-    "Projects for this view are either inactive or are unavailable for you due to permissions": "Projects for this view are either inactive or are unavailable for you due to permissions"
+    "Projects for this view are either inactive or are unavailable for you due to permissions": "Projects for this view are either inactive or are unavailable for you due to permissions",
+    "Mashups": "Mashups"
 }
