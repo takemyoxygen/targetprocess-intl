@@ -3452,5 +3452,7 @@
     "Get diagnostic report": "Get diagnostic report",
     "Something is wrong with the search. Try again.": "Something is wrong with the search. Try again.",
     "Enter text to search": "Enter text to search",
-    "Something is wrong with the search. Please, try again later": "Something is wrong with the search. Please, try again later"
+    "Something is wrong with the search. Please, try again later": "Something is wrong with the search. Please, try again later",
+    "Global Id": "Global Id",
+    "Default process": "Default process"
 }
