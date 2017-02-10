@@ -3475,5 +3475,6 @@
     "When a workflow has multiple final states, the default final state is picked for automatic rules like closing User Story when its Tasks are closed. Also, all default final states are grouped into a single lane on a board view.": "When a workflow has multiple final states, the default final state is picked for automatic rules like closing User Story when its Tasks are closed. Also, all default final states are grouped into a single lane on a board view.",
     "The tag '{tag}' should not contain comma character.": "The tag '{tag}' should not contain comma character.",
     "Authentication token for System User cannot be obtained. A secure password for System User account has not been set yet. Please set the password in Settings -> Authentication and Security -> System User first.": "Authentication token for System User cannot be obtained. A secure password for System User account has not been set yet. Please set the password in Settings -> Authentication and Security -> System User first.",
-    "Password must be set to start using System User.": "Password must be set to start using System User."
+    "Password must be set to start using System User.": "Password must be set to start using System User.",
+    "Please, specify the rules. Empty rules are not allowed.": "Please, specify the rules. Empty rules are not allowed."
 }
