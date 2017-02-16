@@ -3476,5 +3476,10 @@
     "The tag '{tag}' should not contain comma character.": "The tag '{tag}' should not contain comma character.",
     "Authentication token for System User cannot be obtained. A secure password for System User account has not been set yet. Please set the password in Settings -> Authentication and Security -> System User first.": "Authentication token for System User cannot be obtained. A secure password for System User account has not been set yet. Please set the password in Settings -> Authentication and Security -> System User first.",
     "Password must be set to start using System User.": "Password must be set to start using System User.",
-    "Please, specify the rules. Empty rules are not allowed.": "Please, specify the rules. Empty rules are not allowed."
+    "Please, specify the rules. Empty rules are not allowed.": "Please, specify the rules. Empty rules are not allowed.",
+    "You need to be assigned to a Project to use reports.": "You need to be assigned to a Project to use reports.",
+    "{sizeInBytes} {sizeInBytes, plural, one {byte} other {bytes}}": "{sizeInBytes} {sizeInBytes, plural, one {byte} other {bytes}}",
+    "{sizeInUnit} {unit} ({sizeInBytes} {sizeInBytes, plural, one {byte} other {bytes}})": "{sizeInUnit} {unit} ({sizeInBytes} {sizeInBytes, plural, one {byte} other {bytes}})",
+    "File maximum size is exceeded. It should be less than {maxFileSize}, but it is {fileSize}.": "File maximum size is exceeded. It should be less than {maxFileSize}, but it is {fileSize}.",
+    "File maximum size is exceeded.": "File maximum size is exceeded."
 }
