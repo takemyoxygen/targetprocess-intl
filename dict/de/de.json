@@ -3481,5 +3481,6 @@
     "{sizeInBytes} {sizeInBytes, plural, one {byte} other {bytes}}": "{sizeInBytes} {sizeInBytes, plural, one {byte} other {bytes}}",
     "{sizeInUnit} {unit} ({sizeInBytes} {sizeInBytes, plural, one {byte} other {bytes}})": "{sizeInUnit} {unit} ({sizeInBytes} {sizeInBytes, plural, one {byte} other {bytes}})",
     "File maximum size is exceeded. It should be less than {maxFileSize}, but it is {fileSize}.": "File maximum size is exceeded. It should be less than {maxFileSize}, but it is {fileSize}.",
-    "File maximum size is exceeded.": "File maximum size is exceeded."
+    "File maximum size is exceeded.": "File maximum size is exceeded.",
+    "Passed: {passed, number, integer}, Failed: {failed, number, integer}, Not Run: {notRun, number, integer} (On Hold: {hold, number, integer} / Blocked: {blocked, number, integer})": "Passed: {passed, number, integer}, Failed: {failed, number, integer}, Not Run: {notRun, number, integer} (On Hold: {hold, number, integer} / Blocked: {blocked, number, integer})"
 }
