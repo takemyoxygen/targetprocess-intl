@@ -3294,7 +3294,7 @@
     "Import": "Import",
     "Email Notifications": "Email Notifications",
     "Plugins": "Plugins",
-    "General Settings": "Общие настройки системы",
+    "General Settings": "Общие настройки",
     "Diagnostic and Logs": "Diagnostic and Logs",
     "Cannot delete '{Name}' Request Type. At least one Request Type is required.": "Cannot delete '{Name}' Request Type. At least one Request Type is required.",
     "Select all Teams": "Select all Teams",
