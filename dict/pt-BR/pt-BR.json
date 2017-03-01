@@ -3490,5 +3490,6 @@
     "When a new requester automatically added from inbound email, he will receive an email notification with Help Desk Portal access information.": "When a new requester automatically added from inbound email, he will receive an email notification with Help Desk Portal access information.",
     "System User can be used to access TargetProcess SOAP Web Services and in Help Desk Portal connection.": "System User can be used to access TargetProcess SOAP Web Services and in Help Desk Portal connection.",
     "Change System User carefully, since it can break existing integrations.": "Change System User carefully, since it can break existing integrations.",
-    "Contact us": "Contact us"
+    "Contact us": "Contact us",
+    "Show All": "Show All"
 }
