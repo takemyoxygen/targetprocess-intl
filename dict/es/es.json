@@ -3665,5 +3665,7 @@
     "Is Changed User": "Is Changed User",
     "Is Changed Role": "Is Changed Role",
     "Team Member History": "Team Member History",
-    "Team Member Histories": "Team Member Histories"
+    "Team Member Histories": "Team Member Histories",
+    "Can not use Calculated Custom Fields in Calculated Custom Fields. Error with {fieldsCount, plural, one {field} other {fields}} {fieldNames}.": "Can not use Calculated Custom Fields in Calculated Custom Fields. Error with {fieldsCount, plural, one {field} other {fields}} {fieldNames}.",
+    "Open another view with the currently selected Projects and Teams": "Open another view with the currently selected Projects and Teams"
 }
