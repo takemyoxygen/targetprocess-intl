@@ -1816,7 +1816,7 @@
     "User Stories sparkline provides an overview of progress over the last 16 weeks. Top: done user stories per week. Bottom: added user stories per week.": "O minigráfico de Histórias de Usuário fornece uma visão geral do progresso nas últimas 16 semanas. Topo: histórias de usuário concluídas por semana. Fundo: histórias de usuário adicionadas por semana.",
     "Bugs sparkline provides an overview of progress over the last 16 weeks. Top: closed bugs per week. Bottom: added bugs per week.": "O minigráfico de Bugs fornece uma visão geral do progresso nas últimas 16 semanas. Topo: bugs fechados por semana. Fundo: bugs adicionados por semana.",
     "Burn down link": "Link para gráfico Burndown",
-    "{fieldName} custom field": "campo personalizado {fieldName}",
+    "{fieldName} custom field": "{fieldName}",
     "Entity with id {entityId} could not be found.": "Não foi possível encontrar a enidade com ID {entityId}.",
     "Effort should be non-negative, but it was {value}": "O Esforço não pode ser negativo, o valor era {value}",
     "EffortCompleted should be non-negative, but it was {value}": "O EsforçoConcluído não pode ser negativo, o valor era {value}",

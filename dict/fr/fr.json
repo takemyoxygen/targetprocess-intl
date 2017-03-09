@@ -1816,7 +1816,7 @@
     "User Stories sparkline provides an overview of progress over the last 16 weeks. Top: done user stories per week. Bottom: added user stories per week.": "Le graphique sparkline des Récits utilisateur apporte un aperçu de la progression pendant les 16 dernières semaines. En haut : récits utilisateur terminés par semaine. En bas : récits utilisateur ajoutés par semaine.",
     "Bugs sparkline provides an overview of progress over the last 16 weeks. Top: closed bugs per week. Bottom: added bugs per week.": "Le graphique sparkline des Bogues apporte un aperçu de la progression pendant les 16 dernières semaines. En haut : bogues résolus par semaine. En bas : bogues ajoutés par semaine.",
     "Burn down link": "Lien du graphique d'avancement",
-    "{fieldName} custom field": "Champ personnalisé {fieldName}",
+    "{fieldName} custom field": "{fieldName}",
     "Entity with id {entityId} could not be found.": "L'entité avec l'ID {entityId} est introuvable.",
     "Effort should be non-negative, but it was {value}": "L'Effort ne peut être négatif, mais il était {value}",
     "EffortCompleted should be non-negative, but it was {value}": "EffortCompleted ne doit pas être négatif, mais il était {value}",
