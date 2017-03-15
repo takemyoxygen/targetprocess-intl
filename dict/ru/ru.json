@@ -964,7 +964,7 @@
     "State": "Статус",
     "{subStateName} ({stateName} for {teamName})": "{subStateName} ({stateName} для {teamName})",
     "Old Edit": "Редактирование из TP2",
-    "Print View": "Режим печати",
+    "Print View": "Print View",
     "Move or Copy": "Переместить или копировать",
     "Attach to {requestTerm}": "Присоединить к {requestTerm}",
     "Private?": "Личный?",
@@ -3668,5 +3668,13 @@
     "Team Member Histories": "Team Member Histories",
     "Can not use Calculated Custom Fields in Calculated Custom Fields. Error with {fieldsCount, plural, one {field} other {fields}} {fieldNames}.": "Can not use Calculated Custom Fields in Calculated Custom Fields. Error with {fieldsCount, plural, one {field} other {fields}} {fieldNames}.",
     "Open another view with the currently selected Projects and Teams": "Open another view with the currently selected Projects and Teams",
-    "Email notification was sent to {count} participants": "Email notification was sent to {count} participants"
+    "Email notification was sent to {count} participants": "Email notification was sent to {count} participants",
+    "Entity type should be specified": "Entity type should be specified",
+    "Entity ID should be specified and it should be a positive integer number": "Entity ID should be specified and it should be a positive integer number",
+    "State kind should be specified. Supported values: {supportedStateCategories}": "State kind should be specified. Supported values: {supportedStateCategories}",
+    "'{entityType}' is not a supported entity type": "'{entityType}' is not a supported entity type",
+    "'{entityType}' does not support entity state modifications": "'{entityType}' does not support entity state modifications",
+    "Unable to build entity state filter for state category '{stateCategory}'": "Unable to build entity state filter for state category '{stateCategory}'",
+    "Unable to find {entityType}#{entityId}": "Unable to find {entityType}#{entityId}",
+    "Unable to find a proper state matching the request": "Unable to find a proper state matching the request"
 }
