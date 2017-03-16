@@ -3676,5 +3676,9 @@
     "'{entityType}' does not support entity state modifications": "'{entityType}' does not support entity state modifications",
     "Unable to build entity state filter for state category '{stateCategory}'": "Unable to build entity state filter for state category '{stateCategory}'",
     "Unable to find {entityType}#{entityId}": "Unable to find {entityType}#{entityId}",
-    "Unable to find a proper state matching the request": "Unable to find a proper state matching the request"
+    "Unable to find a proper state matching the request": "Unable to find a proper state matching the request",
+    "We noticed that you're expanding list levels.": "We noticed that you're expanding list levels.",
+    "We noticed that you're expanding cards one by one.": "We noticed that you're expanding cards one by one.",
+    "Expand all cards in list": "Expand all cards in list",
+    "Expand All": "Expand All"
 }
