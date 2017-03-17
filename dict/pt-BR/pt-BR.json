@@ -3680,5 +3680,8 @@
     "We noticed that you're expanding list levels.": "We noticed that you're expanding list levels.",
     "We noticed that you're expanding cards one by one.": "We noticed that you're expanding cards one by one.",
     "Expand all cards in list": "Expand all cards in list",
-    "Expand All": "Expand All"
+    "Expand All": "Expand All",
+    "Fail to reload value of {fields} {fieldsCount, plural, one {field} other {fields}}.": "Fail to reload value of {fields} {fieldsCount, plural, one {field} other {fields}}.",
+    "Attach": "Attach",
+    "Detach": "Detach"
 }
