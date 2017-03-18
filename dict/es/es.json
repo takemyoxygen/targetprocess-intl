@@ -3683,5 +3683,8 @@
     "Expand All": "Expand All",
     "Fail to reload value of {fields} {fieldsCount, plural, one {field} other {fields}}.": "Fail to reload value of {fields} {fieldsCount, plural, one {field} other {fields}}.",
     "Attach": "Attach",
-    "Detach": "Detach"
+    "Detach": "Detach",
+    "Global rules": "Global rules",
+    "Will be applied to all views and all users": "Will be applied to all views and all users",
+    "View rules": "View rules"
 }
