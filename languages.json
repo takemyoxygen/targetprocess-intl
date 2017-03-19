@@ -34,9 +34,9 @@
     "name": "Portuguese (Brazil)",
     "stats": {
       "totalTokensCount": 3691,
-      "translatedTokensCount": 3085,
+      "translatedTokensCount": 3663,
       "reviewedTokensCount": 2903,
-      "translatedWordsCount": 16437
+      "translatedWordsCount": 20029
     }
   },
   {
@@ -45,7 +45,7 @@
     "stats": {
       "totalTokensCount": 3691,
       "translatedTokensCount": 3210,
-      "reviewedTokensCount": 3147,
+      "reviewedTokensCount": 3192,
       "translatedWordsCount": 16917
     }
   },
