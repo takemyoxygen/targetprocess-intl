@@ -3686,5 +3686,12 @@
     "Detach": "Detach",
     "Global rules": "Global rules",
     "Will be applied to all views and all users": "Will be applied to all views and all users",
-    "View rules": "View rules"
+    "View rules": "View rules",
+    "Hidden metric": "Hidden metric",
+    "Hidden internal metric. Should not be visible to user.": "Hidden internal metric. Should not be visible to user.",
+    "Custom formula": "Custom formula",
+    "Allows you to assign a custom calculation formula to a custom field": "Allows you to assign a custom calculation formula to a custom field",
+    "Effort via Relations": "Effort via Relations",
+    "Allows to calculate efforts of the entity using its Relations": "Allows to calculate efforts of the entity using its Relations",
+    "Targetprocess uses some predefined metrics by default. You can add new metric here to override defaults.": "Targetprocess uses some predefined metrics by default. You can add new metric here to override defaults."
 }
