@@ -3689,9 +3689,9 @@
     "View rules": "View rules",
     "Hidden metric": "Hidden metric",
     "Hidden internal metric. Should not be visible to user.": "Hidden internal metric. Should not be visible to user.",
-    "Custom formula": "Custom formula",
-    "Allows you to assign a custom calculation formula to a custom field": "Allows you to assign a custom calculation formula to a custom field",
-    "Effort via Relations": "Effort via Relations",
-    "Allows to calculate efforts of the entity using its Relations": "Allows to calculate efforts of the entity using its Relations",
+    "Custom formula": "тест20",
+    "Allows you to assign a custom calculation formula to a custom field": "тест21",
+    "Effort via Relations": "тест22",
+    "Allows to calculate efforts of the entity using its Relations": "тест 23",
     "Targetprocess uses some predefined metrics by default. You can add new metric here to override defaults.": "тест12"
 }
