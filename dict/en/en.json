@@ -3693,5 +3693,6 @@
     "Allows you to assign a custom calculation formula to a custom field": "Allows you to assign a custom calculation formula to a custom field",
     "Effort via Relations": "Effort via Relations",
     "Allows to calculate efforts of the entity using its Relations": "Allows to calculate efforts of the entity using its Relations",
-    "Targetprocess uses some predefined metrics by default. You can add new metric here to override defaults.": "Targetprocess uses some predefined metrics by default. You can add new metric here to override defaults."
+    "Targetprocess uses some predefined metrics by default. You can add new metric here to override defaults.": "Targetprocess uses some predefined metrics by default. You can add new metric here to override defaults.",
+    "Type @ to mention a person or a team": "Type @ to mention a person or a team"
 }
