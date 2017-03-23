@@ -3694,5 +3694,13 @@
     "Effort via Relations": "Effort via Relations",
     "Allows to calculate efforts of the entity using its Relations": "Allows to calculate efforts of the entity using its Relations",
     "Targetprocess uses some predefined metrics by default. You can add new metric here to override defaults.": "Targetprocess uses some predefined metrics by default. You can add new metric here to override defaults.",
-    "Type @ to mention a person or a team": "Type @ to mention a person or a team"
+    "Type @ to mention a person or a team": "Type @ to mention a person or a team",
+    "We noticed that you're expanding list levels. You can hold Ctrl/Cmd and click here to expand all nested levels at once (or click the Expand All button to expand the whole list)": "We noticed that you're expanding list levels. You can hold Ctrl/Cmd and click here to expand all nested levels at once (or click the Expand All button to expand the whole list)",
+    "We noticed that you're expanding cards one by one. Click here to collapse or expand all cards in this subtree at once.": "We noticed that you're expanding cards one by one. Click here to collapse or expand all cards in this subtree at once.",
+    "The changes you've made in the last {throttleWaitTime} {throttleWaitTime, plural, one {second} other {seconds}} can't be saved because the description was just modified by another user.": "The changes you've made in the last {throttleWaitTime} {throttleWaitTime, plural, one {second} other {seconds}} can't be saved because the description was just modified by another user.",
+    "You can set custom highlighting for the cards on this View. A card can have up to three colors applied at one time.": "You can set custom highlighting for the cards on this View. A card can have up to three colors applied at one time.",
+    "There are no tags containing '{filter}'": "There are no tags containing '{filter}'",
+    "Are you sure you want to delete '{requestName}' Request Type?": "Are you sure you want to delete '{requestName}' Request Type?",
+    "Track Stories' and Bugs' progress": "Track Stories' and Bugs' progress",
+    "Sorry, there is nothing to show here. Please, choose another item or change filter to a less strict one.": "Sorry, there is nothing to show here. Please, choose another item or change filter to a less strict one."
 }
