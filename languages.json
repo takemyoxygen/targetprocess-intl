@@ -3,60 +3,60 @@
     "code": "en",
     "name": "English",
     "stats": {
-      "totalTokensCount": 3619,
-      "translatedTokensCount": 3619,
+      "totalTokensCount": 3587,
+      "translatedTokensCount": 3587,
       "reviewedTokensCount": 0,
-      "translatedWordsCount": 19703
+      "translatedWordsCount": 19533
     }
   },
   {
     "code": "fr",
     "name": "French",
     "stats": {
-      "totalTokensCount": 3619,
-      "translatedTokensCount": 3578,
-      "reviewedTokensCount": 2919,
-      "translatedWordsCount": 19491
+      "totalTokensCount": 3587,
+      "translatedTokensCount": 3545,
+      "reviewedTokensCount": 2905,
+      "translatedWordsCount": 19319
     }
   },
   {
     "code": "de",
     "name": "German",
     "stats": {
-      "totalTokensCount": 3619,
-      "translatedTokensCount": 3383,
-      "reviewedTokensCount": 3383,
-      "translatedWordsCount": 17802
+      "totalTokensCount": 3587,
+      "translatedTokensCount": 3434,
+      "reviewedTokensCount": 3434,
+      "translatedWordsCount": 18634
     }
   },
   {
     "code": "pt-BR",
     "name": "Portuguese (Brazil)",
     "stats": {
-      "totalTokensCount": 3619,
-      "translatedTokensCount": 3579,
-      "reviewedTokensCount": 2903,
-      "translatedWordsCount": 19500
+      "totalTokensCount": 3587,
+      "translatedTokensCount": 3546,
+      "reviewedTokensCount": 2889,
+      "translatedWordsCount": 19328
     }
   },
   {
     "code": "ru",
     "name": "Russian",
     "stats": {
-      "totalTokensCount": 3619,
+      "totalTokensCount": 3587,
       "translatedTokensCount": 3380,
-      "reviewedTokensCount": 3275,
-      "translatedWordsCount": 18102
+      "reviewedTokensCount": 3236,
+      "translatedWordsCount": 18357
     }
   },
   {
     "code": "es",
     "name": "Spanish",
     "stats": {
-      "totalTokensCount": 3619,
-      "translatedTokensCount": 3608,
-      "reviewedTokensCount": 2919,
-      "translatedWordsCount": 19554
+      "totalTokensCount": 3587,
+      "translatedTokensCount": 3575,
+      "reviewedTokensCount": 2905,
+      "translatedWordsCount": 19382
     }
   }
 ]
