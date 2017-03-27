@@ -15,7 +15,7 @@
     "stats": {
       "totalTokensCount": 3587,
       "translatedTokensCount": 3545,
-      "reviewedTokensCount": 2905,
+      "reviewedTokensCount": 2784,
       "translatedWordsCount": 19319
     }
   },
@@ -24,9 +24,9 @@
     "name": "German",
     "stats": {
       "totalTokensCount": 3587,
-      "translatedTokensCount": 3434,
+      "translatedTokensCount": 3562,
       "reviewedTokensCount": 3434,
-      "translatedWordsCount": 18634
+      "translatedWordsCount": 19328
     }
   },
   {
@@ -44,9 +44,9 @@
     "name": "Russian",
     "stats": {
       "totalTokensCount": 3587,
-      "translatedTokensCount": 3380,
-      "reviewedTokensCount": 3375,
-      "translatedWordsCount": 18357
+      "translatedTokensCount": 3411,
+      "reviewedTokensCount": 3373,
+      "translatedWordsCount": 18487
     }
   },
   {
