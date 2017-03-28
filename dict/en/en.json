@@ -3550,5 +3550,6 @@
     "Are you sure you want to delete '{requestName}' Request Type?": "Are you sure you want to delete '{requestName}' Request Type?",
     "Track Stories' and Bugs' progress": "Track Stories' and Bugs' progress",
     "Sorry, there is nothing to show here. Please, choose another item or change filter to a less strict one.": "Sorry, there is nothing to show here. Please, choose another item or change filter to a less strict one.",
-    "{mostActualProgress,number}% completed": "{mostActualProgress,number}% completed"
+    "{mostActualProgress,number}% completed": "{mostActualProgress,number}% completed",
+    "Used{teamsLabel}{projectsLabel}": "Used{teamsLabel}{projectsLabel}"
 }
