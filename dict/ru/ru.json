@@ -3551,5 +3551,6 @@
     "Track Stories' and Bugs' progress": "Вы можете следить за прогрессом юзер-стори и багов",
     "Sorry, there is nothing to show here. Please, choose another item or change filter to a less strict one.": "Sorry, there is nothing to show here. Please, choose another item or change filter to a less strict one.",
     "{mostActualProgress,number}% completed": "{mostActualProgress,number}% завершено",
-    "Used{teamsLabel}{projectsLabel}": "Used{teamsLabel}{projectsLabel}"
+    "Used{teamsLabel}{projectsLabel}": "Used{teamsLabel}{projectsLabel}",
+    "Is Add Enabled": "Is Add Enabled"
 }
