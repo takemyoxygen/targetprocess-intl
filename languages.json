@@ -15,7 +15,7 @@
     "stats": {
       "totalTokensCount": 3602,
       "translatedTokensCount": 3545,
-      "reviewedTokensCount": 2784,
+      "reviewedTokensCount": 3542,
       "translatedWordsCount": 19319
     }
   },
@@ -45,7 +45,7 @@
     "stats": {
       "totalTokensCount": 3602,
       "translatedTokensCount": 3468,
-      "reviewedTokensCount": 3410,
+      "reviewedTokensCount": 3444,
       "translatedWordsCount": 18944
     }
   },
