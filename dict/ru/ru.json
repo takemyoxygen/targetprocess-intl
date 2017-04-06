@@ -3043,7 +3043,7 @@
     "From General Type": "From General Type",
     "Actual General": "Actual General",
     "General Conversion ID": "General Conversion ID",
-    "{newItemType, select, board {Board} list {List} timeline {Timeline} oneByOne {One-by-one view} group {Group} report {Report} dashboard {Dashboard} other {{newItemType}} }": "{newItemType, select, board {Board} list {List} timeline {Timeline} oneByOne {One-by-one view} group {Group} report {Report} dashboard {Dashboard} other {{newItemType}} }",
+    "{newItemType, select, board {Board} list {List} timeline {Timeline} oneByOne {One-by-one view} group {Group} report {Report} dashboard {Dashboard} other {{newItemType}} }": "{newItemType, select, board {Доску} list {Список} timeline {Таймлайн} oneByOne {Одна за одной} group {Группу} report {Отчёт} dashboard {Дашборд} other {{newItemType}} }",
     "Multiple Values means that items you've selected have some different values. We will show common values if only all items have the same values.": "Несколько значений означает, что у выбранных сущностей отличаются некоторые значения. Общие значения будут показаны, только если они одинаковы для всех сущностей.",
     "New List": "Новый список",
     "New Timeline": "Новый таймлайн",
