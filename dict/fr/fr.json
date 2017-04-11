@@ -3541,5 +3541,6 @@
     "Sorry, there is nothing to show here. Please, choose another item or change filter to a less strict one.": "Sorry, there is nothing to show here. Please, choose another item or change filter to a less strict one.",
     "{mostActualProgress,number}% completed": "{mostActualProgress,number}% completed",
     "Used{teamsLabel}{projectsLabel}": "Used{teamsLabel}{projectsLabel}",
-    "Is Add Enabled": "Is Add Enabled"
+    "Is Add Enabled": "Is Add Enabled",
+    "Help Desk Portal is a separate web based application that communicates with Targetprocess. It allows your customers to post requests and ideas, discuss requests.": "Help Desk Portal is a separate web based application that communicates with Targetprocess. It allows your customers to post requests and ideas, discuss requests."
 }

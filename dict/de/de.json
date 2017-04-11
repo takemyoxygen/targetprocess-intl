@@ -3528,9 +3528,9 @@
     "Custom formula": "Benutzerdefinierte Formel",
     "Allows you to assign a custom calculation formula to a custom field": "Erlaubt es eine benutzerdefinierte Formel einem benutzerdefinierten Feld zuzuweisen",
     "Effort via Relations": "Aufwand durch Relationen",
-    "Allows to calculate efforts of the entity using its Relations": "Allows to calculate efforts of the entity using its Relations",
+    "Allows to calculate efforts of the entity using its Relations": "Erlaubt Aufwände basierend auf Relationen zu berechnen",
     "Targetprocess uses some predefined metrics by default. You can add new metric here to override defaults.": "Targetprocess uses some predefined metrics by default. You can add new metric here to override defaults.",
-    "Type @ to mention a person or a team": "Type @ to mention a person or a team",
+    "Type @ to mention a person or a team": "Durch Eingabe von @ Person oder Team erwähnen",
     "We noticed that you're expanding list levels. You can hold Ctrl/Cmd and click here to expand all nested levels at once (or click the Expand All button to expand the whole list)": "We noticed that you're expanding list levels. You can hold Ctrl/Cmd and click here to expand all nested levels at once (or click the Expand All button to expand the whole list)",
     "We noticed that you're expanding cards one by one. Click here to collapse or expand all cards in this subtree at once.": "We noticed that you're expanding cards one by one. Click here to collapse or expand all cards in this subtree at once.",
     "The changes you've made in the last {throttleWaitTime} {throttleWaitTime, plural, one {second} other {seconds}} can't be saved because the description was just modified by another user.": "The changes you've made in the last {throttleWaitTime} {throttleWaitTime, plural, one {second} other {seconds}} can't be saved because the description was just modified by another user.",
@@ -3541,5 +3541,6 @@
     "Sorry, there is nothing to show here. Please, choose another item or change filter to a less strict one.": "Sorry, there is nothing to show here. Please, choose another item or change filter to a less strict one.",
     "{mostActualProgress,number}% completed": "{mostActualProgress,number}% completed",
     "Used{teamsLabel}{projectsLabel}": "Used{teamsLabel}{projectsLabel}",
-    "Is Add Enabled": "Is Add Enabled"
+    "Is Add Enabled": "Is Add Enabled",
+    "Help Desk Portal is a separate web based application that communicates with Targetprocess. It allows your customers to post requests and ideas, discuss requests.": "Help Desk Portal is a separate web based application that communicates with Targetprocess. It allows your customers to post requests and ideas, discuss requests."
 }
