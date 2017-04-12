@@ -3542,5 +3542,11 @@
     "{mostActualProgress,number}% completed": "{mostActualProgress,number}% завершено",
     "Used{teamsLabel}{projectsLabel}": "Used{teamsLabel}{projectsLabel}",
     "Is Add Enabled": "Включено ли добавление",
-    "Help Desk Portal is a separate web based application that communicates with Targetprocess. It allows your customers to post requests and ideas, discuss requests.": "Help Desk Portal is a separate web based application that communicates with Targetprocess. It allows your customers to post requests and ideas, discuss requests."
+    "Help Desk Portal is a separate web based application that communicates with Targetprocess. It allows your customers to post requests and ideas, discuss requests.": "Help Desk Portal is a separate web based application that communicates with Targetprocess. It allows your customers to post requests and ideas, discuss requests.",
+    "Is Private By Default": "Is Private By Default",
+    "Is Voting Enabled": "Is Voting Enabled",
+    "Enable or disable user voting on the selected Request type. If disabled, the vote button will not be displayed.": "Enable or disable user voting on the selected Request type. If disabled, the vote button will not be displayed.",
+    "When adding a new Request, the \"Private\" checkbox will be either checked or unchecked by default. Users can always change the visibility manually.": "When adding a new Request, the \"Private\" checkbox will be either checked or unchecked by default. Users can always change the visibility manually.",
+    "Enabled": "Enabled",
+    "Disabled": "Disabled"
 }
