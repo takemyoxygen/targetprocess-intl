@@ -3548,5 +3548,12 @@
     "Enable or disable user voting on the selected Request type. If disabled, the vote button will not be displayed.": "Enable or disable user voting on the selected Request type. If disabled, the vote button will not be displayed.",
     "When adding a new Request, the \"Private\" checkbox will be either checked or unchecked by default. Users can always change the visibility manually.": "When adding a new Request, the \"Private\" checkbox will be either checked or unchecked by default. Users can always change the visibility manually.",
     "Enabled": "Enabled",
-    "Disabled": "Disabled"
+    "Disabled": "Disabled",
+    "is inactive": "is inactive",
+    "Deleted On": "Deleted On",
+    "Deleted By": "Deleted By",
+    "There are no deleted projects in the system.": "There are no deleted projects in the system.",
+    "Restore": "Restore",
+    "Project {projectLink} was restored.": "Project {projectLink} was restored.",
+    "Deleted Items": "Deleted Items"
 }
