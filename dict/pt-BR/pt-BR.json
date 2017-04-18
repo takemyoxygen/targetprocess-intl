@@ -3555,5 +3555,15 @@
     "There are no deleted projects in the system.": "There are no deleted projects in the system.",
     "Restore": "Restore",
     "Project {projectLink} was restored.": "Project {projectLink} was restored.",
-    "Deleted Items": "Deleted Items"
+    "Deleted Items": "Deleted Items",
+    "Deleted user wasn't restored because there is another active user with the same login in the system.": "Deleted user wasn't restored because there is another active user with the same login in the system.",
+    "Deleted user wasn't restored because there is another user with the same Active Directory user name in the system.": "Deleted user wasn't restored because there is another user with the same Active Directory user name in the system.",
+    "Some of the emails belong to deleted users.": "Some of the emails belong to deleted users.",
+    "Restore deleted users": "Restore deleted users",
+    "Create new users": "Create new users",
+    "Deleted user found": "Deleted user found",
+    "restore the deleted user": "restore the deleted user",
+    "create a new one": "create a new one",
+    "Deleted user wasn’t restored because there is another active user with the same login in the system.": "Deleted user wasn’t restored because there is another active user with the same login in the system.",
+    "Found deleted user {name} with email {email}. You can {restore} or {createNew}.": "Found deleted user {name} with email {email}. You can {restore} or {createNew}."
 }
