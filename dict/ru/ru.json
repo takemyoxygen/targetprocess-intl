@@ -3391,7 +3391,7 @@
     "When a new requester automatically added from inbound email, he will receive an email notification with Help Desk Portal access information.": "При автоматическом добавлении нового реквестера из входящего email реквестеру отправляется email-уведомление с информацией о доступе к Help Desk.",
     "System User can be used to access TargetProcess SOAP Web Services and in Help Desk Portal connection.": "Системный пользователь может быть использован для доступа к SOAP-веб-сервисам Targetprocess, а также для подключения к порталу Help Desk.",
     "Change System User carefully, since it can break existing integrations.": "Будьте осторожны с изменениями в системном пользователе, поскольку они могут повлиять на имеющиеся интеграции.",
-    "Contact us": "Наши контакты",
+    "Contact us": "Свяжитесь с нами",
     "User Story Simple History": "User Story Simple History",
     "User Story Simple Histories": "User Story Simple Histories",
     "Bug Simple History": "Bug Simple History",
