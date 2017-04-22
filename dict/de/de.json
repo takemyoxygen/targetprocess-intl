@@ -3565,5 +3565,10 @@
     "restore the deleted user": "restore the deleted user",
     "create a new one": "create a new one",
     "Deleted user wasn’t restored because there is another active user with the same login in the system.": "Deleted user wasn’t restored because there is another active user with the same login in the system.",
-    "Found deleted user {name} with email {email}. You can {restore} or {createNew}.": "Found deleted user {name} with email {email}. You can {restore} or {createNew}."
+    "Found deleted user {name} with email {email}. You can {restore} or {createNew}.": "Found deleted user {name} with email {email}. You can {restore} or {createNew}.",
+    "[Uploading {originName}…]()": "[Uploading {originName}…]()",
+    "There are no deleted users in the system.": "There are no deleted users in the system.",
+    "User {userLink} was restored.": "User {userLink} was restored.",
+    "Default Visibility": "Default Visibility",
+    "{teamMembersInProjectCount, plural, =0 {No person} =1 {{teamMembersInProjectCount} person} other {{teamMembersInProjectCount} people}} in this Team assigned to Project": "{teamMembersInProjectCount, plural, =0 {No person} =1 {{teamMembersInProjectCount} person} other {{teamMembersInProjectCount} people}} in this Team assigned to Project"
 }
