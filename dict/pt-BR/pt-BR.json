@@ -3570,5 +3570,6 @@
     "There are no deleted users in the system.": "There are no deleted users in the system.",
     "User {userLink} was restored.": "User {userLink} was restored.",
     "Default Visibility": "Default Visibility",
-    "{teamMembersInProjectCount, plural, =0 {No person} =1 {{teamMembersInProjectCount} person} other {{teamMembersInProjectCount} people}} in this Team assigned to Project": "{teamMembersInProjectCount, plural, =0 {No person} =1 {{teamMembersInProjectCount} person} other {{teamMembersInProjectCount} people}} in this Team assigned to Project"
+    "{teamMembersInProjectCount, plural, =0 {No person} =1 {{teamMembersInProjectCount} person} other {{teamMembersInProjectCount} people}} in this Team assigned to Project": "{teamMembersInProjectCount, plural, =0 {No person} =1 {{teamMembersInProjectCount} person} other {{teamMembersInProjectCount} people}} in this Team assigned to Project",
+    "Failed to move to another Project because it uses a different Process. You may lose some custom field values.": "Failed to move to another Project because it uses a different Process. You may lose some custom field values."
 }
