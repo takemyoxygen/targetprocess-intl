@@ -3571,5 +3571,12 @@
     "User {userLink} was restored.": "User {userLink} was restored.",
     "Default Visibility": "Default Visibility",
     "{teamMembersInProjectCount, plural, =0 {No person} =1 {{teamMembersInProjectCount} person} other {{teamMembersInProjectCount} people}} in this Team assigned to Project": "{teamMembersInProjectCount, plural, =0 {No person} =1 {{teamMembersInProjectCount} person} other {{teamMembersInProjectCount} people}} in this Team assigned to Project",
-    "Failed to move to another Project because it uses a different Process. You may lose some custom field values.": "Failed to move to another Project because it uses a different Process. You may lose some custom field values."
+    "Failed to move to another Project because it uses a different Process. You may lose some custom field values.": "Failed to move to another Project because it uses a different Process. You may lose some custom field values.",
+    "Is Pinned": "Is Pinned",
+    "Private comment": "Private comment",
+    "Pinned comment": "Pinned comment",
+    "Service Desk Attributes:": "Service Desk Attributes:",
+    "Pinned": "Pinned",
+    "The comment will not be displayed for requesters in Service Desk": "The comment will not be displayed for requesters in Service Desk",
+    "Latest pinned comment will appear as Last Official Reply in Service Desk": "Latest pinned comment will appear as Last Official Reply in Service Desk"
 }
