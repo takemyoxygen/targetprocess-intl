@@ -3578,5 +3578,9 @@
     "Service Desk Attributes:": "Service Desk Attributes:",
     "Pinned": "Pinned",
     "The comment will not be displayed for requesters in Service Desk": "The comment will not be displayed for requesters in Service Desk",
-    "Latest pinned comment will appear as Last Official Reply in Service Desk": "Latest pinned comment will appear as Last Official Reply in Service Desk"
+    "Latest pinned comment will appear as Last Official Reply in Service Desk": "Latest pinned comment will appear as Last Official Reply in Service Desk",
+    "{operator} operator works only with nullable numbers, bools, dates and strings for #{argumentNumber} argument. Actual type:'{type}'.": "{operator} operator works only with nullable numbers, bools, dates and strings for #{argumentNumber} argument. Actual type:'{type}'.",
+    "String, number, bool or date expected for {operator} operator in #{argumentNumber} argument instead of '{type}'.": "String, number, bool or date expected for {operator} operator in #{argumentNumber} argument instead of '{type}'.",
+    "Click to collapse level": "Click to collapse level",
+    "Click to expand level; Ctrl+click to expand all": "Click to expand level; Ctrl+click to expand all"
 }

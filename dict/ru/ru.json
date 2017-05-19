@@ -77,7 +77,7 @@
     "Many-to-Many axes are not supported.": "Оси «многие-ко-многим» не поддерживаются.",
     "Property '{propertyName}' does not exist in '{resourceFields}'.": "Поле «{propertyName}» отсутствует в {resourceFields}.",
     "Empty data item is not supported for grouped axes.": "Пустой элемент данных нельзя использовать в сгруппированных осях.",
-    "The custom field you've selected as lane is not available in this project(s).": "Дополнительное поле, которое вы выбрали в качестве оси, отсутствует в этом(их) проекте(ах).",
+    "The custom field you've selected as lane is not available in this project(s).": "The custom field you've selected as lane is not available in this project(s).",
     "It is not possible to move {targetEntityKind} in {axisEntityKind} axis.": "Перемещение {targetEntityKind} по оси {axisEntityKind} невозможно.",
     "Please, narrow your date range selection. It covers more than {cardsLimit} cards currently.": "Пожалуйста, сократите диапазон дат.  Превышен лимит в {cardsLimit} карточек.",
     "This is an unexpected error.": "Произошла ошибка.",
@@ -3036,7 +3036,7 @@
     "Could not delete {failedCount} {failedCount, plural, one {item} other {items}}.": "Не удалось удалить {failedCount} {failedCount, plural, one {сущность} few {сущности} other {сущностей}}.",
     "Could not delete {totalCards} {totalCards, plural, one {item} other {items}}.": "Не удалось удалить {totalCards} {totalCards, plural, one {сущность} few {сущности} other {сущностей}}.",
     "Entity '{entity}' is not available by its process practice": "Сущность «{entity}» недоступна согласно практике процесса",
-    "{entityTypeName} #{entityId} has been assigned to {userName} under the role of {roleName}": "{userName} назначен на {entityTypeName} #{entityId} в качестве {roleName}",
+    "{entityTypeName} #{entityId} has been assigned to {userName} under the role of {roleName}": "{entityTypeName} #{entityId} has been assigned to {userName} under the role of {roleName}",
     "General Conversion": "Общее преобразование",
     "General Conversions": "Общие преобразования",
     "From General ID": "Из ID обычной сущности",
@@ -3578,5 +3578,9 @@
     "Service Desk Attributes:": "Service Desk Attributes:",
     "Pinned": "Pinned",
     "The comment will not be displayed for requesters in Service Desk": "The comment will not be displayed for requesters in Service Desk",
-    "Latest pinned comment will appear as Last Official Reply in Service Desk": "Latest pinned comment will appear as Last Official Reply in Service Desk"
+    "Latest pinned comment will appear as Last Official Reply in Service Desk": "Latest pinned comment will appear as Last Official Reply in Service Desk",
+    "{operator} operator works only with nullable numbers, bools, dates and strings for #{argumentNumber} argument. Actual type:'{type}'.": "{operator} operator works only with nullable numbers, bools, dates and strings for #{argumentNumber} argument. Actual type:'{type}'.",
+    "String, number, bool or date expected for {operator} operator in #{argumentNumber} argument instead of '{type}'.": "String, number, bool or date expected for {operator} operator in #{argumentNumber} argument instead of '{type}'.",
+    "Click to collapse level": "Click to collapse level",
+    "Click to expand level; Ctrl+click to expand all": "Click to expand level; Ctrl+click to expand all"
 }
