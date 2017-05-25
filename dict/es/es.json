@@ -3583,5 +3583,8 @@
     "String, number, bool or date expected for {operator} operator in #{argumentNumber} argument instead of '{type}'.": "String, number, bool or date expected for {operator} operator in #{argumentNumber} argument instead of '{type}'.",
     "Click to collapse level": "Click to collapse level",
     "Click to expand level; Ctrl+click to expand all": "Click to expand level; Ctrl+click to expand all",
-    "You can add any view or folder to <b>Favorites</b> at the top of the menu to help you find it quickly.": "You can add any view or folder to <b>Favorites</b> at the top of the menu to help you find it quickly."
+    "You can add any view or folder to <b>Favorites</b> at the top of the menu to help you find it quickly.": "You can add any view or folder to <b>Favorites</b> at the top of the menu to help you find it quickly.",
+    "History Resource Base": "History Resource Base",
+    "History Resource Bases": "History Resource Bases",
+    "Changes": "Changes"
 }
