@@ -3586,5 +3586,7 @@
     "You can add any view or folder to <b>Favorites</b> at the top of the menu to help you find it quickly.": "You can add any view or folder to <b>Favorites</b> at the top of the menu to help you find it quickly.",
     "History Resource Base": "History Resource Base",
     "History Resource Bases": "History Resource Bases",
-    "Changes": "Changes"
+    "Changes": "Changes",
+    "Only numeric types could be safely casted": "Only numeric types could be safely casted",
+    "The changes you've made in the last {throttleWaitTime} {throttleWaitTime, plural, one {second} other {seconds}} can't be saved because the description was just modified by <a target=\"_blank\" href=\"{userLink}\">{user}</a>.": "The changes you've made in the last {throttleWaitTime} {throttleWaitTime, plural, one {second} other {seconds}} can't be saved because the description was just modified by <a target=\"_blank\" href=\"{userLink}\">{user}</a>."
 }
