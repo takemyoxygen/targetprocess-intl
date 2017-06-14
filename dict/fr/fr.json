@@ -3590,5 +3590,6 @@
     "Only numeric types could be safely casted": "Only numeric types could be safely casted",
     "The changes you've made in the last {throttleWaitTime} {throttleWaitTime, plural, one {second} other {seconds}} can't be saved because the description was just modified by <a target=\"_blank\" href=\"{userLink}\">{user}</a>.": "The changes you've made in the last {throttleWaitTime} {throttleWaitTime, plural, one {second} other {seconds}} can't be saved because the description was just modified by <a target=\"_blank\" href=\"{userLink}\">{user}</a>.",
     "Jump to a view or group": "Jump to a view or group",
-    "We couldn't find anything with a name like that": "We couldn't find anything with a name like that"
+    "We couldn't find anything with a name like that": "We couldn't find anything with a name like that",
+    "Refresh view": "Refresh view"
 }
