@@ -3591,5 +3591,18 @@
     "The changes you've made in the last {throttleWaitTime} {throttleWaitTime, plural, one {second} other {seconds}} can't be saved because the description was just modified by <a target=\"_blank\" href=\"{userLink}\">{user}</a>.": "The changes you've made in the last {throttleWaitTime} {throttleWaitTime, plural, one {second} other {seconds}} can't be saved because the description was just modified by <a target=\"_blank\" href=\"{userLink}\">{user}</a>.",
     "Jump to a view or group": "Jump to a view or group",
     "We couldn't find anything with a name like that": "We couldn't find anything with a name like that",
-    "Refresh view": "Refresh view"
+    "Refresh view": "Refresh view",
+    "Value of system custom field {customFieldName} can be set only by System User or system activities (e.g. metrics).": "Value of system custom field {customFieldName} can be set only by System User or system activities (e.g. metrics).",
+    "Browsed Items": "Browsed Items",
+    "My Recent": "My Recent",
+    "{hours, plural, one {Hr} other {Hrs}}": "{hours, plural, one {Hr} other {Hrs}}",
+    "Yesterday": "Yesterday",
+    "Entity is deleted": "Entity is deleted",
+    "You have no access rights for the entity": "You have no access rights for the entity",
+    "You haven’t yet browsed any entities": "You haven’t yet browsed any entities",
+    "You don’t own any entities": "You don’t own any entities",
+    "Mark all Read": "Mark all Read",
+    "Last Modified": "Last Modified",
+    "Browsed": "Browsed",
+    "System custom fields can be modified only by system users and system activities, for example by metrics": "System custom fields can be modified only by system users and system activities, for example by metrics"
 }
