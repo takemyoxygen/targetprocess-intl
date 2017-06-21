@@ -3604,5 +3604,12 @@
     "Mark all Read": "Mark all Read",
     "Last Modified": "Last Modified",
     "Browsed": "Browsed",
-    "System custom fields can be modified only by system users and system activities, for example by metrics": "System custom fields can be modified only by system users and system activities, for example by metrics"
+    "System custom fields can be modified only by system users and system activities, for example by metrics": "System custom fields can be modified only by system users and system activities, for example by metrics",
+    "Role {role} is unavaliable for {kind}.": "Role {role} is unavaliable for {kind}.",
+    "Role {role} is required for this entity by Process settings.": "Role {role} is required for this entity by Process settings.",
+    "Role '{role}' is not avaliable for this item": "Role '{role}' is not avaliable for this item",
+    "The System User account makes it possible for external applications to connect to Targetprocess. For example, the Service Desk portal and REST API clients use this service account.": "The System User account makes it possible for external applications to connect to Targetprocess. For example, the Service Desk portal and REST API clients use this service account.",
+    "This user is always active and has Administrator access permissions. However, you cannot login under its credentials via the graphical user interface (GUI).": "This user is always active and has Administrator access permissions. However, you cannot login under its credentials via the graphical user interface (GUI).",
+    "More information": "More information",
+    "Configure System User carefully, since it can break existing integrations.": "Configure System User carefully, since it can break existing integrations."
 }
