@@ -3851,5 +3851,8 @@
     "There are no people in this {project}": "There are no people in this {project}",
     "This network is a visualization of direct and hidden dependency relations between any entities in Targetprocess (e.g. {projects}, {userStories}, {features}, {bugs}, tasks, etc.)": "This network is a visualization of direct and hidden dependency relations between any entities in Targetprocess (e.g. {projects}, {userStories}, {features}, {bugs}, tasks, etc.)",
     "{entityKind} start date is required since entity is not in initial state.": "{entityKind} start date is required since entity is not in initial state.",
-    "Filter cards": "Filter cards"
+    "Filter cards": "Filter cards",
+    "Cannot build this chart because projects in {plannableType} {plannableName} have different effort units": "Cannot build this chart because projects in {plannableType} {plannableName} have different effort units",
+    "Select a different set of {projects} for this view. Currently selected {projects} are either inactive or inaccessible for you due to permissions.": "Select a different set of {projects} for this view. Currently selected {projects} are either inactive or inaccessible for you due to permissions.",
+    "This view can only be removed from Favorites by removing its parent group": "This view can only be removed from Favorites by removing its parent group"
 }
