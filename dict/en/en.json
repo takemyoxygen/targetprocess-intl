@@ -3849,5 +3849,7 @@
     "All people in the Team will be assigned to this {project}": "All people in the Team will be assigned to this {project}",
     "Any new person in the Team will be auto-assigned to this {project}": "Any new person in the Team will be auto-assigned to this {project}",
     "There are no people in this {project}": "There are no people in this {project}",
-    "This network is a visualization of direct and hidden dependency relations between any entities in Targetprocess (e.g. {projects}, {userStories}, {features}, {bugs}, tasks, etc.)": "This network is a visualization of direct and hidden dependency relations between any entities in Targetprocess (e.g. {projects}, {userStories}, {features}, {bugs}, tasks, etc.)"
+    "This network is a visualization of direct and hidden dependency relations between any entities in Targetprocess (e.g. {projects}, {userStories}, {features}, {bugs}, tasks, etc.)": "This network is a visualization of direct and hidden dependency relations between any entities in Targetprocess (e.g. {projects}, {userStories}, {features}, {bugs}, tasks, etc.)",
+    "{entityKind} start date is required since entity is not in initial state.": "{entityKind} start date is required since entity is not in initial state.",
+    "Filter cards": "Filter cards"
 }
