@@ -3870,5 +3870,10 @@
     "Current Impediment": "Current Impediment",
     "Current Project Member": "Current Project Member",
     "Current Team Member": "Current Team Member",
-    "Global Terms": "Global Terms"
+    "Global Terms": "Global Terms",
+    "Effort calculations may not be precise because this cell contains more than {cellCardLimit} cards.": "Effort calculations may not be precise because this cell contains more than {cellCardLimit} cards.",
+    "{hours}h left": "{hours}h left",
+    "{hours}h overhead": "{hours}h overhead",
+    "Capacity": "Capacity",
+    "Some cards are not displayed due to the view’s setup.": "Some cards are not displayed due to the view’s setup."
 }
