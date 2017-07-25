@@ -3264,7 +3264,7 @@
     "Owned by Me": "Я владелец",
     "Assigned to Me": "Назначенные на меня",
     "You are not assigned to any entities": "Нет задач, назначенных на меня",
-    "{days, select, 1 {Day} 2 {Days} 3 {Days} 4 {Days} other {Days}}": "{days, select, 1 {День} 2 {Дня} 3 {Дня} 4 {Дня} other {Дней}}",
+    "{days, select, 1 {Day} 2 {Days} 3 {Days} 4 {Days} other {Days}}": "{days, select, 1 {Day} 2 {Days} 3 {Days} 4 {Days} other {Days}}",
     "Custom field '{CustomFieldName}' is defined as calculated for {EntityTypeList} in process '{ProcessName}'. Only regular custom fields are supported as formula targets.": "Дополнительное поле «{CustomFieldName}» является вычисляемым для {EntityTypeList} в процессе «{ProcessName}». Формулу можно задать только для невычисляемого дополнительного поля.",
     "Last State Change": "Последнее изменение статуса",
     "Go to report settings": "Настройки отчёта",
