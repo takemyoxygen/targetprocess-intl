@@ -3876,5 +3876,8 @@
     "{hours}h overhead": "{hours}h overhead",
     "Capacity": "Capacity",
     "Some cards are not displayed due to the view’s setup.": "Some cards are not displayed due to the view’s setup.",
-    "{entityTypeName} {entityName} was added.": "{entityTypeName} {entityName} was added."
+    "{entityTypeName} {entityName} was added.": "{entityTypeName} {entityName} was added.",
+    "Attach To Request": "Attach To Request",
+    "Create...": "Create...",
+    "Jump to...": "Jump to..."
 }
