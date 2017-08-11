@@ -3879,5 +3879,6 @@
     "{entityTypeName} {entityName} was added.": "{entityTypeName} {entityName} was added.",
     "Attach To Request": "Attach To Request",
     "Create...": "Create...",
-    "Jump to...": "Jump to..."
+    "Jump to...": "Jump to...",
+    "Private {project} is visible to {project} team only, admins and observers don't see private {project}": "Private {project} is visible to {project} team only, admins and observers don't see private {project}"
 }
