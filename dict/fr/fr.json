@@ -3881,5 +3881,17 @@
     "Create...": "Create...",
     "Jump to...": "Jump to...",
     "Private {project} is visible to {project} team only, admins and observers don't see private {project}": "Private {project} is visible to {project} team only, admins and observers don't see private {project}",
-    "Link to {type} is broken. Please set correct link to one of the entities from below to resolve this issue.": "Link to {type} is broken. Please set correct link to one of the entities from below to resolve this issue."
+    "Link to {type} is broken. Please set correct link to one of the entities from below to resolve this issue.": "Link to {type} is broken. Please set correct link to one of the entities from below to resolve this issue.",
+    "+ Preview metric results": "+ Preview metric results",
+    "— Preview metric results": "— Preview metric results",
+    "<Empty string>": "<Empty string>",
+    "<Null value>": "<Null value>",
+    "<Unknown or unsupported value>": "<Unknown or unsupported value>",
+    "Here you can see how your configured metric will be calculated for different entities.": "Here you can see how your configured metric will be calculated for different entities.",
+    "Pick an entity from the list below to make a test run. No worries, it's read-only and won't update anything yet!": "Pick an entity from the list below to make a test run. No worries, it's read-only and won't update anything yet!",
+    "Calculating metric results for selected entity...": "Calculating metric results for selected entity...",
+    "Most likely this metric will fail and won't produce a meaningful result for selected entity 😿": "Most likely this metric will fail and won't produce a meaningful result for selected entity 😿",
+    "Some technical details: {error}": "Some technical details: {error}",
+    "If the metric is run for this entity, its field \"{fieldName}\" will be set to {fieldValue}": "If the metric is run for this entity, its field \"{fieldName}\" will be set to {fieldValue}",
+    "If the metric is run for this entity, the following fields will be set:": "If the metric is run for this entity, the following fields will be set:"
 }
