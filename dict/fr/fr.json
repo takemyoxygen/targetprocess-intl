@@ -3893,5 +3893,18 @@
     "Most likely this metric will fail and won't produce a meaningful result for selected entity 😿": "Most likely this metric will fail and won't produce a meaningful result for selected entity 😿",
     "Some technical details: {error}": "Some technical details: {error}",
     "If the metric is run for this entity, its field \"{fieldName}\" will be set to {fieldValue}": "If the metric is run for this entity, its field \"{fieldName}\" will be set to {fieldValue}",
-    "If the metric is run for this entity, the following fields will be set:": "If the metric is run for this entity, the following fields will be set:"
+    "If the metric is run for this entity, the following fields will be set:": "If the metric is run for this entity, the following fields will be set:",
+    "This operation would create circular reference of menu items which is not allowed.": "This operation would create circular reference of menu items which is not allowed.",
+    "This operation would create groups structure with not supported number of levels": "This operation would create groups structure with not supported number of levels",
+    "This {itemType, select, view {View} group {Group} other {{itemType}}} will be visible to all users.": "This {itemType, select, view {View} group {Group} other {{itemType}}} will be visible to all users.",
+    "This {itemType, select, view {View} group {Group} other {{itemType}}} will be visible to you only.": "This {itemType, select, view {View} group {Group} other {{itemType}}} will be visible to you only.",
+    "This {itemType, select, view {View} group {Group} other {{itemType}}} will be visible to these Teams, {projects}, and Users:": "This {itemType, select, view {View} group {Group} other {{itemType}}} will be visible to these Teams, {projects}, and Users:",
+    "This {itemType, select, view {View's} group {Group's} other {{itemType}}} visibility will be changed:": "This {itemType, select, view {View's} group {Group's} other {{itemType}}} visibility will be changed:",
+    "Move {itemType, select, view {View} group {Group} other {{itemType}}}": "Move {itemType, select, view {View} group {Group} other {{itemType}}}",
+    "Remove with all items": "Remove with all items",
+    "Remove this Group with all nested Views and Groups": "Remove this Group with all nested Views and Groups",
+    "You are about to delete this Group and all of its Views and Groups. Do you really want to do that?": "You are about to delete this Group and all of its Views and Groups. Do you really want to do that?",
+    "Remove this Group but keep nested Views and Groups": "Remove this Group but keep nested Views and Groups",
+    "Do you really want to remove this Group? This action will not delete nested Views and Groups.": "Do you really want to remove this Group? This action will not delete nested Views and Groups.",
+    "Save for Group and its items": "Save for Group and its items"
 }
