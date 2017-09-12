@@ -3906,5 +3906,10 @@
     "You are about to delete this Group and all of its Views and Groups. Do you really want to do that?": "You are about to delete this Group and all of its Views and Groups. Do you really want to do that?",
     "Remove this Group but keep nested Views and Groups": "Remove this Group but keep nested Views and Groups",
     "Do you really want to remove this Group? This action will not delete nested Views and Groups.": "Do you really want to remove this Group? This action will not delete nested Views and Groups.",
-    "Save for Group and its items": "Save for Group and its items"
+    "Save for Group and its items": "Save for Group and its items",
+    "of": "of",
+    "Toggle assigned Teams for this {project}": "Toggle assigned Teams for this {project}",
+    "Toggle assigned Projects for this Team": "Toggle assigned Projects for this Team",
+    "{count, plural, one {{count} assigned Team} other {{count} assigned Teams}} will be {allChecked, select, false {} other {un}}selected": "{count, plural, one {{count} assigned Team} other {{count} assigned Teams}} will be {allChecked, select, false {} other {un}}selected",
+    "{count, plural, one {{count} assigned Project} other {{count} assigned Projects}} will be {allChecked, select, false {} other {un}}selected": "{count, plural, one {{count} assigned Project} other {{count} assigned Projects}} will be {allChecked, select, false {} other {un}}selected"
 }
