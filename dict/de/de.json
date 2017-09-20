@@ -3911,5 +3911,10 @@
     "Toggle assigned Teams for this {project}": "Toggle assigned Teams for this {project}",
     "Toggle assigned Projects for this Team": "Toggle assigned Projects for this Team",
     "{count, plural, one {{count} assigned Team} other {{count} assigned Teams}} will be {allChecked, select, false {} other {un}}selected": "{count, plural, one {{count} assigned Team} other {{count} assigned Teams}} will be {allChecked, select, false {} other {un}}selected",
-    "{count, plural, one {{count} assigned Project} other {{count} assigned Projects}} will be {allChecked, select, false {} other {un}}selected": "{count, plural, one {{count} assigned Project} other {{count} assigned Projects}} will be {allChecked, select, false {} other {un}}selected"
+    "{count, plural, one {{count} assigned Project} other {{count} assigned Projects}} will be {allChecked, select, false {} other {un}}selected": "{count, plural, one {{count} assigned Project} other {{count} assigned Projects}} will be {allChecked, select, false {} other {un}}selected",
+    "Create new {newItemType, select, group {Group} board {Board} list {List} timeline {Timeline} oneByOne {One-by-one view} report {Report} dashboard {Dashboard}} inside the current Group": "Create new {newItemType, select, group {Group} board {Board} list {List} timeline {Timeline} oneByOne {One-by-one view} report {Report} dashboard {Dashboard}} inside the current Group",
+    "Group": "Group",
+    "One-by-one view": "One-by-one view",
+    "Report": "Report",
+    "Dashboard": "Dashboard"
 }
