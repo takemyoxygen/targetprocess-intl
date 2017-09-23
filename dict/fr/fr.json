@@ -3916,5 +3916,7 @@
     "Group": "Group",
     "One-by-one view": "One-by-one view",
     "Report": "Report",
-    "Dashboard": "Dashboard"
+    "Dashboard": "Dashboard",
+    "Projects marked as Product will be available in Service Desk": "Projects marked as Product will be available in Service Desk",
+    "Restrics access to the project in Service Desk to requesters added to the Company or Targetprocess users": "Restrics access to the project in Service Desk to requesters added to the Company or Targetprocess users"
 }
