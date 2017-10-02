@@ -3920,5 +3920,22 @@
     "Projects marked as Product will be available in Service Desk": "Projects marked as Product will be available in Service Desk",
     "Restrics access to the project in Service Desk to requesters added to the Company or Targetprocess users": "Restrics access to the project in Service Desk to requesters added to the Company or Targetprocess users",
     "The {entityKind} has no own permissions.": "The {entityKind} has no own permissions.",
-    "Go to team": "Go to team"
+    "Go to team": "Go to team",
+    "Create new {newItemType, select, group {Folder} board {Board} list {List} timeline {Timeline} oneByOne {One-by-one view} report {Report} dashboard {Dashboard}} inside the current Folder": "Create new {newItemType, select, group {Folder} board {Board} list {List} timeline {Timeline} oneByOne {One-by-one view} report {Report} dashboard {Dashboard}} inside the current Folder",
+    "Folder": "Folder",
+    "Remove this Folder with all nested Views and Folders": "Remove this Folder with all nested Views and Folders",
+    "You are about to delete this Folder and all of its Views and Folders. Do you really want to do that?": "You are about to delete this Folder and all of its Views and Folders. Do you really want to do that?",
+    "Remove this Folder but keep nested Views and Folders": "Remove this Folder but keep nested Views and Folders",
+    "Do you really want to remove this Folder? This action will not delete nested Views and Folders.": "Do you really want to remove this Folder? This action will not delete nested Views and Folders.",
+    "{newItemType, select, board {Board} list {List} timeline {Timeline} oneByOne {One-by-one view} group {Folder} report {Report} dashboard {Dashboard} other {{newItemType}} }": "{newItemType, select, board {Board} list {List} timeline {Timeline} oneByOne {One-by-one view} group {Folder} report {Report} dashboard {Dashboard} other {{newItemType}} }",
+    "Create new Folder and Views": "Create new Folder and Views",
+    "Hide Folders and Views from your menu": "Hide Folders and Views from your menu",
+    "Show hidden Folders and Views in your menu": "Show hidden Folders and Views in your menu",
+    "You can not edit Access because it is inherited from parent Folder": "You can not edit Access because it is inherited from parent Folder",
+    "You can not edit Access because you are not admin or owner of this {itemType, select, view {View} group {Folder} customreport {Report} dashboard {Dashboard} other {{itemType}} }": "You can not edit Access because you are not admin or owner of this {itemType, select, view {View} group {Folder} customreport {Report} dashboard {Dashboard} other {{itemType}} }",
+    "{itemType, select, view {Only you as the View owner can see this View. That's the default option for new Views.} group {Only you as the Folder owner can see this Folder. That's the default option for new Folders.} customreport {Only you as the Report owner can see this Report. That's the default option for new Reports.} dashboard {Only you as the Dashboard owner can see this Dashboard. That's the default option for new Dashboards.} other {{itemType}} }": "{itemType, select, view {Only you as the View owner can see this View. That's the default option for new Views.} group {Only you as the Folder owner can see this Folder. That's the default option for new Folders.} customreport {Only you as the Report owner can see this Report. That's the default option for new Reports.} dashboard {Only you as the Dashboard owner can see this Dashboard. That's the default option for new Dashboards.} other {{itemType}} }",
+    "Everyone can see this {itemType, select, view {View} group {Folder} customreport {Report} dashboard {Dashboard} other {{itemType}} }. It will be shown in the left menu.": "Everyone can see this {itemType, select, view {View} group {Folder} customreport {Report} dashboard {Dashboard} other {{itemType}} }. It will be shown in the left menu.",
+    "You as the {itemType, select, view {View} group {Folder} customreport {Report} dashboard {Dashboard} other {{itemType}} } owner or admin decide who can see and change this {itemType, select, view {View} group {Folder} customreport {Report} dashboard {Dashboard} other {{itemType}} }.": "You as the {itemType, select, view {View} group {Folder} customreport {Report} dashboard {Dashboard} other {{itemType}} } owner or admin decide who can see and change this {itemType, select, view {View} group {Folder} customreport {Report} dashboard {Dashboard} other {{itemType}} }.",
+    "Save for Folder and its items": "Save for Folder and its items",
+    "New Folder": "New Folder"
 }
