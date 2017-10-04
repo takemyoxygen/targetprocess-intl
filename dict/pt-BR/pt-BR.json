@@ -3937,5 +3937,14 @@
     "Everyone can see this {itemType, select, view {View} group {Folder} customreport {Report} dashboard {Dashboard} other {{itemType}} }. It will be shown in the left menu.": "Everyone can see this {itemType, select, view {View} group {Folder} customreport {Report} dashboard {Dashboard} other {{itemType}} }. It will be shown in the left menu.",
     "You as the {itemType, select, view {View} group {Folder} customreport {Report} dashboard {Dashboard} other {{itemType}} } owner or admin decide who can see and change this {itemType, select, view {View} group {Folder} customreport {Report} dashboard {Dashboard} other {{itemType}} }.": "You as the {itemType, select, view {View} group {Folder} customreport {Report} dashboard {Dashboard} other {{itemType}} } owner or admin decide who can see and change this {itemType, select, view {View} group {Folder} customreport {Report} dashboard {Dashboard} other {{itemType}} }.",
     "Save for Folder and its items": "Save for Folder and its items",
-    "New Folder": "New Folder"
+    "New Folder": "New Folder",
+    "This {itemType, select, view {View} group {Folder} other {{itemType}}} will be visible to all users.": "This {itemType, select, view {View} group {Folder} other {{itemType}}} will be visible to all users.",
+    "This {itemType, select, view {View} group {Folder} other {{itemType}}} will be visible to you only.": "This {itemType, select, view {View} group {Folder} other {{itemType}}} will be visible to you only.",
+    "This {itemType, select, view {View} group {Folder} other {{itemType}}} will be visible to these Teams, {projects}, and Users:": "This {itemType, select, view {View} group {Folder} other {{itemType}}} will be visible to these Teams, {projects}, and Users:",
+    "This {itemType, select, view {View's} group {Folders's} other {{itemType}}} visibility will be changed:": "This {itemType, select, view {View's} group {Folders's} other {{itemType}}} visibility will be changed:",
+    "Make this Folder visible to all or selected teams": "Make this Folder visible to all or selected teams",
+    "Hide this Folder from your menu": "Hide this Folder from your menu",
+    "Show this Folder in your menu": "Show this Folder in your menu",
+    "{itemType, select, view {View '{name}' has} group {Folder '{name}' and its Views have} customreport {Report '{name}' has} dashboard {Dashboard '{name}' has} other {{itemType}}} been deleted.": "{itemType, select, view {View '{name}' has} group {Folder '{name}' and its Views have} customreport {Report '{name}' has} dashboard {Dashboard '{name}' has} other {{itemType}}} been deleted.",
+    "This view can only be removed from Favorites by removing its parent folder": "This view can only be removed from Favorites by removing its parent folder"
 }
