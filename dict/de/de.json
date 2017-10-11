@@ -3946,5 +3946,6 @@
     "Hide this Folder from your menu": "Hide this Folder from your menu",
     "Show this Folder in your menu": "Show this Folder in your menu",
     "{itemType, select, view {View '{name}' has} group {Folder '{name}' and its Views have} customreport {Report '{name}' has} dashboard {Dashboard '{name}' has} other {{itemType}}} been deleted.": "{itemType, select, view {View '{name}' has} group {Folder '{name}' and its Views have} customreport {Report '{name}' has} dashboard {Dashboard '{name}' has} other {{itemType}}} been deleted.",
-    "This view can only be removed from Favorites by removing its parent folder": "This view can only be removed from Favorites by removing its parent folder"
+    "This view can only be removed from Favorites by removing its parent folder": "This view can only be removed from Favorites by removing its parent folder",
+    "Remove with all views": "Remove with all views"
 }
