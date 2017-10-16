@@ -3947,5 +3947,8 @@
     "Show this Folder in your menu": "Show this Folder in your menu",
     "{itemType, select, view {View '{name}' has} group {Folder '{name}' and its Views have} customreport {Report '{name}' has} dashboard {Dashboard '{name}' has} other {{itemType}}} been deleted.": "{itemType, select, view {View '{name}' has} group {Folder '{name}' and its Views have} customreport {Report '{name}' has} dashboard {Dashboard '{name}' has} other {{itemType}}} been deleted.",
     "This view can only be removed from Favorites by removing its parent folder": "This view can only be removed from Favorites by removing its parent folder",
-    "Remove with all views": "Remove with all views"
+    "Remove with all views": "Remove with all views",
+    "Toggle assigned {projects} for this Team": "Toggle assigned {projects} for this Team",
+    "{count, plural, one {{count} assigned Team} other {{count} assigned Teams}} will be {allChecked, select, false {} other {de}}selected": "{count, plural, one {{count} assigned Team} other {{count} assigned Teams}} will be {allChecked, select, false {} other {de}}selected",
+    "{count, plural, one {{count} assigned {project}} other {{count} assigned {projects}}} will be {allChecked, select, false {} other {de}}selected": "{count, plural, one {{count} assigned {project}} other {{count} assigned {projects}}} will be {allChecked, select, false {} other {de}}selected"
 }
