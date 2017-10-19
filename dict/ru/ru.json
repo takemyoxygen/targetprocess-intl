@@ -3950,5 +3950,6 @@
     "Remove with all views": "Remove with all views",
     "Toggle assigned {projects} for this Team": "Toggle assigned {projects} for this Team",
     "{count, plural, one {{count} assigned Team} other {{count} assigned Teams}} will be {allChecked, select, false {} other {de}}selected": "{count, plural, one {{count} assigned Team} other {{count} assigned Teams}} will be {allChecked, select, false {} other {de}}selected",
-    "{count, plural, one {{count} assigned {project}} other {{count} assigned {projects}}} will be {allChecked, select, false {} other {de}}selected": "{count, plural, one {{count} assigned {project}} other {{count} assigned {projects}}} will be {allChecked, select, false {} other {de}}selected"
+    "{count, plural, one {{count} assigned {project}} other {{count} assigned {projects}}} will be {allChecked, select, false {} other {de}}selected": "{count, plural, one {{count} assigned {project}} other {{count} assigned {projects}}} will be {allChecked, select, false {} other {de}}selected",
+    "All Views": "All Views"
 }
