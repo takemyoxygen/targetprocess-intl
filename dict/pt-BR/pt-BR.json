@@ -3951,5 +3951,15 @@
     "Toggle assigned {projects} for this Team": "Toggle assigned {projects} for this Team",
     "{count, plural, one {{count} assigned Team} other {{count} assigned Teams}} will be {allChecked, select, false {} other {de}}selected": "{count, plural, one {{count} assigned Team} other {{count} assigned Teams}} will be {allChecked, select, false {} other {de}}selected",
     "{count, plural, one {{count} assigned {project}} other {{count} assigned {projects}}} will be {allChecked, select, false {} other {de}}selected": "{count, plural, one {{count} assigned {project}} other {{count} assigned {projects}}} will be {allChecked, select, false {} other {de}}selected",
-    "All Views": "All Views"
+    "All Views": "All Views",
+    "This card can't be moved here because there is no such value for this custom field": "This card can't be moved here because there is no such value for this custom field",
+    "{cf} custom field is required so it can't be empty.": "{cf} custom field is required so it can't be empty.",
+    "We've added a few your most-used views to Favorites to make it easier for you to find them next time.": "We've added a few your most-used views to Favorites to make it easier for you to find them next time.",
+    "Revert": "Revert",
+    "Reverted!": "Reverted!",
+    "We won't automatically add views to your Favorites again.": "We won't automatically add views to your Favorites again.",
+    "{memberLink} was invited.": "{memberLink} was invited.",
+    "{membersCount} Users were invited.": "{membersCount} Users were invited.",
+    "{memberLink} is already assigned to the {entityTerm}.": "{memberLink} is already assigned to the {entityTerm}.",
+    "{membersCount} Users are already assigned to the {entityTerm}.": "{membersCount} Users are already assigned to the {entityTerm}."
 }
