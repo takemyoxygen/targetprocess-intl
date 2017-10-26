@@ -3961,5 +3961,11 @@
     "{memberLink} was invited.": "{memberLink} was invited.",
     "{membersCount} Users were invited.": "{membersCount} Users were invited.",
     "{memberLink} is already assigned to the {entityTerm}.": "{memberLink} is already assigned to the {entityTerm}.",
-    "{membersCount} Users are already assigned to the {entityTerm}.": "{membersCount} Users are already assigned to the {entityTerm}."
+    "{membersCount} Users are already assigned to the {entityTerm}.": "{membersCount} Users are already assigned to the {entityTerm}.",
+    "Targetprocess was updated. See": "Targetprocess was updated. See",
+    "what's new": "what's new",
+    "What's new in build": "What's new in build",
+    "Join our UX Community": "Join our UX Community",
+    "Comment on our blog": "Comment on our blog",
+    "What's new?": "What's new?"
 }
