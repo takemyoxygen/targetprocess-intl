@@ -14,9 +14,9 @@
     "name": "French",
     "stats": {
       "totalTokensCount": 4026,
-      "translatedTokensCount": 3584,
+      "translatedTokensCount": 4026,
       "reviewedTokensCount": 3504,
-      "translatedWordsCount": 19393
+      "translatedWordsCount": 23623
     }
   },
   {
@@ -54,9 +54,9 @@
     "name": "Spanish",
     "stats": {
       "totalTokensCount": 4026,
-      "translatedTokensCount": 3585,
+      "translatedTokensCount": 4026,
       "reviewedTokensCount": 3531,
-      "translatedWordsCount": 19365
+      "translatedWordsCount": 23623
     }
   }
 ]
