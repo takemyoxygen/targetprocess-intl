@@ -3967,5 +3967,8 @@
     "What's new in build": "What's new in build",
     "Join our UX Community": "Join our UX Community",
     "Comment on our blog": "Comment on our blog",
-    "What's new?": "What's new?"
+    "What's new?": "What's new?",
+    "Effort Todo": "Effort Todo",
+    "Total Effort": "Total Effort",
+    "Custom formula length is more than {maxLength}. It is {actualLength}.": "Custom formula length is more than {maxLength}. It is {actualLength}."
 }
