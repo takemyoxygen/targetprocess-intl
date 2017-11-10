@@ -3970,5 +3970,7 @@
     "What's new?": "What's new?",
     "Effort Todo": "Effort Todo",
     "Total Effort": "Total Effort",
-    "Custom formula length is more than {maxLength}. It is {actualLength}.": "Custom formula length is more than {maxLength}. It is {actualLength}."
+    "Custom formula length is more than {maxLength}. It is {actualLength}.": "Custom formula length is more than {maxLength}. It is {actualLength}.",
+    "Edit {fieldName}": "Edit {fieldName}",
+    "Released on {date}": "Released on {date}"
 }
