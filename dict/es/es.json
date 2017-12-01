@@ -3976,5 +3976,7 @@
     "Copy Comments": "Copy Comments",
     "Could not make conversion between {type1} and {type2}.": "Could not make conversion between {type1} and {type2}.",
     "Describe what is on this view": "Describe what is on this view",
-    "This information will be available for everyone with access to this view.": "This information will be available for everyone with access to this view."
+    "This information will be available for everyone with access to this view.": "This information will be available for everyone with access to this view.",
+    "Click on the title to see view details such as description, filters and visual encoding.": "Click on the title to see view details such as description, filters and visual encoding.",
+    "Entities displayed on this view": "Entities displayed on this view"
 }
