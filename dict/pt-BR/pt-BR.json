@@ -2848,7 +2848,7 @@
     "System User": "Usuário do Sistema",
     "System Users": "Usuários do Sistema",
     "{days, plural, =0 {} one {{days} day} other {{days} days} } {hours, plural, =0 {} one {{hours} hour} other {{hours} hours} } {minutes, plural, =0 {} one {{minutes} minute} other {{minutes} minutes} }": "{days, plural, =0 {} one {{days} dia} other {{days} dias} } {hours, plural, =0 {} one {{hours} hora} other {{hours} horas} } {minutes, plural, =0 {} one {{minutes} minuto} other {{minutes} minutos} }",
-    "{days, plural, =0 {} other {{days}d} } {hours, plural, =0 {} other {{hours}h} } {minutes, plural, =0 {} other {{minutes}min} }": "{days, plural, =0 {} other {{dias}d} } {hours, plural, =0 {} other {{horas}h} } {minutes, plural, =0 {} other {{munutos}min} }",
+    "{days, plural, =0 {} other {{days}d} } {hours, plural, =0 {} other {{hours}h} } {minutes, plural, =0 {} other {{minutes}min} }": "{days, plural, =0 {} other {{days}d} } {hours, plural, =0 {} other {{hours}h} } {minutes, plural, =0 {} other {{minutes}min} }",
     "Something weird happened. Please {contactSupportLink} to identify the issue and fix it.": "Algo estranho aconteceu. {contactSupportLink} para que o problema seja identificado e corrigido.",
     "Limits for {axisName} lane": "Limites para a rota {axisName}",
     "This program has no projects": "Este programa não tem projetos",
