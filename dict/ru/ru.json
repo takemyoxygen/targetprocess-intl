@@ -3979,5 +3979,6 @@
     "This information will be available for everyone with access to this view.": "This information will be available for everyone with access to this view.",
     "Click on the title to see view details such as description, filters and visual encoding.": "Click on the title to see view details such as description, filters and visual encoding.",
     "Entities displayed on this view": "Entities displayed on this view",
-    "It is not possible to move {targetEntityKind} in {axisEntityKind} axis. {axisEntityKind} is not available for current process.": "It is not possible to move {targetEntityKind} in {axisEntityKind} axis. {axisEntityKind} is not available for current process."
+    "It is not possible to move {targetEntityKind} in {axisEntityKind} axis. {axisEntityKind} is not available for current process.": "It is not possible to move {targetEntityKind} in {axisEntityKind} axis. {axisEntityKind} is not available for current process.",
+    "This information will be shown in the view’s legend popup (available by clicking on the view’s title).": "This information will be shown in the view’s legend popup (available by clicking on the view’s title)."
 }
