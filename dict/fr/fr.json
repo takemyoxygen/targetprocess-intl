@@ -3980,5 +3980,13 @@
     "Click on the title to see view details such as description, filters and visual encoding.": "Click on the title to see view details such as description, filters and visual encoding.",
     "Entities displayed on this view": "Entities displayed on this view",
     "It is not possible to move {targetEntityKind} in {axisEntityKind} axis. {axisEntityKind} is not available for current process.": "It is not possible to move {targetEntityKind} in {axisEntityKind} axis. {axisEntityKind} is not available for current process.",
-    "This information will be shown in the view’s legend popup (available by clicking on the view’s title).": "This information will be shown in the view’s legend popup (available by clicking on the view’s title)."
+    "This information will be shown in the view’s legend popup (available by clicking on the view’s title).": "This information will be shown in the view’s legend popup (available by clicking on the view’s title).",
+    "Open: {openCount} / Total: {totalCount}": "Open: {openCount} / Total: {totalCount}",
+    "Open/Total tasks": "Open/Total tasks",
+    "Open/Total {entityTerm}": "Open/Total {entityTerm}",
+    "Open/Total test plan runs": "Open/Total test plan runs",
+    "Todo/Total effort": "Todo/Total effort",
+    "Time spent/Time remaining": "Time spent/Time remaining",
+    "Spent: {timeSpent} / Remain: {timeRemain}": "Spent: {timeSpent} / Remain: {timeRemain}",
+    "Spent: {spent} / Remain: {remain}": "Spent: {spent} / Remain: {remain}"
 }
