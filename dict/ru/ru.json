@@ -234,7 +234,7 @@
     "Focus on this team": "Сфокусироваться на этой команде",
     "View info about this team": "Подробнее об этой команде",
     "New program": "Новая программа",
-    "Enter program name here": "Введите здесь название программы",
+    "Enter program name here": "Введите здесь имя программы",
     "Include projects": "Включить проекты",
     "No Projects available so far.": "Пока нет доступных проектов.",
     "You can add new Projects to Program later.": "Вы можете добавить новые проекты в программу позже.",
@@ -3988,5 +3988,6 @@
     "Todo/Total effort": "Todo/Total effort",
     "Time spent/Time remaining": "Time spent/Time remaining",
     "Spent: {timeSpent} / Remain: {timeRemain}": "Spent: {timeSpent} / Remain: {timeRemain}",
-    "Spent: {spent} / Remain: {remain}": "Spent: {spent} / Remain: {remain}"
+    "Spent: {spent} / Remain: {remain}": "Spent: {spent} / Remain: {remain}",
+    "Other users who open this view will see a different set of data. If you want other users to see consistent data, set {projects} and Teams for this view.": "Other users who open this view will see a different set of data. If you want other users to see consistent data, set {projects} and Teams for this view."
 }
