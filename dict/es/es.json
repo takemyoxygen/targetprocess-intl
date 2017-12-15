@@ -3989,5 +3989,6 @@
     "Time spent/Time remaining": "Time spent/Time remaining",
     "Spent: {timeSpent} / Remain: {timeRemain}": "Spent: {timeSpent} / Remain: {timeRemain}",
     "Spent: {spent} / Remain: {remain}": "Spent: {spent} / Remain: {remain}",
-    "Other users who open this view will see a different set of data. If you want other users to see consistent data, set {projects} and Teams for this view.": "Other users who open this view will see a different set of data. If you want other users to see consistent data, set {projects} and Teams for this view."
+    "Other users who open this view will see a different set of data. If you want other users to see consistent data, set {projects} and Teams for this view.": "Other users who open this view will see a different set of data. If you want other users to see consistent data, set {projects} and Teams for this view.",
+    "View Full Size": "View Full Size"
 }
