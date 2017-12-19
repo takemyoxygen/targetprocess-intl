@@ -15,7 +15,7 @@
     "stats": {
       "totalTokensCount": 4059,
       "translatedTokensCount": 4026,
-      "reviewedTokensCount": 3504,
+      "reviewedTokensCount": 4026,
       "translatedWordsCount": 23623
     }
   },
@@ -25,7 +25,7 @@
     "stats": {
       "totalTokensCount": 4059,
       "translatedTokensCount": 4057,
-      "reviewedTokensCount": 3535,
+      "reviewedTokensCount": 4057,
       "translatedWordsCount": 23784
     }
   },
@@ -35,7 +35,7 @@
     "stats": {
       "totalTokensCount": 4059,
       "translatedTokensCount": 4029,
-      "reviewedTokensCount": 3505,
+      "reviewedTokensCount": 4029,
       "translatedWordsCount": 23637
     }
   },
@@ -55,7 +55,7 @@
     "stats": {
       "totalTokensCount": 4059,
       "translatedTokensCount": 4026,
-      "reviewedTokensCount": 3531,
+      "reviewedTokensCount": 4026,
       "translatedWordsCount": 23623
     }
   }
