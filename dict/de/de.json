@@ -3990,5 +3990,6 @@
     "Spent: {timeSpent} / Remain: {timeRemain}": "Aufgewendet: {timeSpent} / Verbleibend: {timeRemain}",
     "Spent: {spent} / Remain: {remain}": "Aufgewendet: {spent} / Verbleibend: {remain}",
     "Other users who open this view will see a different set of data. If you want other users to see consistent data, set {projects} and Teams for this view.": "Other users who open this view will see a different set of data. If you want other users to see consistent data, set {projects} and Teams for this view.",
-    "View Full Size": "View Full Size"
+    "View Full Size": "View Full Size",
+    "Run results can't be changed while Test Plan Run is in its final state.": "Run results can't be changed while Test Plan Run is in its final state."
 }
