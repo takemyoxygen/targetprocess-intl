@@ -4005,5 +4005,6 @@
     "Move to top": "Move to top",
     "My Assignments tab": "My Assignments tab",
     "Something weird happened. Please try again": "Something weird happened. Please try again",
-    "My Items": "My Items"
+    "My Items": "My Items",
+    "BoardId is required to persist expansion state": "BoardId is required to persist expansion state"
 }
