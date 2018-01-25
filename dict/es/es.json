@@ -4006,5 +4006,8 @@
     "My Assignments tab": "My Assignments tab",
     "Something weird happened. Please try again": "Something weird happened. Please try again",
     "My Items": "My Items",
-    "BoardId is required to persist expansion state": "BoardId is required to persist expansion state"
+    "BoardId is required to persist expansion state": "BoardId is required to persist expansion state",
+    "Upload a new photo": "Upload a new photo",
+    "Edit photo": "Edit photo",
+    "Update photo": "Update photo"
 }
