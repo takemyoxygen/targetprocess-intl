@@ -4009,5 +4009,7 @@
     "BoardId is required to persist expansion state": "BoardId is required to persist expansion state",
     "Upload a new photo": "Upload a new photo",
     "Edit photo": "Edit photo",
-    "Update photo": "Update photo"
+    "Update photo": "Update photo",
+    "Unable to determine currently logged in user": "Unable to determine currently logged in user",
+    "Card has been successfully reprioritized to the top of it's cell.": "Card has been successfully reprioritized to the top of it's cell."
 }
