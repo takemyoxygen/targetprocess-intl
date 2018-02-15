@@ -4011,5 +4011,7 @@
     "Edit photo": "Edit photo",
     "Update photo": "Update photo",
     "Unable to determine currently logged in user": "Unable to determine currently logged in user",
-    "Card has been successfully reprioritized to the top of it's cell.": "Card has been successfully reprioritized to the top of it's cell."
+    "Card has been successfully reprioritized to the top of it's cell.": "Card has been successfully reprioritized to the top of it's cell.",
+    "No time calculation": "No time calculation",
+    "Disables automatic time calculation": "Disables automatic time calculation"
 }
