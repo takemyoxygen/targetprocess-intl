@@ -4037,5 +4037,15 @@
     "Use <span class=\"bold\">Roles</span> to manage permissions for adding, editing, and deleting work.": "Use <span class=\"bold\">Roles</span> to manage permissions for adding, editing, and deleting work.",
     "More on Projects and Teams": "More on Projects and Teams",
     "Team members access": "Team members access",
-    "CSV export delimiter": "CSV export delimiter"
+    "CSV export delimiter": "CSV export delimiter",
+    "Invalid entity field name. Name should have format \"CustomField[1-{maxCustomFieldCount}]\"": "Invalid entity field name. Name should have format \"CustomField[1-{maxCustomFieldCount}]\"",
+    "Copy link": "Copy link",
+    "Copy {linksCount, plural, =1 {link} other {links }}": "Copy {linksCount, plural, =1 {link} other {links }}",
+    "Assign to me": "Assign to me",
+    "Change assignment and effort": "Change assignment and effort",
+    "Change tags": "Change tags",
+    "Copying {linksCount, plural, =1 {link} other {links}}...": "Copying {linksCount, plural, =1 {link} other {links}}...",
+    "Copy {linksCount, plural, =1 {link} other {links}}": "Copy {linksCount, plural, =1 {link} other {links}}",
+    "Please, copy selection!": "Please, copy selection!",
+    "Add Tag": "Add Tag"
 }
