@@ -4047,5 +4047,16 @@
     "Copying {linksCount, plural, =1 {link} other {links}}...": "Copying {linksCount, plural, =1 {link} other {links}}...",
     "Copy {linksCount, plural, =1 {link} other {links}}": "Copy {linksCount, plural, =1 {link} other {links}}",
     "Please, copy selection!": "Please, copy selection!",
-    "Add Tag": "Add Tag"
+    "Add Tag": "Add Tag",
+    "Requests List": "Requests List",
+    "Assignable Efforts": "Assignable Efforts",
+    "Assignable Effort For Assignable Container": "Assignable Effort For Assignable Container",
+    "Assignable Effort For Assignable Containers": "Assignable Effort For Assignable Containers",
+    "Entity Type Name": "Entity Type Name",
+    "SMTP Enable Ssl Via Start Tls": "SMTP Enable Ssl Via Start Tls",
+    "Workspace Id": "Workspace Id",
+    "Previous History Record": "Previous History Record",
+    "Rank With Final In The Bottom": "Rank With Final In The Bottom",
+    "SMTP Enable SSL Via STARTTLS": "SMTP Enable SSL Via STARTTLS",
+    "Test localized fields text": "Test localized fields text"
 }
