@@ -4100,5 +4100,8 @@
     "Custom Field99": "Custom Field99",
     "Custom Field100": "Custom Field100",
     "Is Full Project Access": "Is Full Project Access",
-    "Is Default Full Project Access": "Is Default Full Project Access"
+    "Is Default Full Project Access": "Is Default Full Project Access",
+    "{entity} will be copied to another Process": "{entity} will be copied to another Process",
+    "You may lose some custom field values. {proceed}": "You may lose some custom field values. {proceed}",
+    "Proceed anyway?": "Proceed anyway?"
 }
