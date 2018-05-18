@@ -4107,5 +4107,8 @@
     "Custom formula error: {errorDetails}": "Custom formula error: {errorDetails}",
     "Formula with the value of type '{type}' can't be mapped to custom fields. Supported formula types: {supportedTypeList}": "Formula with the value of type '{type}' can't be mapped to custom fields. Supported formula types: {supportedTypeList}",
     "There is no custom field of matching type named '{customFieldName}' for {entityTypeList} in process '{processName}'": "There is no custom field of matching type named '{customFieldName}' for {entityTypeList} in process '{processName}'",
-    "Custom field '{customFieldName}' is defined as calculated for {entityTypeList} in process '{processName}'. Only regular custom fields are supported as formula targets.": "Custom field '{customFieldName}' is defined as calculated for {entityTypeList} in process '{processName}'. Only regular custom fields are supported as formula targets."
+    "Custom field '{customFieldName}' is defined as calculated for {entityTypeList} in process '{processName}'. Only regular custom fields are supported as formula targets.": "Custom field '{customFieldName}' is defined as calculated for {entityTypeList} in process '{processName}'. Only regular custom fields are supported as formula targets.",
+    "Use Projects and Teams from Dashboard": "Use Projects and Teams from Dashboard",
+    "No Custom Field names found": "No Custom Field names found",
+    "Type Custom Field name here": "Type Custom Field name here"
 }
