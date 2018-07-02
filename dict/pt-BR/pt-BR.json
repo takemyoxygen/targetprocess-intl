@@ -4110,5 +4110,10 @@
     "Custom field '{customFieldName}' is defined as calculated for {entityTypeList} in process '{processName}'. Only regular custom fields are supported as formula targets.": "Custom field '{customFieldName}' is defined as calculated for {entityTypeList} in process '{processName}'. Only regular custom fields are supported as formula targets.",
     "Use Projects and Teams from Dashboard": "Use Projects and Teams from Dashboard",
     "No Custom Field names found": "No Custom Field names found",
-    "Type Custom Field name here": "Type Custom Field name here"
+    "Type Custom Field name here": "Type Custom Field name here",
+    "was added": "was added",
+    "was successfully added but it won’t be displayed at this View because it does not match the view filter condition.": "was successfully added but it won’t be displayed at this View because it does not match the view filter condition.",
+    "Find out": "Find out",
+    "why this happens?": "why this happens?",
+    "Warning": "Warning"
 }
