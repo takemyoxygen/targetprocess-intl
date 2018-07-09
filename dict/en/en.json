@@ -4115,5 +4115,6 @@
     "was successfully added but it won’t be displayed at this View because it does not match the view filter condition.": "was successfully added but it won’t be displayed at this View because it does not match the view filter condition.",
     "Find out": "Find out",
     "why this happens?": "why this happens?",
-    "Warning": "Warning"
+    "Warning": "Warning",
+    "You can assign multiple teams to {entityTypePlural} only when each team uses their own Team Workflow.": "You can assign multiple teams to {entityTypePlural} only when each team uses their own Team Workflow."
 }
