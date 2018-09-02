@@ -4121,5 +4121,6 @@
     "Assigning {releaseKind} to the {teamIterationKind} is forbidden unless feature 'ReleaseForTeamIteration' is enabled": "Assigning {releaseKind} to the {teamIterationKind} is forbidden unless feature 'ReleaseForTeamIteration' is enabled",
     "{releaseKind} should be assigned to a {projectKind} related to the {teamKind} of the {teamIterationKind}": "{releaseKind} should be assigned to a {projectKind} related to the {teamKind} of the {teamIterationKind}",
     "No Release": "No Release",
-    "{featureTerm} and its {teamIterationTerm} should be linked to the same {releaseTerm}.": "{featureTerm} and its {teamIterationTerm} should be linked to the same {releaseTerm}."
+    "{featureTerm} and its {teamIterationTerm} should be linked to the same {releaseTerm}.": "{featureTerm} and its {teamIterationTerm} should be linked to the same {releaseTerm}.",
+    "There are no {releaseTerm} in common for selected items": "There are no {releaseTerm} in common for selected items"
 }
