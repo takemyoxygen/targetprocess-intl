@@ -4122,5 +4122,13 @@
     "{releaseKind} should be assigned to a {projectKind} related to the {teamKind} of the {teamIterationKind}": "{releaseKind} should be assigned to a {projectKind} related to the {teamKind} of the {teamIterationKind}",
     "No Release": "No Release",
     "{featureTerm} and its {teamIterationTerm} should be linked to the same {releaseTerm}.": "{featureTerm} and its {teamIterationTerm} should be linked to the same {releaseTerm}.",
-    "There are no {releaseTerm} in common for selected items": "There are no {releaseTerm} in common for selected items"
+    "There are no {releaseTerm} in common for selected items": "There are no {releaseTerm} in common for selected items",
+    "Entity Operation ID": "Entity Operation ID",
+    "Grant Access": "Grant Access",
+    "Entity Operation": "Entity Operation",
+    "Entity Operations": "Entity Operations",
+    "Entity Permission ID": "Entity Permission ID",
+    "Entity ID": "Entity ID",
+    "Entity Permission": "Entity Permission",
+    "Entity Permissions": "Entity Permissions"
 }
