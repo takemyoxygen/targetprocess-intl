@@ -4130,5 +4130,12 @@
     "Entity Permission ID": "Entity Permission ID",
     "Entity ID": "Entity ID",
     "Entity Permission": "Entity Permission",
-    "Entity Permissions": "Entity Permissions"
+    "Entity Permissions": "Entity Permissions",
+    "Portfolio Epics": "Portfolio Epics",
+    "Portfolio Epic": "Portfolio Epic",
+    "Master Portfolio Epic": "Master Portfolio Epic",
+    "Slave Portfolio Epic": "Slave Portfolio Epic",
+    "Portfolio Epic ID": "Portfolio Epic ID",
+    "Add portfolio epic": "Add portfolio epic",
+    "Go to portfolio epic tab": "Go to portfolio epic tab"
 }
