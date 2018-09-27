@@ -4137,5 +4137,7 @@
     "Slave Portfolio Epic": "Slave Portfolio Epic",
     "Portfolio Epic ID": "Portfolio Epic ID",
     "Add portfolio epic": "Add portfolio epic",
-    "Go to portfolio epic tab": "Go to portfolio epic tab"
+    "Go to portfolio epic tab": "Go to portfolio epic tab",
+    "{featureTerm} and its {teamIterationTerm} should be linked to the same {releaseTerm} for accurate {releaseTerm} effort totals.": "{featureTerm} and its {teamIterationTerm} should be linked to the same {releaseTerm} for accurate {releaseTerm} effort totals.",
+    "{release} of {teamIteration} cannot contain this {entityType} as it is not assigned to the same {project}.": "{release} of {teamIteration} cannot contain this {entityType} as it is not assigned to the same {project}."
 }
