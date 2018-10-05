@@ -3,17 +3,17 @@
     "code": "en",
     "name": "English",
     "stats": {
-      "totalTokensCount": 4376,
-      "translatedTokensCount": 4376,
+      "totalTokensCount": 4382,
+      "translatedTokensCount": 4382,
       "reviewedTokensCount": 0,
-      "translatedWordsCount": 25515
+      "translatedWordsCount": 25554
     }
   },
   {
     "code": "fr",
     "name": "French",
     "stats": {
-      "totalTokensCount": 4376,
+      "totalTokensCount": 4382,
       "translatedTokensCount": 4123,
       "reviewedTokensCount": 4071,
       "translatedWordsCount": 23975
@@ -23,7 +23,7 @@
     "code": "de",
     "name": "German",
     "stats": {
-      "totalTokensCount": 4376,
+      "totalTokensCount": 4382,
       "translatedTokensCount": 4153,
       "reviewedTokensCount": 4104,
       "translatedWordsCount": 24144
@@ -33,7 +33,7 @@
     "code": "pt-BR",
     "name": "Portuguese (Brazil)",
     "stats": {
-      "totalTokensCount": 4376,
+      "totalTokensCount": 4382,
       "translatedTokensCount": 4131,
       "reviewedTokensCount": 4029,
       "translatedWordsCount": 24012
@@ -43,7 +43,7 @@
     "code": "ru",
     "name": "Russian",
     "stats": {
-      "totalTokensCount": 4376,
+      "totalTokensCount": 4382,
       "translatedTokensCount": 3827,
       "reviewedTokensCount": 3607,
       "translatedWordsCount": 20715
@@ -53,7 +53,7 @@
     "code": "es",
     "name": "Spanish",
     "stats": {
-      "totalTokensCount": 4376,
+      "totalTokensCount": 4382,
       "translatedTokensCount": 4119,
       "reviewedTokensCount": 4072,
       "translatedWordsCount": 23967
