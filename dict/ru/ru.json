@@ -4145,5 +4145,6 @@
     "User can't be changed on existing entity permissions": "User can't be changed on existing entity permissions",
     "Entity Type can't be changed on existing entity permissions": "Entity Type can't be changed on existing entity permissions",
     "Entity Id can't be changed on existing entity permissions": "Entity Id can't be changed on existing entity permissions",
-    "Entity Id": "Entity Id"
+    "Entity Id": "Entity Id",
+    "{releaseKind} assignment to {teamIterationKind} is currently inactive in account configuration": "{releaseKind} assignment to {teamIterationKind} is currently inactive in account configuration"
 }
