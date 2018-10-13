@@ -58,5 +58,15 @@
       "reviewedTokensCount": 4072,
       "translatedWordsCount": 23967
     }
+  },
+  {
+    "code": "ja",
+    "name": "Japanese",
+    "stats": {
+      "totalTokensCount": 4407,
+      "translatedTokensCount": 4407,
+      "reviewedTokensCount": 0,
+      "translatedWordsCount": 25627
+    }
   }
 ]
