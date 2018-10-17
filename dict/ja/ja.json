@@ -2909,7 +2909,7 @@
     "'{workflowName}' workflow name is not allowed for project workflows please use '{expetedName}' instead.": "' 不明 ' ワークフロー名はプロジェクトワークフローに対して許可されていません。代わりに「不明」を使用してください。",
     "Please, select a type to convert to.": "変換する型を選択してください。",
     "Entity cannot be converted.": "エンティティを変換できません。",
-    "{localeName}": "未知",
+    "{localeName}": "{localeName}",
     "Note: System settings are only available in English": "注: システム設定は英語でのみ使用できます。",
     "It's not possible to allocate inactive {sourceEntityKind} '{sourceEntityName}' to the {targetEntityKind}. Please, make the {sourceEntityKind} '{sourceEntityName}' active to allow allocations.": "非アクティブな未知の ' 不明 ' を割り当てることはできません。してください、未知の \"未知の\" アクティブな割り当てを許可するようにします。",
     "Calculated based on the progress of user stories in the project, project start date and the current date. Shown only when more than 10% of work has been completed.": "プロジェクトのユーザーストーリーの進行状況、プロジェクトの開始日、および現在の日付に基づいて計算されます。作業の 10% 以上が完了した場合にのみ表示されます。",
